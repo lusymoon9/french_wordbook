@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#1d6f9c"/>
+  <text x="256" y="296" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif" font-size="240" font-weight="700" fill="#ffffff" text-anchor="middle">Fr</text>
+  <circle cx="380" cy="140" r="22" fill="#ffffff" opacity="0.85"/>
+  <rect x="332" y="180" width="96" height="14" rx="7" fill="#ffffff" opacity="0.85"/>
+</svg>

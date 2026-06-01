@@ -1,0 +1,20 @@
+{
+  "name": "프랑스어 단어장",
+  "short_name": "단어장",
+  "description": "Nini의 프랑스어 플래시카드 + 객관식 퀴즈 앱",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fafaf7",
+  "theme_color": "#1d6f9c",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+french,korean,example
+je / tu / il / on / nous / vous / ils,주격 인칭대명사,Je suis ici.
+suis / es / est / sommes / êtes / sont,-이다,Je suis médecin.
+ai / as / a / avons / avez / ont,갖고 있다,J'ai un chat.
+aime / aimes / aime / aimons / aimez / aiment,좋아하다,J'aime le café.
+vais / vas / va / allons / allez / vont,가다,Je vais à Paris.
+viens / viens / vient / venons / venez / viennent,-에서 오다,Je viens de Corée.
+prends / prends / prend / prenons / prenez / prennent,"타다, 가져가다, 사진 찍다, 먹다, 마시다, 휴가 보내다",Je prends le bus.
+peux / peux / peut / pouvons / pouvez / peuvent,할 수 있다,Je peux nager.
+veux / veux / veut / voulons / voulez / veulent,원하다,Je veux un café.
+vois / vois / voit / voyons / voyez / voient,보다,Je vois la mer.
+joue / joues / joue / jouons / jouez / jouent,"놀다, 경기하다, 연주하다",Je joue au tennis.
+fais / fais / fait / faisons / faites / font,"하다, 만들다",Je fais du sport.
+appeler / appelle,-라고 한다,Je m'appelle Nini.
+marcher / marche,걷다,Je marche dans le parc.
+sortir / sors / sort,나오다,Je sors ce soir.
+partir / pars / part / partez,-으로 떠나다,Je pars à Paris.
+habiter / habite,-에 살다,J'habite à Busan.
+rester / reste,머무르다,Je reste à la maison.
+dormir / dors,자다,Je dors huit heures.
+durer / dure,지속되다,Le film dure deux heures.
+rentrer / rentre,돌아가다,Je rentre chez moi.
+passer / passe du temps,시간을 보내다,Je passe du temps avec ma famille.
+attendre / attends,기다리다,J'attends le bus.
+vouloir / voudrais,원하다 (정중한 표현),Je voudrais un café.
+préférer / préfère,더 원하다,Je préfère le thé.
+détester,싫어하다,Je déteste le froid.
+apporter / apporte,가져오다,J'apporte un cadeau.
+recevoir / reçois,받다,Je reçois une lettre.
+préparer / prépare,준비하다,Je prépare le dîner.
+chercher / cherche,찾다,Je cherche mes clés.
+trouver / trouve,발견하다,Je trouve la solution.
+regarder / regarde,"보다, 구경하다",Je regarde la télé.
+acheter / achète,사다,J'achète du pain.
+vendre / vend,팔다,Il vend sa voiture.
+payer / paye,계산하다,Je paye en espèces.
+coûter / coûte,비용이 들다,Ça coûte dix euros.
+parler / parle,말하다,Je parle français.
+dire,말하다,Je dis bonjour.
+discuter / discute,이야기하다,Nous discutons du film.
+chanter / chante,노래하다,Elle chante bien.
+écouter / écoute,듣다,J'écoute la musique.
+travailler / travaille,일하다,Je travaille à l'hôpital.
+étudier / étudie,공부하다,J'étudie la médecine.
+apprendre / apprends,배우다,J'apprends le français.
+comprendre / comprends,이해하다,Je comprends bien.
+connaître / connais,알다,Je connais Paris.
+savoir / ne sais pas,모른다,Je ne sais pas.
+essayer / essayes,시도하다,J'essaie de comprendre.
+boire / bois,마시다,Je bois de l'eau.
+manger / mange,먹다,Je mange une pomme.
+cuisiner / cuisine,요리하다,Je cuisine le soir.
+mettre / mets,넣다,Je mets mon manteau.
+déjeuner / déjeune,점심 먹다,Je déjeune à midi.
+laver / lave,씻다,Je lave les assiettes.
+nager / nage,수영하다,Je nage à la piscine.
+pêcher / pêches,낚시하다,Je pêche dans le lac.
+porter / portes,입다,Je porte un pull.
+avoir soif,목마르다,J'ai soif.
+avoir faim,배고프다,J'ai faim.
+avoir sommeil,졸리다,J'ai sommeil.
+avoir chaud,더위를 느끼다,J'ai chaud.
+avoir froid,추위를 느끼다,J'ai froid.
+avoir besoin de,-이 필요하다,J'ai besoin d'eau.
+méchant,심술궂은,Le chat est méchant.
+gentil,착한,Tu es gentil.
+sympa,"친절한, 멋진",Elle est sympa.
+content,"기쁜, 만족한",Je suis content.
+détendu,편안한,Je suis détendu.
+drôle,웃긴,C'est drôle.
+triste,슬픈,Je suis triste.
+dommage,안타까운,C'est dommage.
+désolé,미안한,Je suis désolé.
+sérieux,진지한,Il est sérieux.
+difficile,어려운,C'est difficile.
+pris,가져온,C'est pris.
+prêt,준비된,Je suis prêt.
+en retard,늦은,Je suis en retard.
+perdu,길을 잃은,Je suis perdu.
+à l'heure,제시간인,Je suis à l'heure.
+pressé,급한,Je suis pressé.
+occupé,바쁜,Je suis occupé.
+ouvert,열린,Le magasin est ouvert.
+fermé,닫힌,C'est fermé.
+court,짧은,Le pantalon est court.
+long / longue,긴,Le film est long.
+propre,깨끗한,La chambre est propre.
+sale,더러운,Mes mains sont sales.
+beau / belle,아름다운,C'est beau.
+joli / jolie,예쁜,Une jolie fleur.
+mignon,귀여운,Le chat est mignon.
+génial,멋진,C'est génial.
+moche,못생긴,C'est moche.
+doux / douce,부드러운,La couverture est douce.
+chouette,좋은,C'est chouette.
+nul / nulle,별로인,Ce film est nul.
+mauvais / mauvaise,"잘못된, 고약한",Le café est mauvais.
+célèbre,유명한,Il est célèbre.
+vrai,"진짜의, 맞는",C'est vrai.
+même,같은,Le même livre.
+cassé,부서진,Mon téléphone est cassé.
+jeune,젊은,Il est jeune.
+nouveau / nouvelle,새로운,Un nouveau livre.
+vieux / vieille / vieilles,"낡은, 오래된",Une vieille maison.
+cher,비싼,C'est cher.
+lourd,무거운,Le sac est lourd.
+loin,먼,C'est loin.
+fort,"큰, 강한",Il est fort.
+bon / bonne,맛있는,Le gâteau est bon.
+un peu,조금,Un peu de sucre.
+être,있다,Il est là.
+beaucoup,많이,Merci beaucoup.
+beaucoup de,많은,Beaucoup de gens.
+plusieurs,여러,Plusieurs fois.
+nom,이름 (남),Mon nom est Marie.
+frère,형 / 오빠 / 남동생,J'ai un frère.
+sœur,누나 / 언니 / 여동생,Ma sœur est étudiante.
+tante,이모 / 고모 / 숙모,Ma tante habite à Séoul.
+femme,아내,Sa femme est médecin.
+mari,남편,Son mari travaille.
+père,아빠,Mon père est avocat.
+mère / maman,엄마,Ma mère cuisine bien.
+fils / fille,아들 / 딸,J'ai un fils et une fille.
+neveu / nièce,조카,Mon neveu a cinq ans.
+famille,가족 (여),Ma famille est grande.
+copain / copine,남친 / 여친,Mon copain est gentil.
+chéri / chérie,자기,Bonjour chérie.
+voisin,이웃,Mon voisin est sympa.
+ami,친구,J'ai un ami.
+collègue,동료,Mon collègue est sympa.
+invité,손님,Nous avons des invités.
+quelqu'un,누군가 (아는 사람),Quelqu'un m'attend.
+on,우리,On y va.
+chef / cheffe,상사,Mon chef est strict.
+étudiant,학생,Je suis étudiant.
+vendeur / vendeuse,판매원,Le vendeur est gentil.
+serveur,종업원,Le serveur arrive.
+chauffeur,운전자,Le chauffeur est rapide.
+pilote,조종사,Il est pilote.
+avocat / avocate,변호사,Elle est avocate.
+docteur,의사,Le docteur arrive.
+prof,선생님,Mon prof est patient.
+professeur,교수,Le professeur explique.
+auteur,작가,L'auteur est célèbre.
+ingénieur,엔지니어,Il est ingénieur.
+hôte / hôtesse,"주인, 승무원",L'hôtesse est gentille.
+joueur / joueuse,선수,Le joueur est rapide.
+chanteur / chanteuse,가수,La chanteuse est connue.
+métier,직업 (남),Quel est ton métier ?
+équipe,팀 (여),Notre équipe est forte.
+animal / animaux,동물,J'aime les animaux.
+compagne,반려 (반려자),Ma compagne est ici.
+chat,고양이,J'ai un chat.
+chien,개,Le chien aboie.
+cheval / chevaux,말,Le cheval court vite.
+poisson,물고기,J'aime le poisson.
+fleur,꽃,Une belle fleur.
+vêtements,옷,J'achète des vêtements.
+taille,사이즈 (여),Quelle taille ?
+chemise,셔츠 (여),Ma chemise est blanche.
+pull,스웨터 (남),Un pull rouge.
+pantalon,바지,Un pantalon noir.
+jupe,치마 (여),Une jupe courte.
+robe,드레스 (여),Une belle robe.
+manteau,코트 (남),Mon manteau est chaud.
+chaussure,신발,Mes chaussures sont neuves.
+chaussette,양말 (여),Une paire de chaussettes.
+chapeau,모자 (남),Un chapeau noir.
+écharpe,목도리 (여),Une écharpe chaude.
+cravate,넥타이 (여),Une cravate bleue.
+ceinture,벨트 (여),Ma ceinture est noire.
+lunettes,안경,Mes lunettes sont là.
+sac,가방 (남),Mon sac est lourd.
+valise,여행 가방 (여),Ma valise est prête.
+portefeuille,지갑 (남),Mon portefeuille est vide.
+poche,주머니 (여),Dans ma poche.
+maillot de bain,수영복,J'oublie mon maillot de bain.
+truc,것들,C'est un truc bizarre.
+clé,열쇠 (여),Où sont mes clés ?
+chargeur,충전기 (남),J'ai besoin du chargeur.
+portable,휴대폰 (남),Mon portable sonne.
+voiture,자동차 (여),Ma voiture est rouge.
+avion,비행기,L'avion arrive.
+vol,비행,Mon vol est à dix heures.
+moto,오토바이 (여),Une moto rapide.
+vélo,자전거 (남),Je fais du vélo.
+plan,지도 (남),Regarde le plan.
+livre,책 (남),Un bon livre.
+cahier,노트 (남),Mon cahier est neuf.
+stylo,펜 (남),Prête-moi un stylo.
+billet,표,J'achète un billet.
+ballon,공 (남),Le ballon est rouge.
+cadeau,선물 (남),Un beau cadeau.
+gratuit,무료,C'est gratuit.
+espèces,현금,Je paye en espèces.
+centime,센트,Cinquante centimes.
+ticket de caisse,영수증,Voici votre ticket de caisse.
+bonbon,사탕,Un bonbon sucré.
+gâteau,케이크 (남),Un gâteau au chocolat.
+farine,밀가루 (여),Un kilo de farine.
+eau,물 (여),Un verre d'eau.
+eau pétillante,탄산수,Une bouteille d'eau pétillante.
+bière,맥주 (여),Une bière fraîche.
+jus d'orange,오렌지 주스,Un jus d'orange.
+miel,꿀,Du miel dans le thé.
+beurre,버터,Du pain et du beurre.
+confiture,잼 (여),De la confiture de fraise.
+légume,야채 (남),Je mange des légumes.
+pomme,사과,Une pomme rouge.
+œuf,계란,Un œuf à la coque.
+œufs brouillés,스크램블 에그,Des œufs brouillés au petit déjeuner.
+assiette,접시 (여),Une assiette propre.
+verre,잔 (남),Un verre d'eau.
+tasse,컵 (여),Une tasse de café.
+bouteille,병,Une bouteille de vin.
+couteau,칼 (남),Le couteau est tranchant.
+fourchette,포크 (여),Une fourchette propre.
+serviette,"수건, 냅킨 (여)",Une serviette blanche.
+chaise,의자 (여),Cette chaise est confortable.
+canapé,소파,Sur le canapé.
+lit,침대 (남),Au lit !
+couverture,담요 (여),Une couverture chaude.
+frigo,냉장고 (남),Dans le frigo.
+télé,티비 (여),Je regarde la télé.
+climatisation,에어컨 (여),Allume la climatisation.
+placard,"옷장, 찬장 (남)",Dans le placard.
+porte,문 (여),Ferme la porte.
+ciel,하늘,Le ciel est bleu.
+mer,바다 (여),J'aime la mer.
+terre,지구,La terre tourne.
+monde,"세계, 세상 (남)",Le monde est grand.
+plage,해변 (여),On va à la plage.
+rivière,강 (여),Une longue rivière.
+lac,호수 (남),Le lac est calme.
+montagne,산 (여),Une grande montagne.
+arbre,나무,Sous l'arbre.
+pays,나라 (남),Mon pays est la Corée.
+ville,도시 (여),Busan est une grande ville.
+campagne,시골 (여),À la campagne.
+rue,거리 (여),Dans la rue.
+quartier,동네 (남),Mon quartier est calme.
+endroit,장소 (남),C'est un bel endroit.
+gare,역 (여),À la gare.
+université,대학 (여),Je vais à l'université.
+entreprise,기업 (여),Mon entreprise est ici.
+bureau,사무실 (남),Au bureau.
+appartement,아파트 (남),Mon appartement est petit.
+chez,집 (-의 집에),Chez moi.
+jardin,정원 (남),Dans le jardin.
+piscine,수영장 (여),À la piscine.
+salle de sport,체육관,Je vais à la salle de sport.
+banque,은행 (여),À la banque.
+magasin,가게 (남),Dans le magasin.
+supermarché,슈퍼마켓 (남),Au supermarché.
+boulangerie,빵집 (여),À la boulangerie.
+école,학교,Je vais à l'école.
+travail,직장,Au travail.
+hôpital,병원 (남),À l'hôpital.
+église,교회,Dans l'église.
+chambre,"침실, 방 (여)",Ma chambre est petite.
+salon,거실,Dans le salon.
+cuisine,부엌 (여),Dans la cuisine.
+gauche,왼쪽,À gauche.
+droite,오른쪽,Tourne à droite.
+repas,식사 (남),Un bon repas.
+petit déjeuner,아침 식사,Au petit déjeuner.
+fête,파티,C'est la fête !
+goût,맛,Quel bon goût.
+couleur,색깔 (여),Quelle couleur ?
+gris,회색,Le ciel est gris.
+réunion,회의 (여),J'ai une réunion.
+idée,아이디어 (여),Bonne idée !
+blague,농담 (여),Une bonne blague.
+choix,선택,Bon choix.
+aide,도움,J'ai besoin d'aide.
+cours,수업 (남),J'ai un cours.
+leçon,수업 (여),Une leçon de français.
+langue,언어 (여),Quelle langue ?
+roman,소설 (남),Un bon roman.
+série,드라마 (여),Ma série préférée.
+natation,수영 (여),Je fais de la natation.
+d'où,어디서,D'où venez-vous ?
+où,어디에,Où es-tu ?
+quoi,무엇,Quoi de neuf ?
+qui,누구,Qui est là ?
+pourquoi,왜,Pourquoi pas ?
+quand,언제,Quand pars-tu ?
+quand il fait,-한 날씨일 때,Quand il fait beau.
+quel,어떤,Quel jour ?
+quelque chose,무언가,Quelque chose à boire ?
+comment,어떻게,Comment ça va ?
+à quelle heure,몇 시에,À quelle heure ?
+combien,얼마,Combien ?
+combien ça coûte / ça fait combien,얼마예요,Combien ça coûte ?
+ce / cette / ça,이 / 이것,C'est ça.
+mais,하지만,J'aime mais c'est cher.
+et,그리고,Toi et moi.
+aussi,또한,Moi aussi.
+parce que,왜냐하면,Parce que j'aime ça.
+tout / toutes,전부,Tout va bien.
+tout le monde,모두,Tout le monde est là.
+pas du tout,전혀,Pas du tout.
+juste,단지,Juste un peu.
+une fois,한 번,Une fois par jour.
+très,매우,Très bien.
+trop,"너무 (지나치게, 매우)",C'est trop.
+vraiment,정말,Vraiment ?
+toujours,항상,Toujours là.
+souvent,자주,Je viens souvent.
+en général,보통,En général oui.
+d'habitude,보통,D'habitude je dors tôt.
+parfois,가끔,Parfois je sors.
+déjà,"이미, 벌써",C'est déjà fait.
+pendant,-동안,Pendant la pause.
+depuis,-부터,Depuis hier.
+jusqu'à,-까지,Jusqu'à demain.
+après,-후에,Après le travail.
+prochain,다음,La semaine prochaine.
+devant,앞에,Devant la maison.
+sur,위에,Sur la table.
+ici,여기,Viens ici.
+près de,근처에,Près de chez moi.
+à côté de,옆에,À côté de l'école.
+voilà,여기 있다,Voilà ton café.
+là-bas,저기에,Il est là-bas.
+à pied,걸어서,Je vais à pied.
+autre,하나 더,Une autre fois.
+encore,"여전히, 더",Encore une fois.
+seul / seule,혼자,Je suis seul.
+seulement,오직,Seulement cinq euros.
+ensemble,함께,Allons ensemble.
+comme,-처럼,Comme toi.
+peut-être,아마,Peut-être demain.
+enfin,드디어,Enfin !
+en fait,사실은,En fait oui.
+deux,2,Deux cafés s'il vous plaît.
+trois,3,Trois enfants.
+quatre,4,Quatre saisons.
+cinq,5,Cinq minutes.
+six,6,Six heures.
+sept,7,Sept jours.
+huit,8,Huit ans.
+neuf,9,Neuf mois.
+dix,10,Dix euros.
+onze,11,Onze heures.
+vingt,20,Vingt ans.
+aujourd'hui,오늘,Aujourd'hui il fait beau.
+demain,내일,À demain.
+matin,아침 (남),Ce matin.
+midi,정오,À midi.
+après-midi,오후,Cet après-midi.
+soirée,"저녁, 파티 (여)",Bonne soirée.
+ce soir,오늘 저녁,Ce soir je sors.
+nuit,밤 (여),Bonne nuit.
+minuit,자정,À minuit.
+heure,시간,Quelle heure est-il ?
+jour,일,Quel jour sommes-nous ?
+semaine,주,La semaine prochaine.
+mois,월,Le mois prochain.
+an,연,J'ai trente ans.
+cette année,올해,Cette année.
+tu / toi,너 (주격 / 강세형),Toi et moi.
+il / lui,그 (주격 / 강세형),C'est lui.
+nous / notre,우리 / 우리의,Notre maison.
+vous / votre,당신 / 당신의,Votre nom ?
+ils / eux,그들 (주격 / 강세형),Eux aussi.
+ce / ces / cette,지시 형용사 (이 / 이들 / 이),Cette maison.
+du / de / des,부분 관사,Du pain.
+saison,계절,Quelle saison préfères-tu ?
+printemps,봄,Au printemps.
+été,여름,En été.
+automne,가을,En automne.
+hiver,겨울,En hiver.
+lundi,월요일,Lundi prochain.
+mardi,화요일,Mardi matin.
+mercredi,수요일,Mercredi soir.
+jeudi,목요일,Jeudi après-midi.
+vendredi,금요일,Vendredi soir.
+samedi,토요일,Samedi matin.
+dimanche,일요일,Dimanche je me repose.
+enchanté,반가워요,Enchanté !
+bien sûr,물론,Bien sûr !
+moi aussi,나도 그래,Moi aussi.
+d'accord,좋아요,D'accord.
+ça va,잘 지내요,Ça va ?
+pardon,미안해요,Pardon !
+de rien,천만에요,De rien.
+avec plaisir,기꺼이요,Avec plaisir !
+au revoir,안녕히 가세요,Au revoir.
+à demain,또 만나요 (내일 봐요),À demain !
+tard,나중에,Trop tard.
+à plus tard,나중에 봐,À plus tard !
+bientôt,곧,À bientôt !
+à bientôt,곧 만나요,À bientôt.
+bonne journée,좋은 하루 되세요,Bonne journée !
+bonne soirée,좋은 저녁 되세요,Bonne soirée.
+vite,빨리,Viens vite !
+on y va,갑시다,On y va !
+mince,아이고,Mince alors !
+oh là là,어머나,Oh là là !
+arrête,그만해,Arrête !
+bof,음 글쎄요,Bof ça va.
+chut,쉿,Chut !
+il y a,-가 있다,Il y a un chat.
+est-ce que,의문문 도입,Est-ce que tu viens ?
+joyeux anniversaire,생일 축하해요,Joyeux anniversaire !

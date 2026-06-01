@@ -1,0 +1,1397 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow, noarchive">
+<meta name="googlebot" content="noindex, nofollow">
+<title>프랑스어 단어장</title>
+<link rel="manifest" href="./manifest.webmanifest">
+<meta name="theme-color" content="#1d6f9c" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#16181c" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="단어장">
+<link rel="icon" href="./icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="./icon.svg">
+<style>
+  :root {
+    --bg: #fafaf7;
+    --surface: #ffffff;
+    --text: #1a1a1a;
+    --muted: #6b6b6b;
+    --border: #e3e3df;
+    --accent: #1d6f9c;
+    --accent-soft: #e6f1f8;
+    --success: #2f8f4f;
+    --danger: #c0392b;
+    --warning: #c98800;
+    --shadow: 0 4px 16px rgba(0,0,0,0.06);
+  }
+  [data-theme="dark"] {
+    --bg: #16181c;
+    --surface: #22252c;
+    --text: #ecedef;
+    --muted: #8e93a0;
+    --border: #353944;
+    --accent: #5cb0e0;
+    --accent-soft: #1f3a4d;
+    --success: #58c97a;
+    --danger: #e07365;
+    --warning: #e6b352;
+    --shadow: 0 4px 16px rgba(0,0,0,0.4);
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", "Noto Sans KR", system-ui, sans-serif;
+    transition: background 0.2s, color 0.2s;
+  }
+  body { min-height: 100vh; display: flex; flex-direction: column; }
+  header {
+    padding: 14px 20px;
+    border-bottom: 1px solid var(--border);
+    background: var(--surface);
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    flex-wrap: wrap;
+  }
+  h1 { margin: 0; font-size: 17px; font-weight: 600; flex-shrink: 0; }
+  nav { display: flex; gap: 4px; flex-wrap: wrap; }
+  nav button {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 7px 12px;
+    border-radius: 7px;
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.15s;
+    font-family: inherit;
+  }
+  nav button.active { background: var(--accent); color: white; border-color: var(--accent); }
+  nav button:hover { border-color: var(--accent); }
+  .spacer { flex: 1; }
+  .controls { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
+  select, .controls button {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 6px 10px;
+    border-radius: 6px;
+    font-size: 12px;
+    cursor: pointer;
+    font-family: inherit;
+  }
+  .controls button.toggle-on {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+  }
+  main {
+    flex: 1;
+    padding: 24px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 18px;
+    width: 100%;
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  .stats {
+    display: flex;
+    gap: 18px;
+    font-size: 12px;
+    color: var(--muted);
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .stats span b { color: var(--text); font-weight: 600; }
+
+  /* CARD */
+  .card {
+    width: 100%;
+    min-height: 320px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    box-shadow: var(--shadow);
+    padding: 32px 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: transform 0.15s, border-color 0.15s;
+    position: relative;
+    user-select: none;
+  }
+  .card:hover { border-color: var(--accent); }
+  .card:active { transform: scale(0.995); }
+  .card.no-click { cursor: default; }
+  .card.no-click:active { transform: none; }
+  .front-text {
+    font-size: clamp(22px, 4.5vw, 32px);
+    font-weight: 500;
+    text-align: center;
+    line-height: 1.5;
+    word-break: keep-all;
+  }
+  .back-text {
+    font-size: clamp(18px, 3.5vw, 24px);
+    color: var(--accent);
+    text-align: center;
+    margin-top: 18px;
+    padding-top: 18px;
+    border-top: 1px dashed var(--border);
+    width: 100%;
+    line-height: 1.6;
+    word-break: keep-all;
+  }
+  .example-text {
+    font-size: clamp(14px, 2.6vw, 16px);
+    color: var(--muted);
+    margin-top: 14px;
+    padding-top: 12px;
+    border-top: 1px dotted var(--border);
+    width: 100%;
+    line-height: 1.55;
+    text-align: center;
+    font-style: italic;
+  }
+  .hint {
+    position: absolute;
+    bottom: 10px;
+    font-size: 11px;
+    color: var(--muted);
+  }
+  .tts-btn {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--accent);
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .tts-btn:hover { background: var(--accent-soft); }
+  .status-badge {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 3px 8px;
+    border-radius: 4px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .status-badge.mastered { background: rgba(47,143,79,0.12); color: var(--success); }
+  .status-badge.learning { background: rgba(201,136,0,0.12); color: var(--warning); }
+
+  /* ACTIONS / NAV */
+  .card-actions { display: flex; gap: 10px; width: 100%; justify-content: center; }
+  .card-actions button {
+    flex: 1;
+    max-width: 200px;
+    padding: 11px 16px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text);
+    border-radius: 9px;
+    font-size: 14px;
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
+  }
+  .card-actions button.mastered { color: var(--success); border-color: var(--success); }
+  .card-actions button.learning { color: var(--warning); border-color: var(--warning); }
+  .card-actions button:hover { transform: translateY(-1px); }
+  .nav-row { display: flex; gap: 10px; width: 100%; justify-content: space-between; align-items: center; }
+  .nav-row button { padding: 8px 16px; background: var(--surface); border: 1px solid var(--border); color: var(--text); border-radius: 7px; cursor: pointer; font-family: inherit; font-size: 13px; }
+  .nav-row button:hover { border-color: var(--accent); }
+
+  /* QUIZ */
+  .quiz-prompt {
+    font-size: clamp(22px, 4.5vw, 30px);
+    text-align: center;
+    margin: 16px 0 24px;
+    font-weight: 500;
+    line-height: 1.4;
+    word-break: keep-all;
+  }
+  .quiz-options { display: grid; gap: 10px; width: 100%; grid-template-columns: 1fr; }
+  .quiz-option {
+    padding: 14px 16px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    text-align: left;
+    transition: all 0.15s;
+    font-family: inherit;
+    color: var(--text);
+    display: flex;
+    gap: 12px;
+    align-items: center;
+  }
+  .quiz-option:hover:not(:disabled) { border-color: var(--accent); background: var(--accent-soft); }
+  .quiz-option .num {
+    background: var(--accent-soft); color: var(--accent);
+    width: 24px; height: 24px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center; justify-content: center;
+    font-size: 12px; font-weight: 700; flex-shrink: 0;
+  }
+  .quiz-option.correct { background: rgba(47,143,79,0.12); border-color: var(--success); color: var(--success); }
+  .quiz-option.wrong { background: rgba(192,57,43,0.10); border-color: var(--danger); color: var(--danger); }
+  .quiz-option:disabled { cursor: default; }
+  .quiz-feedback {
+    margin-top: 16px;
+    font-size: 14px;
+    text-align: center;
+    color: var(--muted);
+    min-height: 22px;
+    line-height: 1.5;
+  }
+
+  /* TYPING */
+  .typing-input-row {
+    display: flex;
+    gap: 8px;
+    width: 100%;
+    margin-top: 12px;
+  }
+  .typing-input-row input {
+    flex: 1;
+    padding: 12px 14px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text);
+    border-radius: 9px;
+    font-size: 16px;
+    font-family: inherit;
+    outline: none;
+  }
+  .typing-input-row input:focus { border-color: var(--accent); }
+  .typing-input-row button {
+    padding: 0 18px;
+    background: var(--accent);
+    color: white;
+    border: 1px solid var(--accent);
+    border-radius: 9px;
+    font-size: 14px;
+    cursor: pointer;
+    font-family: inherit;
+  }
+
+  /* LIST */
+  .list-controls {
+    display: flex;
+    gap: 8px;
+    width: 100%;
+    align-items: center;
+  }
+  .list-controls input {
+    flex: 1;
+    padding: 9px 12px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text);
+    border-radius: 7px;
+    font-size: 14px;
+    font-family: inherit;
+    outline: none;
+  }
+  .list-controls input:focus { border-color: var(--accent); }
+  .list-count { font-size: 12px; color: var(--muted); white-space: nowrap; }
+  .list-wrapper {
+    width: 100%;
+    max-height: calc(100vh - 280px);
+    overflow-y: auto;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    background: var(--surface);
+  }
+  table.list-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+  }
+  table.list-table thead th {
+    position: sticky;
+    top: 0;
+    background: var(--surface);
+    border-bottom: 2px solid var(--border);
+    padding: 10px 12px;
+    text-align: left;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    z-index: 2;
+  }
+  table.list-table tbody td {
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+    line-height: 1.45;
+  }
+  table.list-table tbody tr { cursor: pointer; transition: background 0.1s; }
+  table.list-table tbody tr:hover { background: var(--accent-soft); }
+  table.list-table td.fr { color: var(--accent); white-space: nowrap; min-width: 130px; }
+  table.list-table td.ko { color: var(--text); }
+  table.list-table td.ex { color: var(--muted); font-style: italic; font-size: 13px; }
+  table.list-table tbody tr.status-mastered td.fr::before { content: "✓ "; color: var(--success); }
+  table.list-table tbody tr.status-learning td.fr::before { content: "⊘ "; color: var(--warning); }
+
+  /* LOADER */
+  .loader {
+    width: 100%;
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--muted);
+  }
+  .loader label {
+    display: inline-block;
+    margin-top: 16px;
+    padding: 10px 18px;
+    background: var(--accent);
+    color: white;
+    border-radius: 7px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  .loader input { display: none; }
+  .error { color: var(--danger); margin-top: 12px; font-size: 13px; }
+
+  /* MOBILE */
+  @media (max-width: 600px) {
+    header { padding: 10px 14px; gap: 10px; }
+    h1 { font-size: 15px; }
+    nav button { padding: 6px 10px; font-size: 12px; }
+    main { padding: 16px 14px; gap: 14px; }
+    .card { min-height: 240px; padding: 24px 16px; }
+    .card-actions { flex-direction: column; }
+    .card-actions button { max-width: none; }
+    table.list-table td.fr { white-space: normal; min-width: auto; }
+    .list-wrapper { max-height: calc(100vh - 240px); }
+  }
+
+  /* DIALOG */
+  dialog#add-card-dialog {
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 0;
+    background: var(--surface);
+    color: var(--text);
+    box-shadow: 0 10px 40px rgba(0,0,0,0.25);
+    max-width: 440px;
+    width: calc(100% - 32px);
+  }
+  dialog#add-card-dialog::backdrop {
+    background: rgba(0,0,0,0.4);
+    backdrop-filter: blur(2px);
+  }
+  #add-card-form {
+    padding: 22px 22px 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+  #add-card-form h2 {
+    margin: 0 0 4px;
+    font-size: 17px;
+    font-weight: 600;
+  }
+  #add-card-form label {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    font-size: 12px;
+    color: var(--muted);
+  }
+  #add-card-form label > span { font-weight: 500; }
+  #add-card-form label em {
+    color: var(--danger);
+    font-style: normal;
+    margin-left: 2px;
+  }
+  #add-card-form .optional { color: var(--muted); font-weight: 400; }
+  #add-card-form input {
+    padding: 10px 12px;
+    border: 1px solid var(--border);
+    border-radius: 7px;
+    background: var(--bg);
+    color: var(--text);
+    font-size: 15px;
+    font-family: inherit;
+    outline: none;
+  }
+  #add-card-form input:focus { border-color: var(--accent); }
+  .dialog-error {
+    color: var(--danger);
+    font-size: 12px;
+    min-height: 16px;
+  }
+  .dialog-actions {
+    display: flex;
+    gap: 8px;
+    justify-content: flex-end;
+    margin-top: 4px;
+  }
+  .dialog-actions button {
+    padding: 8px 16px;
+    border-radius: 7px;
+    font-size: 14px;
+    cursor: pointer;
+    font-family: inherit;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text);
+  }
+  .dialog-actions button[type="submit"] {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+  }
+  .dialog-actions button:hover { transform: translateY(-1px); }
+
+  .hidden { display: none !important; }
+  kbd {
+    font-family: ui-monospace, SF Mono, Menlo, monospace;
+    font-size: 11px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    padding: 1px 5px;
+    border-radius: 3px;
+    border: 1px solid var(--border);
+  }
+  .footer-hint {
+    text-align: center;
+    font-size: 11px;
+    color: var(--muted);
+    padding: 12px 16px 20px;
+    line-height: 1.7;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>프랑스어 단어장</h1>
+  <nav>
+    <button id="mode-flashcard" class="active">플래시카드</button>
+    <button id="mode-quiz">퀴즈</button>
+    <button id="mode-typing">타이핑</button>
+    <button id="mode-list">목록</button>
+  </nav>
+  <div class="spacer"></div>
+  <div class="controls">
+    <select id="filter-select" title="카테고리 필터">
+      <option value="all">전체</option>
+      <option value="new">새 카드</option>
+      <option value="learning">학습 중</option>
+      <option value="mastered">외웠음</option>
+    </select>
+    <select id="quiz-direction" class="hidden" title="방향">
+      <option value="fr2ko">프 → 한</option>
+      <option value="ko2fr">한 → 프</option>
+    </select>
+    <button id="random-flip-btn" title="플래시카드 앞/뒷면 무작위 시작">🔀 앞/뒷</button>
+    <button id="shuffle-btn" title="섞기">🔀 섞기</button>
+    <button id="add-card-btn" title="카드 한 장 직접 추가">✚ 새 카드</button>
+    <button id="add-csv-btn" title="CSV 파일로 일괄 가져오기">📂 가져오기</button>
+    <button id="export-csv-btn" title="현재 카드 전체를 CSV 파일로 백업">💾 내보내기</button>
+    <button id="reset-btn" title="진도 초기화">↺ 초기화</button>
+    <button id="theme-btn" title="다크모드 토글">🌓</button>
+    <input type="file" id="add-csv-input" accept=".csv,text/csv" style="display:none">
+  </div>
+</header>
+
+<main>
+  <div class="stats" id="stats"></div>
+
+  <!-- LOADER -->
+  <section id="loader-section" class="loader hidden">
+    <div>CSV 파일을 불러올 수 없습니다.</div>
+    <label>
+      📂 french_wordbook.csv 업로드
+      <input type="file" id="csv-input" accept=".csv,text/csv">
+    </label>
+    <div class="error" id="loader-error"></div>
+  </section>
+
+  <!-- FLASHCARD -->
+  <section id="flashcard-section" class="hidden" style="width:100%; display:flex; flex-direction:column; gap:18px;">
+    <div class="card" id="flashcard">
+      <span class="status-badge" id="card-status">새 카드</span>
+      <button class="tts-btn" id="tts-btn" title="발음 듣기 (P)">🔊</button>
+      <div class="front-text" id="card-front"></div>
+      <div class="back-text hidden" id="card-back"></div>
+      <div class="example-text hidden" id="card-example"></div>
+      <div class="hint">탭하거나 <kbd>Space</kbd> — 뒤집기</div>
+    </div>
+    <div class="card-actions">
+      <button id="mark-learning" class="learning">⊘ 더 볼 것 (1)</button>
+      <button id="mark-mastered" class="mastered">✓ 외웠음 (2)</button>
+    </div>
+    <div class="nav-row">
+      <button id="prev-btn">← 이전</button>
+      <span id="card-index" style="font-size:13px; color:var(--muted);"></span>
+      <button id="next-btn">다음 →</button>
+    </div>
+  </section>
+
+  <!-- QUIZ (multiple choice) -->
+  <section id="quiz-section" class="hidden" style="width:100%; display:flex; flex-direction:column; gap:8px;">
+    <div class="card no-click" style="min-height:auto; padding:24px 20px;">
+      <button class="tts-btn hidden" id="quiz-tts-btn" title="발음 듣기">🔊</button>
+      <div class="quiz-prompt" id="quiz-prompt"></div>
+      <div class="quiz-options" id="quiz-options"></div>
+      <div class="quiz-feedback" id="quiz-feedback"></div>
+    </div>
+    <div class="nav-row">
+      <span id="quiz-score" style="font-size:13px; color:var(--muted);"></span>
+      <button id="quiz-next-btn">다음 문제 →</button>
+    </div>
+  </section>
+
+  <!-- TYPING -->
+  <section id="typing-section" class="hidden" style="width:100%; display:flex; flex-direction:column; gap:8px;">
+    <div class="card no-click" style="min-height:auto; padding:24px 20px;">
+      <button class="tts-btn hidden" id="typing-tts-btn" title="발음 듣기">🔊</button>
+      <div class="quiz-prompt" id="typing-prompt"></div>
+      <div class="typing-input-row">
+        <input id="typing-input" placeholder="뜻 입력 후 Enter" autocomplete="off" autocapitalize="off" spellcheck="false">
+        <button id="typing-submit">확인</button>
+      </div>
+      <div class="quiz-feedback" id="typing-feedback"></div>
+    </div>
+    <div class="nav-row">
+      <span id="typing-score" style="font-size:13px; color:var(--muted);"></span>
+      <button id="typing-next-btn">다음 문제 →</button>
+    </div>
+  </section>
+
+  <!-- LIST -->
+  <section id="list-section" class="hidden" style="width:100%; display:flex; flex-direction:column; gap:10px;">
+    <div class="list-controls">
+      <input id="list-search" placeholder="검색 (프랑스어 / 한국어 / 예문)" autocomplete="off">
+      <span class="list-count" id="list-count"></span>
+    </div>
+    <div class="list-wrapper">
+      <table class="list-table">
+        <thead>
+          <tr>
+            <th style="width:24%;">French</th>
+            <th style="width:30%;">Korean</th>
+            <th>Example</th>
+          </tr>
+        </thead>
+        <tbody id="list-tbody"></tbody>
+      </table>
+    </div>
+  </section>
+</main>
+
+<div class="footer-hint">
+  단축키 — <kbd>Space</kbd> 뒤집기 · <kbd>←</kbd> <kbd>→</kbd> 이동 · <kbd>1</kbd>–<kbd>4</kbd> 퀴즈 선택 · <kbd>Enter</kbd> 타이핑 제출 · <kbd>P</kbd> 발음<br>
+  가중치 학습 — 새 카드 5 : 학습 중 3 : 외웠음 1 비율로 출현
+</div>
+
+<!-- ADD CARD DIALOG -->
+<dialog id="add-card-dialog">
+  <form id="add-card-form" method="dialog">
+    <h2>새 카드 추가</h2>
+    <label>
+      <span>French <em>*</em></span>
+      <input id="new-front" type="text" required autocomplete="off" spellcheck="false" placeholder="bonjour">
+    </label>
+    <label>
+      <span>Korean <em>*</em></span>
+      <input id="new-back" type="text" required autocomplete="off" placeholder="안녕하세요">
+    </label>
+    <label>
+      <span>Example <span class="optional">(선택)</span></span>
+      <input id="new-example" type="text" autocomplete="off" placeholder="Bonjour, ça va ?">
+    </label>
+    <div id="add-card-error" class="dialog-error"></div>
+    <div class="dialog-actions">
+      <button type="button" id="cancel-add-btn">취소</button>
+      <button type="submit" id="confirm-add-btn">추가</button>
+    </div>
+  </form>
+</dialog>
+
+<script>
+'use strict';
+
+const STORE_KEY = 'wordbook.v1';
+const DATA_KEY = 'wordbook.csv.v2';   // bumped because schema changed (3 columns)
+const SETTINGS_KEY = 'wordbook.settings.v1';
+
+let allCards = [];          // [{front, back, example}]
+let filteredCards = [];
+let cardIdx = 0;
+let currentMode = 'flashcard';
+let progress = {};
+let quizState = null;
+let typingState = null;
+let quizScore = { correct: 0, total: 0 };
+let typingScore = { correct: 0, total: 0 };
+let frenchVoice = null;
+let settings = { randomFlip: false };
+let currentFlipState = null;  // for flashcard: which side is the French side?
+
+const el = (id) => document.getElementById(id);
+
+// ============ CSV PARSING ============
+function parseCSV(text) {
+  const rows = [];
+  let cur = '', inQuote = false, fields = [];
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i];
+    if (inQuote) {
+      if (c === '"') {
+        if (text[i + 1] === '"') { cur += '"'; i++; }
+        else inQuote = false;
+      } else cur += c;
+    } else {
+      if (c === '"') inQuote = true;
+      else if (c === ',') { fields.push(cur); cur = ''; }
+      else if (c === '\n') { fields.push(cur); rows.push(fields); cur = ''; fields = []; }
+      else if (c === '\r') {}
+      else cur += c;
+    }
+  }
+  if (cur !== '' || fields.length) { fields.push(cur); rows.push(fields); }
+  return rows.filter(r => r.length >= 2 && r[0].trim() && r[1].trim());
+}
+
+function isHeaderRow(row) {
+  const known = new Set(['앞면', '뒷면', '예문', '예시', 'front', 'back', 'example', 'french', 'korean']);
+  return row.some(c => known.has(c.trim().toLowerCase()));
+}
+
+function loadCards(csvText) {
+  const rows = parseCSV(csvText);
+  if (!rows.length) { allCards = []; return; }
+  const data = isHeaderRow(rows[0]) ? rows.slice(1) : rows;
+  allCards = data.map(r => ({
+    front: r[0].trim(),
+    back: r[1].trim(),
+    example: (r[2] || '').trim()
+  }));
+}
+
+function csvField(s) {
+  return /[,"\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
+}
+function serializeCards() {
+  const lines = ['french,korean,example'];
+  for (const c of allCards) {
+    lines.push(`${csvField(c.front)},${csvField(c.back)},${csvField(c.example || '')}`);
+  }
+  return lines.join('\n');
+}
+
+// ============ STORAGE ============
+function loadProgress() {
+  try { progress = JSON.parse(localStorage.getItem(STORE_KEY)) || {}; }
+  catch { progress = {}; }
+}
+function saveProgress() { localStorage.setItem(STORE_KEY, JSON.stringify(progress)); }
+function setStatus(front, status) {
+  if (status === 'new') delete progress[front];
+  else progress[front] = status;
+  saveProgress();
+}
+function getStatus(front) { return progress[front] || 'new'; }
+
+function loadSettings() {
+  try {
+    const s = JSON.parse(localStorage.getItem(SETTINGS_KEY));
+    if (s && typeof s === 'object') settings = { ...settings, ...s };
+  } catch {}
+}
+function saveSettings() { localStorage.setItem(SETTINGS_KEY, JSON.stringify(settings)); }
+
+// ============ WEIGHTING ============
+function cardWeight(card) {
+  const s = getStatus(card.front);
+  if (s === 'mastered') return 1;
+  if (s === 'learning') return 3;
+  return 5;
+}
+function applyFilter() {
+  const f = el('filter-select').value;
+  filteredCards = allCards.filter(c => {
+    const s = getStatus(c.front);
+    if (f === 'all') return true;
+    return s === f;
+  });
+  if (filteredCards.length === 0) filteredCards = [...allCards];
+  shuffleCards();
+}
+function shuffleCards() {
+  filteredCards.sort((a, b) => {
+    const ka = Math.log(Math.random()) / cardWeight(a);
+    const kb = Math.log(Math.random()) / cardWeight(b);
+    return kb - ka;
+  });
+  cardIdx = 0;
+}
+function pickWeighted(pool) {
+  let total = 0;
+  for (const c of pool) total += cardWeight(c);
+  let r = Math.random() * total;
+  for (const c of pool) {
+    r -= cardWeight(c);
+    if (r <= 0) return c;
+  }
+  return pool[pool.length - 1];
+}
+
+// ============ FLASHCARD ============
+function showFlashcard() {
+  if (!filteredCards.length) {
+    el('card-front').textContent = '(카드 없음)';
+    el('card-back').classList.add('hidden');
+    el('card-example').classList.add('hidden');
+    el('card-index').textContent = '';
+    return;
+  }
+  const c = filteredCards[cardIdx];
+  // Random flip: pick which side faces up
+  const flipped = settings.randomFlip && Math.random() < 0.5;
+  currentFlipState = { card: c, flipped };
+  el('card-front').textContent = flipped ? c.back : c.front;
+  el('card-back').textContent = flipped ? c.front : c.back;
+  el('card-back').classList.add('hidden');
+  if (c.example) {
+    el('card-example').textContent = c.example;
+    el('card-example').classList.add('hidden');
+  } else {
+    el('card-example').textContent = '';
+    el('card-example').classList.add('hidden');
+  }
+  el('card-index').textContent = `${cardIdx + 1} / ${filteredCards.length}`;
+  const status = getStatus(c.front);
+  const badge = el('card-status');
+  badge.className = 'status-badge ' + (status === 'new' ? '' : status);
+  badge.textContent = status === 'mastered' ? '외웠음' : status === 'learning' ? '학습 중' : '새 카드';
+  updateStats();
+}
+function flipCard() {
+  const back = el('card-back');
+  const ex = el('card-example');
+  if (back.classList.contains('hidden')) {
+    back.classList.remove('hidden');
+    if (currentFlipState && currentFlipState.card.example) {
+      ex.classList.remove('hidden');
+    }
+  } else {
+    back.classList.add('hidden');
+    ex.classList.add('hidden');
+  }
+}
+function nextCard(delta) {
+  if (!filteredCards.length) return;
+  cardIdx = (cardIdx + delta + filteredCards.length) % filteredCards.length;
+  showFlashcard();
+}
+
+// ============ QUIZ (multiple choice) ============
+function makeQuiz() {
+  if (filteredCards.length < 4) {
+    el('quiz-prompt').textContent = '카드가 4장 이상 필요합니다.';
+    el('quiz-options').innerHTML = '';
+    el('quiz-feedback').textContent = '';
+    return;
+  }
+  const dir = el('quiz-direction').value;
+  const correct = pickWeighted(filteredCards);
+  const pool = allCards.filter(c => c.front !== correct.front);
+  const distractors = [];
+  while (distractors.length < 3 && pool.length) {
+    const i = Math.floor(Math.random() * pool.length);
+    distractors.push(pool.splice(i, 1)[0]);
+  }
+  const options = [correct, ...distractors];
+  for (let i = options.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [options[i], options[j]] = [options[j], options[i]];
+  }
+  quizState = { correct, options, dir, answered: false };
+  renderQuiz();
+}
+function renderQuiz() {
+  const { correct, options, dir } = quizState;
+  el('quiz-prompt').textContent = dir === 'fr2ko' ? correct.front : correct.back;
+  const ttsBtn = el('quiz-tts-btn');
+  if (dir === 'fr2ko') ttsBtn.classList.remove('hidden');
+  else ttsBtn.classList.add('hidden');
+  const container = el('quiz-options');
+  container.innerHTML = '';
+  options.forEach((opt, i) => {
+    const b = document.createElement('button');
+    b.className = 'quiz-option';
+    const text = dir === 'fr2ko' ? opt.back : opt.front;
+    b.innerHTML = `<span class="num">${i + 1}</span><span>${escapeHtml(text)}</span>`;
+    b.addEventListener('click', () => answerQuiz(i));
+    container.appendChild(b);
+  });
+  el('quiz-feedback').textContent = '';
+  updateQuizScore();
+}
+function answerQuiz(i) {
+  if (quizState.answered) return;
+  quizState.answered = true;
+  const { correct, options } = quizState;
+  const chosen = options[i];
+  const buttons = el('quiz-options').querySelectorAll('.quiz-option');
+  buttons.forEach((b, idx) => {
+    b.disabled = true;
+    if (options[idx].front === correct.front) b.classList.add('correct');
+    else if (idx === i) b.classList.add('wrong');
+  });
+  quizScore.total++;
+  const exampleHtml = correct.example ? `<br><span style="font-style:italic;">${escapeHtml(correct.example)}</span>` : '';
+  if (chosen.front === correct.front) {
+    quizScore.correct++;
+    el('quiz-feedback').innerHTML = `<span style="color:var(--success);">✓ 정답</span> — ${escapeHtml(correct.front)} = ${escapeHtml(correct.back)}${exampleHtml}`;
+  } else {
+    el('quiz-feedback').innerHTML = `<span style="color:var(--danger);">✗ 오답</span> — ${escapeHtml(correct.front)} = ${escapeHtml(correct.back)}${exampleHtml}`;
+    setStatus(correct.front, 'learning');
+  }
+  updateQuizScore();
+}
+function updateQuizScore() {
+  const pct = quizScore.total ? Math.round(100 * quizScore.correct / quizScore.total) : 0;
+  el('quiz-score').textContent = `점수: ${quizScore.correct} / ${quizScore.total}  (${pct}%)`;
+}
+
+// ============ TYPING ============
+function makeTyping() {
+  if (filteredCards.length < 1) {
+    el('typing-prompt').textContent = '카드가 없습니다.';
+    return;
+  }
+  const dir = el('quiz-direction').value;
+  const correct = pickWeighted(filteredCards);
+  typingState = { correct, dir, answered: false };
+  el('typing-prompt').textContent = dir === 'fr2ko' ? correct.front : correct.back;
+  el('typing-input').value = '';
+  el('typing-input').disabled = false;
+  el('typing-input').focus();
+  el('typing-feedback').textContent = '';
+  el('typing-tts-btn').classList.toggle('hidden', dir !== 'fr2ko');
+  updateTypingScore();
+}
+
+// 의미 일치 검사: 공백·구두점 무시, 콤마/슬래시로 구분된 여러 뜻 중 하나라도 맞으면 통과
+function normalizeAnswer(s) {
+  return s.toLowerCase()
+    .normalize('NFC')
+    .replace(/\s+/g, '')
+    .replace(/[.,\/?!()'"\-_·；;:：~∼]/g, '')
+    .trim();
+}
+function levenshtein(a, b) {
+  if (a === b) return 0;
+  if (!a.length) return b.length;
+  if (!b.length) return a.length;
+  let prev = Array.from({ length: b.length + 1 }, (_, i) => i);
+  for (let i = 1; i <= a.length; i++) {
+    const cur = [i];
+    for (let j = 1; j <= b.length; j++) {
+      const cost = a[i - 1] === b[j - 1] ? 0 : 1;
+      cur[j] = Math.min(cur[j - 1] + 1, prev[j] + 1, prev[j - 1] + cost);
+    }
+    prev = cur;
+  }
+  return prev[b.length];
+}
+function fuzzyMatch(userInput, correct) {
+  const u = normalizeAnswer(userInput);
+  if (!u) return false;
+  const altsRaw = correct.split(/[,/]|또는|·/).map(s => s.trim()).filter(Boolean);
+  // 괄호 안 보조정보 제외: "원하다 (정중한 표현)" → "원하다"
+  const stripParen = (s) => s.replace(/\([^)]*\)/g, '').trim();
+  const candidates = new Set();
+  candidates.add(normalizeAnswer(correct));
+  candidates.add(normalizeAnswer(stripParen(correct)));
+  for (const a of altsRaw) {
+    candidates.add(normalizeAnswer(a));
+    candidates.add(normalizeAnswer(stripParen(a)));
+  }
+  candidates.delete('');
+  for (const cand of candidates) {
+    if (cand === u) return true;
+    if (cand.length >= 3 && levenshtein(cand, u) <= 1) return true;
+  }
+  return false;
+}
+function submitTyping() {
+  if (!typingState || typingState.answered) return;
+  const input = el('typing-input').value;
+  if (!input.trim()) return;
+  typingState.answered = true;
+  const { correct, dir } = typingState;
+  const target = dir === 'fr2ko' ? correct.back : correct.front;
+  const ok = fuzzyMatch(input, target);
+  typingScore.total++;
+  el('typing-input').disabled = true;
+  const exampleHtml = correct.example ? `<br><span style="font-style:italic;">${escapeHtml(correct.example)}</span>` : '';
+  if (ok) {
+    typingScore.correct++;
+    el('typing-feedback').innerHTML = `<span style="color:var(--success);">✓ 정답</span> — ${escapeHtml(correct.front)} = ${escapeHtml(correct.back)}${exampleHtml}`;
+  } else {
+    el('typing-feedback').innerHTML = `<span style="color:var(--danger);">✗ 오답</span> — 정답: <b>${escapeHtml(target)}</b> (${escapeHtml(dir === 'fr2ko' ? correct.front : correct.back)})${exampleHtml}`;
+    setStatus(correct.front, 'learning');
+  }
+  updateTypingScore();
+}
+function updateTypingScore() {
+  const pct = typingScore.total ? Math.round(100 * typingScore.correct / typingScore.total) : 0;
+  el('typing-score').textContent = `점수: ${typingScore.correct} / ${typingScore.total}  (${pct}%)`;
+}
+
+// ============ LIST VIEW ============
+function renderList() {
+  const q = el('list-search').value.trim().toLowerCase();
+  const tbody = el('list-tbody');
+  tbody.innerHTML = '';
+  let shown = 0;
+  for (const c of allCards) {
+    if (q) {
+      const hay = (c.front + ' ' + c.back + ' ' + (c.example || '')).toLowerCase();
+      if (!hay.includes(q)) continue;
+    }
+    const tr = document.createElement('tr');
+    const status = getStatus(c.front);
+    if (status !== 'new') tr.className = 'status-' + status;
+    tr.innerHTML = `
+      <td class="fr">${escapeHtml(c.front)}</td>
+      <td class="ko">${escapeHtml(c.back)}</td>
+      <td class="ex">${escapeHtml(c.example || '')}</td>
+    `;
+    tr.addEventListener('click', () => {
+      // 클릭 시 해당 카드로 점프하여 플래시카드 모드 진입
+      const idx = filteredCards.findIndex(fc => fc.front === c.front);
+      if (idx >= 0) cardIdx = idx;
+      else {
+        filteredCards = [c, ...allCards.filter(x => x.front !== c.front)];
+        cardIdx = 0;
+      }
+      switchMode('flashcard');
+    });
+    tbody.appendChild(tr);
+    shown++;
+  }
+  el('list-count').textContent = `${shown} / ${allCards.length}`;
+}
+
+// ============ MODE SWITCH ============
+function switchMode(mode) {
+  currentMode = mode;
+  ['flashcard', 'quiz', 'typing', 'list'].forEach(m => {
+    el(`mode-${m}`).classList.toggle('active', m === mode);
+    el(`${m}-section`).classList.toggle('hidden', m !== mode);
+  });
+  // 컨트롤바 가시성
+  el('quiz-direction').classList.toggle('hidden', !(mode === 'quiz' || mode === 'typing'));
+  el('random-flip-btn').classList.toggle('hidden', mode !== 'flashcard');
+  el('shuffle-btn').classList.toggle('hidden', mode === 'list');
+  el('filter-select').classList.toggle('hidden', mode === 'list');
+  if (mode === 'flashcard') showFlashcard();
+  else if (mode === 'quiz') makeQuiz();
+  else if (mode === 'typing') makeTyping();
+  else if (mode === 'list') renderList();
+}
+
+// ============ STATS ============
+function updateStats() {
+  let mastered = 0, learning = 0;
+  for (const c of allCards) {
+    const s = getStatus(c.front);
+    if (s === 'mastered') mastered++;
+    else if (s === 'learning') learning++;
+  }
+  const newCount = allCards.length - mastered - learning;
+  el('stats').innerHTML = `
+    <span>전체 <b>${allCards.length}</b></span>
+    <span>외웠음 <b style="color:var(--success);">${mastered}</b></span>
+    <span>학습 중 <b style="color:var(--warning);">${learning}</b></span>
+    <span>새 카드 <b>${newCount}</b></span>
+  `;
+}
+
+// ============ TTS ============
+function pickFrenchVoice() {
+  const voices = speechSynthesis.getVoices();
+  frenchVoice = voices.find(v => v.lang === 'fr-FR' && v.localService)
+              || voices.find(v => v.lang === 'fr-FR')
+              || voices.find(v => v.lang.startsWith('fr'))
+              || null;
+}
+function speak(text) {
+  if (!window.speechSynthesis || !text) return;
+  speechSynthesis.cancel();
+  const cleaned = text.replace(/\s*\/\s*/g, ', ');
+  const u = new SpeechSynthesisUtterance(cleaned);
+  u.lang = 'fr-FR';
+  if (frenchVoice) u.voice = frenchVoice;
+  u.rate = 0.9;
+  speechSynthesis.speak(u);
+}
+
+// ============ THEME ============
+function toggleTheme() {
+  const cur = document.documentElement.getAttribute('data-theme');
+  const next = cur === 'dark' ? 'light' : 'dark';
+  document.documentElement.setAttribute('data-theme', next);
+  localStorage.setItem('wordbook.theme', next);
+}
+
+// ============ HELPERS ============
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, m => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[m]));
+}
+function showLoader(msg) {
+  el('loader-section').classList.remove('hidden');
+  ['flashcard-section', 'quiz-section', 'typing-section', 'list-section'].forEach(s => el(s).classList.add('hidden'));
+  if (msg) el('loader-error').textContent = msg;
+}
+function hideLoader() { el('loader-section').classList.add('hidden'); }
+
+// ============ EXPORT CSV (백업용) ============
+function exportCsv() {
+  if (!allCards.length) {
+    alert('내보낼 카드가 없습니다.');
+    return;
+  }
+  const csvText = serializeCards();
+  // Excel 등에서 한글이 깨지지 않도록 UTF-8 BOM 추가
+  const blob = new Blob(['﻿' + csvText], { type: 'text/csv;charset=utf-8' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  const dateStr = new Date().toISOString().slice(0, 10);
+  a.href = url;
+  a.download = `wordbook_${dateStr}.csv`;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  setTimeout(() => URL.revokeObjectURL(url), 1000);
+}
+
+// ============ ADD SINGLE CARD ============
+function openAddCardDialog() {
+  el('new-front').value = '';
+  el('new-back').value = '';
+  el('new-example').value = '';
+  el('add-card-error').textContent = '';
+  el('add-card-dialog').showModal();
+  setTimeout(() => el('new-front').focus(), 0);
+}
+function submitAddCard() {
+  const front = el('new-front').value.trim();
+  const back = el('new-back').value.trim();
+  const example = el('new-example').value.trim();
+  const errEl = el('add-card-error');
+  errEl.textContent = '';
+  if (!front || !back) {
+    errEl.textContent = 'French / Korean은 필수입니다.';
+    return;
+  }
+  const existingIdx = allCards.findIndex(c => c.front === front);
+  if (existingIdx >= 0) {
+    const ok = confirm(`"${front}" 카드가 이미 있습니다.\n\n[확인] 뜻/예문 갱신\n[취소] 추가 취소`);
+    if (!ok) return;
+    allCards[existingIdx].back = back;
+    if (example) allCards[existingIdx].example = example;
+  } else {
+    allCards.push({ front, back, example });
+  }
+  localStorage.setItem(DATA_KEY, serializeCards());
+  applyFilter();
+  updateStats();
+  if (currentMode === 'flashcard') showFlashcard();
+  else if (currentMode === 'quiz') makeQuiz();
+  else if (currentMode === 'typing') makeTyping();
+  else if (currentMode === 'list') renderList();
+  el('add-card-dialog').close();
+}
+
+// ============ CSV UPLOAD (add cards) ============
+async function handleAddCsv(file) {
+  const text = await file.text();
+  let newRows;
+  try {
+    newRows = parseCSV(text);
+  } catch (err) {
+    alert('CSV 파싱 실패: ' + err.message);
+    return;
+  }
+  if (!newRows.length) {
+    alert('빈 CSV 파일입니다.');
+    return;
+  }
+  const data = isHeaderRow(newRows[0]) ? newRows.slice(1) : newRows;
+  const newCards = data.map(r => ({
+    front: r[0].trim(),
+    back: r[1].trim(),
+    example: (r[2] || '').trim()
+  })).filter(c => c.front && c.back);
+
+  if (!newCards.length) {
+    alert('유효한 카드가 없습니다.');
+    return;
+  }
+
+  const merge = confirm(
+    `${newCards.length}개 카드를 발견했습니다.\n\n` +
+    `[확인] 기존에 추가 (병합 — 중복은 예문만 갱신)\n` +
+    `[취소] 전체 교체`
+  );
+
+  if (merge) {
+    const existingIdx = new Map(allCards.map((c, i) => [c.front, i]));
+    let added = 0, updated = 0;
+    for (const nc of newCards) {
+      if (existingIdx.has(nc.front)) {
+        const i = existingIdx.get(nc.front);
+        if (nc.example) {
+          allCards[i].example = nc.example;
+          updated++;
+        }
+        // 뜻이 다르면 갱신
+        if (nc.back && nc.back !== allCards[i].back) {
+          allCards[i].back = nc.back;
+          updated++;
+        }
+      } else {
+        allCards.push(nc);
+        added++;
+      }
+    }
+    alert(`${added}개 추가, ${updated}개 갱신 (총 ${allCards.length}개)`);
+  } else {
+    allCards = newCards;
+    progress = {}; saveProgress();
+    alert(`전체 카드를 ${newCards.length}개로 교체했습니다.`);
+  }
+
+  localStorage.setItem(DATA_KEY, serializeCards());
+  applyFilter();
+  updateStats();
+  if (currentMode === 'flashcard') showFlashcard();
+  else if (currentMode === 'quiz') makeQuiz();
+  else if (currentMode === 'typing') makeTyping();
+  else if (currentMode === 'list') renderList();
+}
+
+// ============ INIT ============
+async function init() {
+  const savedTheme = localStorage.getItem('wordbook.theme');
+  if (savedTheme) document.documentElement.setAttribute('data-theme', savedTheme);
+  else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    document.documentElement.setAttribute('data-theme', 'dark');
+  }
+  loadProgress();
+  loadSettings();
+  el('random-flip-btn').classList.toggle('toggle-on', settings.randomFlip);
+
+  // localStorage 우선 — 사용자가 추가/수정한 카드를 절대 덮어쓰지 않음
+  // 첫 방문에만 서버의 seed CSV를 받아서 localStorage에 저장
+  let csvText = localStorage.getItem(DATA_KEY);
+  if (!csvText) {
+    try {
+      const r = await fetch('french_wordbook.csv', { cache: 'no-cache' });
+      if (r.ok) {
+        csvText = await r.text();
+        localStorage.setItem(DATA_KEY, csvText);   // seed 보존
+      }
+    } catch {}
+  }
+
+  if (csvText) {
+    loadCards(csvText);
+    startApp();
+  } else {
+    showLoader('파일을 직접 열면(file://) 자동 로드가 차단됩니다. 아래에서 CSV를 한 번만 선택하세요.');
+  }
+
+  el('csv-input').addEventListener('change', async (e) => {
+    const file = e.target.files[0];
+    if (!file) return;
+    const text = await file.text();
+    try {
+      loadCards(text);
+      if (!allCards.length) throw new Error('빈 CSV');
+      localStorage.setItem(DATA_KEY, text);
+      hideLoader();
+      startApp();
+    } catch (err) {
+      el('loader-error').textContent = 'CSV 파싱 실패: ' + err.message;
+    }
+  });
+
+  if (window.speechSynthesis) {
+    pickFrenchVoice();
+    speechSynthesis.onvoiceschanged = pickFrenchVoice;
+  }
+
+  el('mode-flashcard').addEventListener('click', () => switchMode('flashcard'));
+  el('mode-quiz').addEventListener('click', () => switchMode('quiz'));
+  el('mode-typing').addEventListener('click', () => switchMode('typing'));
+  el('mode-list').addEventListener('click', () => switchMode('list'));
+
+  el('filter-select').addEventListener('change', () => {
+    applyFilter();
+    if (currentMode === 'flashcard') showFlashcard();
+    else if (currentMode === 'quiz') makeQuiz();
+    else if (currentMode === 'typing') makeTyping();
+    updateStats();
+  });
+  el('quiz-direction').addEventListener('change', () => {
+    if (currentMode === 'quiz') makeQuiz();
+    else if (currentMode === 'typing') makeTyping();
+  });
+  el('random-flip-btn').addEventListener('click', () => {
+    settings.randomFlip = !settings.randomFlip;
+    saveSettings();
+    el('random-flip-btn').classList.toggle('toggle-on', settings.randomFlip);
+    if (currentMode === 'flashcard') showFlashcard();
+  });
+  el('shuffle-btn').addEventListener('click', () => {
+    if (currentMode === 'flashcard') { shuffleCards(); showFlashcard(); }
+    else if (currentMode === 'quiz') makeQuiz();
+    else if (currentMode === 'typing') makeTyping();
+  });
+  el('add-card-btn').addEventListener('click', openAddCardDialog);
+  el('cancel-add-btn').addEventListener('click', () => el('add-card-dialog').close());
+  el('add-card-form').addEventListener('submit', (e) => {
+    e.preventDefault();
+    submitAddCard();
+  });
+  el('add-csv-btn').addEventListener('click', () => el('add-csv-input').click());
+  el('export-csv-btn').addEventListener('click', exportCsv);
+  el('add-csv-input').addEventListener('change', async (e) => {
+    const file = e.target.files[0];
+    if (file) await handleAddCsv(file);
+    e.target.value = '';
+  });
+  el('reset-btn').addEventListener('click', () => {
+    if (confirm('학습 진도와 점수를 모두 초기화할까요?\n(카드 데이터는 유지됩니다)')) {
+      progress = {};
+      quizScore = { correct: 0, total: 0 };
+      typingScore = { correct: 0, total: 0 };
+      saveProgress();
+      applyFilter();
+      updateStats();
+      if (currentMode === 'flashcard') showFlashcard();
+      else if (currentMode === 'quiz') makeQuiz();
+      else if (currentMode === 'typing') makeTyping();
+      else if (currentMode === 'list') renderList();
+    }
+  });
+  el('theme-btn').addEventListener('click', toggleTheme);
+
+  el('flashcard').addEventListener('click', (e) => {
+    if (e.target.closest('.tts-btn')) return;
+    flipCard();
+  });
+  el('tts-btn').addEventListener('click', (e) => {
+    e.stopPropagation();
+    if (!currentFlipState) return;
+    speak(currentFlipState.card.front);
+  });
+  el('mark-learning').addEventListener('click', () => {
+    if (!filteredCards.length) return;
+    setStatus(filteredCards[cardIdx].front, 'learning');
+    showFlashcard();
+    setTimeout(() => nextCard(1), 150);
+  });
+  el('mark-mastered').addEventListener('click', () => {
+    if (!filteredCards.length) return;
+    setStatus(filteredCards[cardIdx].front, 'mastered');
+    showFlashcard();
+    setTimeout(() => nextCard(1), 150);
+  });
+  el('prev-btn').addEventListener('click', () => nextCard(-1));
+  el('next-btn').addEventListener('click', () => nextCard(1));
+
+  el('quiz-next-btn').addEventListener('click', makeQuiz);
+  el('quiz-tts-btn').addEventListener('click', () => { if (quizState) speak(quizState.correct.front); });
+
+  el('typing-submit').addEventListener('click', submitTyping);
+  el('typing-next-btn').addEventListener('click', makeTyping);
+  el('typing-tts-btn').addEventListener('click', () => { if (typingState) speak(typingState.correct.front); });
+  el('typing-input').addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') {
+      e.preventDefault();
+      if (typingState && typingState.answered) makeTyping();
+      else submitTyping();
+    }
+  });
+
+  el('list-search').addEventListener('input', renderList);
+
+  document.addEventListener('keydown', (e) => {
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT' || e.target.tagName === 'TEXTAREA') return;
+    if (currentMode === 'flashcard') {
+      if (e.code === 'Space') { e.preventDefault(); flipCard(); }
+      else if (e.code === 'ArrowLeft') nextCard(-1);
+      else if (e.code === 'ArrowRight') nextCard(1);
+      else if (e.key === '1') el('mark-learning').click();
+      else if (e.key === '2') el('mark-mastered').click();
+      else if (e.key.toLowerCase() === 'p') el('tts-btn').click();
+    } else if (currentMode === 'quiz') {
+      if (e.key >= '1' && e.key <= '4' && !quizState?.answered) {
+        const idx = parseInt(e.key) - 1;
+        const buttons = el('quiz-options').querySelectorAll('.quiz-option');
+        if (buttons[idx]) buttons[idx].click();
+      } else if (e.code === 'Space' || e.code === 'Enter') {
+        if (quizState?.answered) makeQuiz();
+      } else if (e.key.toLowerCase() === 'p') el('quiz-tts-btn').click();
+    } else if (currentMode === 'typing') {
+      if (e.key.toLowerCase() === 'p') el('typing-tts-btn').click();
+    }
+  });
+}
+
+function startApp() {
+  hideLoader();
+  applyFilter();
+  updateStats();
+  switchMode('flashcard');
+}
+
+document.addEventListener('DOMContentLoaded', init);
+
+// PWA: 서비스 워커 등록 (http(s):// 환경에서만 동작)
+if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('./sw.js').catch(() => {});
+  });
+}
+</script>
+</body>
+</html>
