@@ -1,119 +1,194 @@
 french,korean,example,infinitive
-je / tu / il / on / nous / vous / ils,주격 인칭대명사,Je suis ici.,
 je/moi/mes/me · tu/toi/tes/te · il/lui/son(m)sa(f)ses · nous/notre/nos · vous/votre/vos · ils/eux/leur/leurs,인칭대명사 강세형·소유형·목적격,C'est lui.,
-ce/cet/cette/ces/ça,이/이것 (지시),C'est ça.,
+je / tu / il / on / nous / vous / ils,주격 인칭대명사,Je suis ici.,
+ce / cet / cette / ces / ça,이/이것 (지시),C'est ça.,
 du / de la / des,부분관사,Du pain.,
-être_suis/es/est/sommes/êtes/sont,-이다,Je suis médecin.,être
-être en train de,-하는 중이다,Je suis en train de manger.,être
-avoir_ai/as/a/avons/avez/ont,갖고 있다,J'ai un chat.,avoir
-pouvoir_peux/peux/peut/pouvons/pouvez/peuvent,할 수 있다,Je peux nager.,pouvoir
-vouloir_veux/veux/veut/voulons/voulez/veulent,원하다,Je veux un café.,vouloir
-devoir_dois/dois/doit/devons/devez/doivent,해야 한다,Je dois partir.,devoir
-aller_vais/vas/va/allons/allez/vont,가다 (au/à),Je vais à Paris.,aller
-prendre_prends/prends/prend/prenons/prenez/prennent,"타다, 가져가다, 사진 찍다, 먹다, 마시다, 휴가 보내다",Je prends un verre.,prendre
-prendre une douche,샤워하다,Je prends une douche.,prendre
-faire_fais/fais/fait/faisons/faites/font,"하다, 만들다",Je fais du sport.,faire
-faire le ménage,"집안일하다, 청소하다",Je fais le ménage.,faire
-venir_viens/viens/vient/venons/venez/viennent,-에서 오다 (de),Je viens de Corée.,venir
-sortir_sors/sors/sort/sortons/sortez/sortent,"나오다, 나가다",Je sors ce soir.,sortir
-jouer_joue/joues/joue/jouons/jouez/jouent,"놀다, 경기하다, 연주하다",Je joue au tennis.,jouer
-savoir_sais/sais/sait/savons/savez/savent,(사실·언어·기술을) 알다,Je ne sais pas.,savoir
-voir_vois/vois/voit/voyons/voyez/voient,보다,Je vois la mer.,voir
-appeler / appelle,"전화하다, -라고 부르다",Je m'appelle Nini.,appeler
-marcher / marche,걷다,Je marche dans le parc.,marcher
-partir_pars/part/partez,-으로 떠나다,Je pars en vacances.,partir
-bouger / bouge,"이동하다, 움직이다",Ne bouge pas !,bouger
-habiter / habite,-에 살다 (en/au),J'habite à Busan.,habiter
-vivre / vis,살다,Je vis à Paris.,vivre
-rester / reste,머무르다,Je reste à la maison.,rester
+ce (남성·자음 앞) / cet (남성·모음 앞) / cette (여성) / ces (복수),이 ~ (지시형용사),ce livre / cet homme / cette femme / ces livres,
+de + le → du / de + la → de la / de + les → des,"~의, ~에서, ~을 (부분관사 축약)",Je viens du Japon. / Je parle de la France.,
+à + le → au / à + la → à la / à + les → aux,"~에, ~으로 (전치사 축약)",Je vais au Japon. / Je vais à la plage.,
+être_suis/es/est/sommes/êtes/sont/été,-이다 (était=과거),J'étais fatigué.,être
+avoir_ai/as/a/avons/avez/ont/eu,갖고 있다 (avais=과거),J'avais faim.,avoir
+avoir en train de,-하는 중이다,Je suis en train de manger.,avoir
+pouvoir_peux/peux/peut/pouvons/pouvez/peuvent/pu,할 수 있다 (pourrait=could),Il pourrait venir.,pouvoir
+vouloir_veux/veux/veut/voulons/voulez/veulent/voulu,원하다,Je veux un café.,vouloir
+devoir_dois/dois/doit/devons/devez/doivent/dû,"해야 한다, 숙제",Je dois partir.,devoir
+devoir être,"-할 것이다, ~임에 틀림없다",Il doit être fatigué.,devoir
+aller_vais/vas/va/allons/allez/vont/allé,가다 (au/à),Je vais à Paris.,aller
+prendre_prends/prends/prend/prenons/prenez/prennent/pris,"타다, 가져가다, 사진 찍다, 마시다, 샤워하다",Je prends une douche.,prendre
+faire_fais/fais/fait/faisons/faites/font/fait,"하다, 만들다",Je fais du sport.,faire
+faire le ménage / faire les courses / faire des cours / faire confiance,집안일하다 / 장보다 / 수업듣다 / 믿다,Je fais les courses.,faire
+venir_viens/viens/vient/venons/venez/viennent/venu,-에서 오다 (de),Je viens de Corée.,venir
+jouer_joue/joues/joue/jouons/jouez/jouent/joué,"놀다, 경기하다, 연기하다, 연주하다",Je joue au tennis.,jouer
+savoir_sais/sais/sait/savons/savez/savent/su,(사실·언어·기술을) 알다,Je ne sais pas.,savoir
+voir_vois/vois/voit/voyons/voyez/voient/vu,보다 (vu=본),J'ai vu ce film.,voir
+appeler_appelle/appelles/appelle/appelons/appelez/appellent/appelé,"전화하다, -라고 부르다",Je m'appelle Nini.,appeler
+marcher_marche/marches/marche/marchons/marchez/marchent/marché,"걷다, 작동하다",Ça marche bien.,marcher
+partir_pars/pars/part/partons/partez/partent/parti,-으로 떠나다,Je pars en vacances.,partir
+sortir_sors/sors/sort/sortons/sortez/sortent/sorti,"나오다, 나가다, 내리다, 사귀다",On sort ensemble.,sortir
+descendre_descends/descends/descend/descendons/descendez/descendent/descendu,내리다,Je descends à la prochaine.,descendre
+monter_monte/montes/monte/montons/montez/montent/monté,"타다, 올라가다",Je monte dans le bus.,monter
+bouger_bouge/bouges/bouge/bougeons/bougez/bougent/bougé,"이동하다, 움직이다",Ne bouge pas !,bouger
+s'approcher_je m'approche/tu t'approches/il s'approche/nous nous approchons/vous vous approchez/ils s'approchent/approché,다가가다,Il s'approche de moi.,s'approcher
+déménager_déménage/déménages/déménage/déménageons/déménagez/déménagent/déménagé,이사하다,Je déménage la semaine prochaine.,déménager
+entrer_entre/entres/entre/entrons/entrez/entrent/entré,들어가다,J'entre dans la salle.,entrer
+rentrer_rentre/rentres/rentre/rentrons/rentrez/rentrent/rentré,돌아가다,Je rentre chez moi.,rentrer
+revenir_reviens/reviens/revient/revenons/revenez/reviennent/revenu,돌아오다,Il revient demain.,revenir
+arriver_arrive/arrives/arrive/arrivons/arrivez/arrivent/arrivé,도착하다,Venir d'arriver 방금 도착하다.,arriver
+habiter_habite/habites/habite/habitons/habitez/habitent/habité,-에 살다 (en/au),J'habite à Busan.,habiter
+vivre_vis/vis/vit/vivons/vivez/vivent/vécu,살다,Je vis à Paris.,vivre
+rester_reste/restes/reste/restons/restez/restent/resté,머무르다,Je reste à la maison.,rester
 rester éveillé,깨어 있다,Je reste éveillé.,rester
-dormir_dors,자다,Je dors huit heures.,dormir
-se lever / je me lève,일어나다,Je me lève tôt.,se lever
-se reposer / je me repose,쉬다,Je me repose un peu.,se reposer
-s'amuser / je m'amuse,"놀다, 즐기다",Je m'amuse bien.,s'amuser
-durer / dure,지속되다,Le film dure deux heures.,durer
-rentrer / rentre,돌아가다,Je rentre chez moi.,rentrer
-commencer / commence,시작하다,Je commence à travailler.,commencer
-passer / passe du temps,시간을 보내다,Je passe du temps avec ma famille.,passer
-attendre / attends,기다리다,J'attends le bus.,attendre
+se réveiller_je me réveille/tu te réveilles/il se réveille/nous nous réveillons/vous vous réveillez/ils se réveillent/réveillé,깨어나다,Je me réveille à sept heures.,se réveiller
+dormir_dors/dors/dort/dormons/dormez/dorment/dormi,자다,Je dors huit heures.,dormir
+se lever_je me lève/tu te lèves/il se lève/nous nous levons/vous vous levez/ils se lèvent/levé,일어나다,Je me lève tôt.,se lever
+se reposer_je me repose/tu te reposes/il se repose/nous nous reposons/vous vous reposez/ils se reposent/reposé,쉬다,Je me repose un peu.,se reposer
+s'amuser_je m'amuse/tu t'amuses/il s'amuse/nous nous amusons/vous vous amusez/ils s'amusent/amusé,"놀다, 즐기다",Je m'amuse bien.,s'amuser
+se cacher_je me cache/tu te caches/il se cache/nous nous cachons/vous vous cachez/ils se cachent/caché,숨어 있다,Il se cache derrière l'arbre.,se cacher
+commencer_commence/commences/commence/commençons/commencez/commencent/commencé,시작하다,Je commence à travailler.,commencer
+passer_passe/passes/passe/passons/passez/passent/passé,시간을 보내다,Je passe du temps avec ma famille.,passer
+durer_dure/dures/dure/durons/durez/durent/duré,지속되다,Le film dure deux heures.,durer
+attendre_attends/attends/attend/attendons/attendez/attendent/attendu,기다리다,J'attends le bus.,attendre
 être patient / sois patient,"참다, 인내하다",Sois patient !,être
-se dépêcher / dépêche-toi,서두르다,Dépêche-toi !,se dépêcher
-rencontrer / rencontre,만나다,Je rencontre un ami.,rencontrer
+se dépêcher_je me dépêche/tu te dépêches/il se dépêche/nous nous dépêchons/vous vous dépêchez/ils se dépêchent/dépêché,서두르다,Dépêche-toi !,se dépêcher
+rencontrer_rencontre/rencontres/rencontre/rencontrons/rencontrez/rencontrent/rencontré,만나다,Je rencontre un ami.,rencontrer
+se retrouver_je me retrouve/tu te retrouves/il se retrouve/nous nous retrouvons/vous vous retrouvez/ils se retrouvent/retrouvé,만나다 (약속 장소에서),On se retrouve à midi.,se retrouver
+aimer_aime/aimes/aime/aimons/aimez/aiment/aimé,"좋아하다, 하고 싶다",J'aimerais voyager.,aimer
+espérer_espère/espères/espère/espérons/espérez/espèrent/espéré,희망하다,J'espère que ça va.,espérer
 vouloir / voudrais,원하다 (정중한 표현),Je voudrais un café.,vouloir
-préférer / préfère,더 좋아하다,Je préfère le thé.,préférer
-aimer / aimerais,"좋아하다, 하고 싶다",J'aimerais voyager.,aimer
-détester / déteste,싫어하다,Je déteste le froid.,détester
-apporter / apporte,가져오다,J'apporte un cadeau.,apporter
-emporter / emporte,가져가다,J'emporte mon manteau.,emporter
-recevoir / reçois,받다,Je reçois une lettre.,recevoir
-envoyer / envoies,보내다,J'envoie un message.,envoyer
-préparer / prépare,준비하다,Je prépare le dîner.,préparer
-acheter / achète,사다,J'achète du pain.,acheter
-vendre / vend,팔다,Il vend sa voiture.,vendre
-payer / paye,계산하다 (par carte/en espèces),Je paye par carte.,payer
+préférer_préfère/préfères/préfère/préférons/préférez/préfèrent/préféré,"더 좋아하다, 선호하다",Je préfère le thé.,préférer
+s'intéresser_je m'intéresse/tu t'intéresses/il s'intéresse/nous nous intéressons/vous vous intéressez/ils s'intéressent/intéressé,관심 있다,Je m'intéresse à la musique.,s'intéresser
+se marier_je me marie/tu te maries/il se marie/nous nous marions/vous vous mariez/ils se marient/marié,결혼하다,Ils se marient en juin.,se marier
+détester_déteste/détestes/déteste/détestons/détestez/détestent/détesté,싫어하다,Je déteste le froid.,détester
+tuer_tue/tues/tue/tuons/tuez/tuent/tué,죽이다,Il tue le temps.,tuer
+demander_demande/demandes/demande/demandons/demandez/demandent/demandé,요청하다,Je demande l'addition.,demander
+apporter_apporte/apportes/apporte/apportons/apportez/apportent/apporté,가져오다,J'apporte un cadeau.,apporter
+emporter_emporte/emportes/emporte/emportons/emportez/emportent/emporté,가져가다,J'emporte mon manteau.,emporter
+recevoir_reçois/reçois/reçoit/recevons/recevez/reçoivent/reçu,받다,Je reçois une lettre.,recevoir
+donner_donne/donnes/donne/donnons/donnez/donnent/donné,주다,Il donne des conseils.,donner
+devrais,-하는 게 더 좋겠다,Tu devrais dormir.,devoir
+offrir_offre/offres/offre/offrons/offrez/offrent/offert,선물로 주다,Il m'offre des fleurs.,offrir
+prêter_prête/prêtes/prête/prêtons/prêtez/prêtent/prêté,빌려주다,Je te prête mon stylo.,prêter
+emprunter_emprunte/empruntes/emprunte/empruntons/empruntez/empruntent/emprunté,빌리다,J'emprunte un livre.,emprunter
+envoyer_envoie/envoies/envoie/envoyons/envoyez/envoient/envoyé,보내다,J'envoie un message.,envoyer
+manquer_manque/manques/manque/manquons/manquez/manquent/manqué,"사라지다, 그립다",Tu me manques.,manquer
+voler_vole/voles/vole/volons/volez/volent/volé,훔치다,Il a volé mon sac.,voler
+préparer_prépare/prépares/prépare/préparons/préparez/préparent/préparé,준비하다,Je prépare le dîner.,préparer
+prévoir_prévois/prévois/prévoit/prévoyons/prévoyez/prévoient/prévu,계획하다,Je prévois de partir.,prévoir
+annuler_annule/annules/annule/annulons/annulez/annulent/annulé,취소하다,J'annule le rendez-vous.,annuler
+acheter_achète/achètes/achète/achetons/achetez/achètent/acheté,사다,J'achète du pain.,acheter
+vendre_vends/vends/vend/vendons/vendez/vendent/vendu,팔다,Il vend sa voiture.,vendre
+payer_paye/payes/paye/payons/payez/paient/payé,계산하다,Je paye par carte / en espèces / l'addition.,payer
 payer l'addition,계산서를 지불하다,Je paye l'addition.,payer
-coûter / coûte,비용이 들다,Ça coûte cher.,coûter
-chercher / cherche,찾다,Je cherche mes clés.,chercher
-trouver / trouve,"찾다, 생각하다",Je trouve la solution.,trouver
-croire / crois,"생각하다, 믿다",Je crois que c'est vrai.,croire
-réfléchir / réfléchis,"생각하다, 숙고하다",Je réfléchis à la question.,réfléchir
-choisir / choisit,선택하다,Il choisit le menu.,choisir
-vérifier / vérifie,확인하다,Vérifie si c'est ouvert.,vérifier
-regarder / regarde,"보다, 구경하다",Je regarde la télé.,regarder
-montrer / montre,보여주다,Montre-moi ta photo.,montrer
-lire_lis,읽다,Je lis un roman.,lire
-parler / parle,"말하다, 이야기하다",Je parle de mon voyage.,parler
-dire_dis/dit,"말하다, 쓰여있다",Il dit que c'est vrai.,dire
-discuter / discute,이야기하다,Nous discutons du film.,discuter
-chanter / chante,노래하다,Elle chante bien.,chanter
-sourire / souris,웃다,Elle me sourit.,sourire
-sonner / sonne,울리다,Mon portable sonne.,sonner
-écouter / écoute,듣다,J'écoute la musique.,écouter
-entendre / entends,"들리다, 듣다",J'entends du bruit.,entendre
-traduire / traduis,번역하다,Je traduis le texte.,traduire
-écrire_écris,쓰다,J'écris une lettre.,écrire
-poster / poste,글을 올리다,Je poste une photo.,poster
-étudier / étudie,공부하다,J'étudie le français.,étudier
-apprendre / apprends,배우다,J'apprends le français.,apprendre
-comprendre / comprends,이해하다,Je comprends bien.,comprendre
-connaître / connais,(사람·장소·사물을) 알다,Je connais Paris.,connaître
-exagérer / exagères,과장하다,Tu exagères !,exagérer
-travailler / travaille,일하다 (en/au),Je travaille à l'hôpital.,travailler
-aider / aide,돕다,Il m'aide beaucoup.,aider
-partager / partage,공유하다,Je partage la photo.,partager
-essayer / essayes,시도하다,J'essaie de comprendre.,essayer
-gagner / gagne,이기다,Mon équipe gagne.,gagner
-perdre / perds,지다,Mon équipe perd.,perdre
-abandonner / abandonne,포기하다,N'abandonne pas !,abandonner
-utiliser / utilise,사용하다,J'utilise mon téléphone.,utiliser
-répéter / répète,반복하다,Répète s'il te plaît.,répéter
-s'améliorer / je m'améliore,"향상시키다, 나아지다",Mon français s'améliore.,s'améliorer
-finir / finis,끝내다,Je finis le travail.,finir
-fêter / fête,축하하다,On fête son anniversaire.,fêter
-profiter / profite,즐기다,Profite bien de tes vacances.,profiter
-boire_bois/bois/boit/buvons/buvez/boivent,마시다,Je bois de l'eau.,boire
-manger / mange,먹다,Je mange une pomme.,manger
-goûter / goûte,맛보다,Je goûte la soupe.,goûter
-déjeuner / déjeune,점심 먹다,Je déjeune à midi.,déjeuner
-dîner / dîne,저녁 먹다,Je dîne en famille.,dîner
-commander / commande,주문하다,Je commande un café.,commander
-cuisiner / cuisine,요리하다,Je cuisine le soir.,cuisiner
-porter / portes,"입다, 들다",Je porte un pull.,porter
-s'habiller / je m'habille,옷을 입다,Je m'habille vite.,s'habiller
-mettre / mets,"넣다, 신발 신다, 바르다",Je mets mon manteau.,mettre
-courir / cours,달리다,Je cours tous les matins.,courir
-sauter / saute,"뛰다, 점프하다",L'enfant saute partout.,sauter
-se promener / je me promène,산책하다,Je me promène au parc.,se promener
-arrêter / arrête,멈추다,Arrête !,arrêter
-laver / lave,씻다,Je lave les assiettes.,laver
-se doucher / je me douche,샤워하다,Je me douche le matin.,se doucher
-se coiffer / je me coiffe,머리 손질하다,Je me coiffe avant de sortir.,se coiffer
-nager / nage,수영하다,Je nage à la piscine.,nager
-pêcher / pêches,낚시하다,Je pêche dans le lac.,pêcher
-nettoyer / nettoie,청소하다,Je nettoie la chambre.,nettoyer
-ranger / range,정리하다,Je range mes affaires.,ranger
-sentir / sens,"냄새가 나다, 느껴지다",Ça sent bon !,sentir
-tousser / tousse,기침하다,Je tousse beaucoup.,tousser
+coûter_coûte/coûtes/coûte/coûtons/coûtez/coûtent/coûté,비용이 들다,Ça coûte cher.,coûter
+dépenser de l'argent,돈을 쓰다,Je dépense trop d'argent.,dépenser
+retirer_retire/retires/retire/retirons/retirez/retirent/retiré,인출하다,Je retire de l'argent.,retirer
+chercher_cherche/cherches/cherche/cherchons/cherchez/cherchent/cherché,찾다,Je cherche mes clés.,chercher
+trouver_trouve/trouves/trouve/trouvons/trouvez/trouvent/trouvé,"찾다, 생각하다",Je trouve la solution.,trouver
+croire_crois/crois/croit/croyons/croyez/croient/cru,"생각하다, 믿다",Je crois que c'est vrai.,croire
+réfléchir_réfléchis/réfléchis/réfléchit/réfléchissons/réfléchissez/réfléchissent/réfléchi,"생각하다, 숙고하다",Je réfléchis à la question.,réfléchir
+penser_pense/penses/pense/pensons/pensez/pensent/pensé,"기억하다, 생각하다",Je pense à toi.,penser
+oublier_oublie/oublies/oublie/oublions/oubliez/oublient/oublié,잊다,J'oublie tout !,oublier
+choisir_choisis/choisis/choisit/choisissons/choisissez/choisissent/choisi,선택하다,Il choisit le menu.,choisir
+vérifier_vérifie/vérifies/vérifie/vérifions/vérifiez/vérifient/vérifié,확인하다,Vérifie si c'est ouvert.,vérifier
+regarder_regarde/regardes/regarde/regardons/regardez/regardent/regardé,"보다, 구경하다",Je regarde la télé.,regarder
+montrer_montre/montres/montre/montrons/montrez/montrent/montré,보여주다,Montre-moi ta photo.,montrer
+exagérer_exagère/exagères/exagère/exagérons/exagérez/exagèrent/exagéré,과장하다,Tu exagères !,exagérer
+dirait,-처럼 보인다,On dirait qu'il pleut.,dire
+piéger_piège/pièges/piège/piégeons/piégez/piègent/piégé,속이다,Il m'a piégé.,piéger
+lire_lis/lis/lit/lisons/lisez/lisent/lu,읽다,Je lis un roman.,lire
+parler_parle/parles/parle/parlons/parlez/parlent/parlé,말하다,Je parle de mon voyage.,parler
+dire_dis/dis/dit/disons/dites/disent/dit,"말하다, 쓰여있다",Il m'a dit que c'est vrai.,dire
+discuter_discute/discutes/discute/discutons/discutez/discutent/discuté,이야기하다,Nous discutons du film.,discuter
+répondre_réponds/réponds/répond/répondons/répondez/répondent/répondu,대답하다,Je réponds à ta question.,répondre
+chanter_chante/chantes/chante/chantons/chantez/chantent/chanté,노래하다,Elle chante bien.,chanter
+improviser_improvise/improvises/improvise/improivisons/improvisez/improvisent/improvisé,즉흥 연기하다,Il improvise très bien.,improviser
+sourire_souris/souris/sourit/sourions/souriez/sourient/souri,웃다,Elle me sourit.,sourire
+rire_ris/ris/rit/rions/riez/rient/ri,웃다 (소리내어),On rit ensemble.,rire
+crier_crie/cries/crie/crions/criez/crient/crié,소리치다,Ne crie pas !,crier
+sonner_sonne/sonnes/sonne/sonnons/sonnez/sonnent/sonné,울리다,Mon portable sonne.,sonner
+écouter_écoute/écoutes/écoute/écoutons/écoutez/écoutent/écouté,듣다,J'écoute la musique.,écouter
+entendre_entends/entends/entend/entendons/entendez/entendent/entendu,들리다,J'entends du bruit.,entendre
+traduire_traduis/traduis/traduit/traduisons/traduisez/traduisent/traduit,번역하다,Je traduis le texte.,traduire
+écrire_écris/écris/écrit/écrivons/écrivez/écrivent/écrit,쓰다,J'écris une lettre.,écrire
+signer_signe/signes/signe/signons/signez/signent/signé,사인하다,Je signe le contrat.,signer
+effacer_efface/effaces/efface/effaçons/effacez/effacent/effacé,지우다,J'efface le tableau.,effacer
+poster_poste/postes/poste/postons/postez/postent/posté,글을 올리다,Je poste une photo.,poster
+étudier_étudie/études/étudie/étudions/étudiez/étudient/étudié,공부하다,J'étudie le français.,étudier
+apprendre_apprends/apprends/apprend/apprenons/apprenez/apprennent/appris,배우다,J'ai appris le français.,apprendre
+comprendre_comprends/comprends/comprend/comprenons/comprenez/comprennent/compris,이해하다,Je comprends bien.,comprendre
+apprendre par cœur,외우다,J'apprends par cœur.,apprendre
+se souvenir_je me souviens/tu te souviens/il se souvient/nous nous souvenons/vous vous souvenez/ils se souviennent/souvenu,기억하다,Je me souviens de toi.,se souvenir
+réviser_révise/révises/révise/révisons/révisez/révisent/révisé,복습하다,Je révise mes leçons.,réviser
+connaître_connais/connais/connaît/connaissons/connaissez/connaissent/connu,(사람·장소·사물을) 알다,Je connais Paris.,connaître
+ajouter_ajoute/ajoutes/ajoute/ajoutons/ajoutez/ajoutent/ajouté,추가하다,J'ajoute du sel.,ajouter
+travailler_travaille/travailles/travaille/travaillons/travaillez/travaillent/travaillé,일하다 (en/au),Je travaille à l'hôpital.,travailler
+aider_aide/aides/aide/aidons/aidez/aident/aidé,돕다,Il m'aide beaucoup.,aider
+partager_partage/partages/partage/partageons/partagez/partagent/partagé,공유하다,Je partage la photo.,partager
+essayer_essaie/essaies/essaie/essayons/essayez/essaient/essayé,시도하다,J'essaie de comprendre.,essayer
+gagner_gagne/gagnes/gagne/gagnons/gagnez/gagnent/gagné,이기다,Mon équipe gagne.,gagner
+perdre_perds/perds/perd/perdons/perdez/perdent/perdu,"지다, 잃다",J'ai perdu de l'argent.,perdre
+abandonner_abandonne/abandonnes/abandonne/abandonnons/abandonnez/abandonnent/abandonné,포기하다,N'abandonne pas !,abandonner
+quitter_quitte/quittes/quitte/quittons/quittez/quittent/quitté,"그만두다, 떠나다",Il quitte son travail.,quitter
+décider_décide/décides/décide/décidons/décidez/décident/décidé,결정하다,On décide de partir.,décider
+inventer_invente/inventes/invente/inventons/inventez/inventent/inventé,"만들다, 발명하다",Il invente une histoire.,inventer
+créer_crée/crées/crée/créons/créez/créent/créé,"만들다, 창조하다",Elle a créé une app.,créer
+construire_construis/construis/construit/construisons/construisez/construisent/construit,짓다,On construit une maison.,construire
+utiliser_utilise/utilises/utilise/utilisons/utilisez/utilisent/utilisé,사용하다,J'utilise mon téléphone.,utiliser
+répéter_répète/répètes/répète/répétons/répétez/répètent/répété,반복하다,Répète s'il te plaît.,répéter
+s'améliorer_je m'améliore/tu t'améliores/il s'améliore/nous nous améliorons/vous vous améliorez/ils s'améliorent/amélioré,향상되다,Mon français s'améliore.,s'améliorer
+recommander_recommande/recommandes/recommande/recommandons/recommandez/recommandent/recommandé,추천하다,Je recommande ce restaurant.,recommander
+finir_finis/finis/finit/finissons/finissez/finissent/fini,끝내다,Je finis le travail.,finir
+raccrocher_raccroche/raccroches/raccroche/raccrochons/raccrochez/raccrochent/raccroché,전화 끊다,Il raccroche.,raccrocher
+fêter_fête/fêtes/fête/fêtons/fêtez/fêtent/fêté,축하하다,On fête son anniversaire.,fêter
+remercier_remercie/remercies/remercie/remercions/remerciez/remercient/remercié,감사하다,Je te remercie.,remercier
+profiter_profite/profites/profite/profitons/profitez/profitent/profité,즐기다,Profite bien de tes vacances.,profiter
+rigoler_rigole/rigoles/rigole/rigolons/rigolez/rigolent/rigolé,웃다,On rigole bien.,rigoler
+pleurer_pleure/pleures/pleure/pleurons/pleurez/pleurent/pleuré,울다,Elle pleure.,pleurer
+se sentir_je me sens/tu te sens/il se sent/nous nous sentons/vous vous sentez/ils se sentent/senti,기분이 -하다,Je me sens mieux. / Comment tu te sens ?,se sentir
+boire_bois/bois/boit/buvons/buvez/boivent/bu,마시다,Je bois de l'eau.,boire
+manger_mange/manges/mange/mangeons/mangez/mangent/mangé,먹다,Je mange une pomme.,manger
+goûter_goûte/goûtes/goûte/goûtons/goûtez/goûtent/goûté,맛보다,Je goûte la soupe.,goûter
+déjeuner_déjeune/déjeunes/déjeune/déjeunons/déjeunez/déjeunent/déjeuné,점심 먹다,Je déjeune à midi.,déjeuner
+dîner_dîne/dînes/dîne/dînons/dînez/dînent/dîné,저녁 먹다,Je dîne en famille.,dîner
+commander_commande/commandes/commande/commandons/commandez/commandent/commandé,주문하다,Je commande un café.,commander
+cuisiner_cuisine/cuisines/cuisine/cuisinons/cuisinez/cuisinent/cuisiné,요리하다,Je cuisine le soir.,cuisiner
+couper_coupe/coupes/coupe/coupons/coupez/coupent/coupé,자르다,Je coupe le pain.,couper
+mélanger_mélange/mélanges/mélange/mélangeons/mélangez/mélangent/mélangé,섞다,Je mélange les ingrédients.,mélanger
+composer_compose/composes/compose/composons/composez/composent/composé,누르다 (번호),Je compose le numéro.,composer
+allumer_allume/allumes/allume/allumons/allumez/allument/allumé,켜다,J'allume la lumière.,allumer
+éteindre_éteins/éteins/éteint/éteignons/éteignez/éteignent/éteint,끄다,J'éteins la télé.,éteindre
+fonctionner_fonctionne/fonctionnes/fonctionne/fonctionnons/fonctionnez/fonctionnent/fonctionné,작동하다,Ça fonctionne bien.,fonctionner
+porter_porte/portes/porte/portons/portez/portent/porté,"입다, 들다",Je porte un pull.,porter
+s'habiller_je m'habille/tu t'habilles/il s'habille/nous nous habillons/vous vous habillez/ils s'habillent/habillé,옷을 입다,Je m'habille vite.,s'habiller
+mettre_mets/mets/met/mettons/mettez/mettent/mis,"넣다, 신발 신다, 바르다, 음악 틀다",Je mets de la musique.,mettre
+laisser_laisse/laisses/laisse/laissons/laissez/laissent/laissé,"두다, 남기다",Laisser un pourboire.,laisser
+ouvrir_ouvre/ouvres/ouvre/ouvrons/ouvrez/ouvrent/ouvert,열다,J'ouvre la fenêtre.,ouvrir
+fermer_ferme/fermes/ferme/fermons/fermez/ferment/fermé,닫다,Je ferme la porte.,fermer
+courir_cours/cours/court/courons/courez/courent/couru,달리다,Je cours tous les matins.,courir
+sauter_saute/sautes/saute/sautons/sautez/sautent/sauté,"뛰다, 점프하다",L'enfant saute partout.,sauter
+se promener_je me promène/tu te promènes/il se promène/nous nous promenons/vous vous promenez/ils se promènent/promené,산책하다,Je me promène au parc.,se promener
+s'entraîner_je m'entraîne/tu t'entraînes/il s'entraîne/nous nous entraînons/vous vous entraînez/ils s'entraînent/entraîné,훈련하다,Il s'entraîne tous les jours.,s'entraîner
+conduire_conduis/conduis/conduit/conduisons/conduisez/conduisent/conduit,운전하다,Je conduis prudemment.,conduire
+tourner_tourne/tournes/tourne/tournons/tournez/tournent/tourné,돌다,Tournez à gauche.,tourner
+traverser_traverse/traverses/traverse/traversons/traversez/traversent/traversé,건너다,Je traverse la rue.,traverser
+s'arrêter_je m'arrête/tu t'arrêtes/il s'arrête/nous nous arrêtons/vous vous arrêtez/ils s'arrêtent/arrêté,멈추다,Le bus s'arrête ici.,s'arrêter
+s'asseoir_je m'assieds/tu t'assieds/il s'assoit/nous nous asseyons/vous vous asseyez/ils s'asseyent/assis,앉다,Asseyez-vous !,s'asseoir
+laver_lave/laves/lave/lavons/lavez/lavent/lavé,씻다,Je lave les assiettes.,laver
+se doucher_je me douche/tu te douches/il se douche/nous nous douchons/vous vous douchez/ils se douchent/douché,샤워하다,Je me douche le matin.,se doucher
+se coiffer_je me coiffe/tu te coiffes/il se coiffe/nous nous coiffons/vous vous coiffez/ils se coiffent/coiffé,머리 손질하다,Je me coiffe.,se coiffer
+nager_nage/nages/nage/nageons/nagez/nagent/nagé,수영하다,Je nage à la piscine.,nager
+pêcher_pêche/pêches/pêche/pêchons/pêchez/pêchent/pêché,낚시하다,Je pêche dans le lac.,pêcher
+nettoyer_nettoie/nettoies/nettoie/nettoyons/nettoyez/nettoient/nettoyé,청소하다,Je nettoie la chambre.,nettoyer
+ranger_range/ranges/range/rangeons/rangez/rangent/rangé,정리하다,Je range mes affaires.,ranger
+devenir_deviens/deviens/devient/devenons/devenez/deviennent/devenu,되다,Il devient médecin.,devenir
+grandir_grandis/grandis/grandit/grandissons/grandissez/grandissent/grandi,"성장하다, 커지다",Il grandit vite.,grandir
+s'occuper_je m'occupe/tu t'occupes/il s'occupe/nous nous occupons/vous vous occupez/ils s'occupent/occupé,돌보다,Je m'occupe des enfants.,s'occuper
+nourrir_nourris/nourris/nourrit/nourrissons/nourrissez/nourrissent/nourri,먹이를 주다,Je nourris le chat.,nourrir
+mériter_mérite/mérites/mérite/méritons/méritez/méritent/mérité,자격이 있다,Tu le mérites !,mériter
+vieillir_vieillis/vieillis/vieillit/vieillissons/vieillissez/vieillissent/vieilli,늙다,On vieillit tous.,vieillir
+ressembler_ressemble/ressembles/ressemble/ressemblons/ressemblez/ressemblent/ressemblé,닮다,Il ressemble à son père.,ressembler
+sentir_sens/sens/sent/sentons/sentez/sentent/senti,"냄새가 나다, 느껴지다",Ça sent bon !,sentir
+tousser_tousse/tousses/tousse/toussons/toussez/toussent/toussé,기침하다,Je tousse beaucoup.,tousser
 il pleut,비가 온다,Il pleut aujourd'hui.,pleuvoir
 il neige,눈이 온다,Il neige en hiver.,neiger
 avoir soif,목마르다,J'ai soif.,avoir
@@ -126,11 +201,14 @@ avoir besoin de,-이 필요하다,J'ai besoin d'aide.,avoir
 avoir envie de,-하고 싶다,J'ai envie de dormir.,avoir
 avoir réussi,"해내다, 성공하다",J'ai réussi l'examen.,avoir
 avoir raison,옳다,Tu as raison.,avoir
-n'avoir rien dit,아무 말도 안 하다,Je n'ai rien dit.,avoir
+avoir dit / n'avoir rien dit,말하다 / 아무 말도 안 하다,Je n'ai rien dit.,avoir
 avoir de la place,자리가 있다,Il y a de la place.,avoir
 être libre,"자유롭다, 시간이 있다",Je suis libre ce soir.,être
+avoir raté,놓치다,J'ai raté le bus.,avoir
 avoir l'air triste,슬퍼 보이다,Tu as l'air triste.,avoir
 avoir peur de,-을 무서워하다,J'ai peur des araignées.,avoir
+avoir des nouvelles de,근황을 알다,Tu as des nouvelles de lui ?,avoir
+avoir de la chance,운이 좋다,J'ai de la chance !,avoir
 méchant,심술궂은,Le chat est méchant.,
 jaloux / jalouse,질투하는,Il est jaloux.,
 gentil,착한,Tu es gentil.,
@@ -142,22 +220,42 @@ heureux / heureuse,행복한,Je suis heureux.,
 amoureux / amoureuse de,-와 사랑에 빠진,Il est amoureux d'elle.,
 détendu,편안한,Je suis détendu.,
 confortable,편안한 (사물),Ce canapé est confortable.,
+relaxant,"긴장이 풀리는, 진정시키는",C'est relaxant.,
+sévère,엄격한,Le prof est sévère.,
+généreux / généreuse,너그러운,Il est très généreux.,
 dur,"단단한, 힘든",C'est dur.,
-stressé,"힘든, 스트레스 받는",Je suis stressé.,
+stressé / stressant,스트레스 받는 / 스트레스 주는,C'est stressant.,
+en colère,화난,Il est en colère.,
+choqué,충격받은,Je suis choqué.,
 malade,아픈,Je suis malade.,
 grave,심각한,Ce n'est pas grave.,
 mieux / meilleur,더 나은,Je vais mieux.,
+en forme,건강한,Je suis en forme.,
+impressionnant,인상적인,C'est impressionnant.,
+créatif,창의적인,Il est créatif.,
+prudent,신중한,Sois prudent !,
+timide,수줍어하는,Elle est timide.,
+sûr,확신하는,Tu es sûr ?,
 déçu,실망한,Je suis déçu.,
+incroyable,"놀라운, 대단한",C'est incroyable !,
+surprenant,놀라운,C'est surprenant.,
+fier / fière,자랑스러운,Je suis fier de toi.,
+ambitieux / ambitieuse,야망 있는,Il est ambitieux.,
 paresseux / paresseuse,게으른,Il est paresseux.,
 drôle,웃긴,C'est drôle.,
+passionnant,흥미진진한,C'est passionnant !,
+ennuyeux,지루한,C'est ennuyeux.,
 triste,슬픈,Je suis triste.,
 dommage,안타까운,C'est dommage.,
 inquiet / inquiète,걱정하는,Je suis inquiet.,
 désolé,미안한,Je suis désolé.,
-sérieux,진지한,Il est sérieux.,
+sérieux,"진지한, 성실한",Il est sérieux.,
 difficile,어려운,C'est difficile.,
 facile,"간단한, 쉬운",C'est facile.,
+pratique,편리한,C'est pratique.,
 compliqué,복잡한,C'est compliqué.,
+dangereux,위험한,C'est dangereux.,
+interdit,금지된,C'est interdit.,
 prêt,준비된,Je suis prêt.,
 en retard,늦은,Je suis en retard.,
 perdu,길을 잃은,Je suis perdu.,
@@ -167,6 +265,7 @@ pressé,급한,Je suis pressé.,
 occupé,바쁜,Je suis occupé.,
 lent / lente,느린,Il est lent.,
 rapide,빠른,Il est rapide.,
+assis,앉은,Il est assis.,
 absent,"결석인, 없는",Il est absent.,
 ouvert,열린,Le magasin est ouvert.,
 fermé,닫힌,C'est fermé.,
@@ -181,43 +280,58 @@ joli / jolie,예쁜,Une jolie fleur.,
 mignon,귀여운,Le chat est mignon.,
 génial,멋진,C'est génial.,
 magnifique,"멋진, 장엄한",C'est magnifique !,
+merveilleux,멋진,C'est merveilleux.,
+sage,얌전한,Sois sage !,
 vif / vive,"밝은, 생기있는",Une couleur vive.,
 sombre,어두운,La pièce est sombre.,
-incroyable,대단한,C'est incroyable !,
 doux / douce,부드러운,La couverture est douce.,
 chouette,좋은,C'est chouette.,
 nul / nulle,별로인,Ce film est nul.,
 pire,더 나쁜,C'est pire qu'avant.,
 moche,못생긴,C'est moche.,
-mauvais / mauvaise,"잘못된, 고약한",Le café est mauvais.,
+mauvais / mauvaise,"잘못된, 나쁜",Le café est mauvais.,
+hanté,저주받은,Une maison hantée.,
 sauvage,야생의,Un animal sauvage.,
+bouclé,곱슬거리는,Les cheveux bouclés.,
 célèbre,유명한,Il est célèbre.,
+connu,알려진,C'est bien connu.,
 vrai / vraie,"정확한, 진짜의",C'est vrai.,
 faux / fausse,거짓인,C'est faux.,
-même,같은,Le même livre.,
+même,"같은, 심지어",Moi-même 직접.,
 premier / première,첫 번째,C'est la première fois.,
-dernier / dernière,마지막,C'est la dernière fois.,
+dernier / dernière,"마지막, 지난",Mardi dernier 지난 수요일.,
 jeune,젊은,Il est jeune.,
-nouveau / nouvelle,새로운,Un nouveau livre.,
+nouveau / nouvelle,"새로운, 소식",Les nouvelles du jour.,
 vieux / vieille,"낡은, 오래된",Une vieille maison.,
 cassé,부서진,Mon téléphone est cassé.,
 en panne,고장난,La voiture est en panne.,
-éteint,"꺼진, 소멸된",Le feu est éteint.,
+éteint,꺼진,Le feu est éteint.,
 envoyé,발송된,Le colis est envoyé.,
+annulé,취소된,Le vol est annulé.,
 cher,비싼,C'est cher.,
+riche,부유한,Il est riche.,
 lourd,무거운,Le sac est lourd.,
 léger / légère,가벼운,Ce sac est léger.,
+mince,날씬한,Elle est mince.,
 vide,빈,Le verre est vide.,
+plein / pleine,가득 찬,Le verre est plein.,
+plein de,많은 -,Plein de monde.,
 mort / morte,"방전된, 죽은",La batterie est morte.,
 loin,먼,C'est loin.,
-fort,"강한, 큰",Il est fort.,
+fort,"강한, 큰, -에 강한",Il est fort en maths.,
 gros / grosse,"큰, 뚱뚱한",Un gros chat.,
 grand,큰,Un grand homme.,
-énorme,거대한,C'est énorme !,
-haut,높은,C'est trop haut.,
+énorme / immense,거대한,C'est énorme !,
+haut,높은,À voix haute 큰 소리로.,
+silencieux,조용한,Il est silencieux.,
+bruyant,시끄러운,C'est bruyant.,
 bon / bonne,"맛있는, 좋은",Le gâteau est bon.,
+délicieux / délicieuse,맛있는,C'est délicieux !,
 sucré,달콤한,C'est trop sucré.,
 salé,짠,C'est trop salé.,
+épicé / piquant,매운,C'est épicé.,
+cuit,익힌,Bien cuit.,
+mûr,과일이 익은,La banane est mûre.,
 brûlé,탄,Le pain est brûlé.,
 dégoûtant,역겨운,C'est dégoûtant.,
 chaque,각각의,Chaque jour.,
@@ -225,7 +339,7 @@ un peu,조금,Un peu de sucre.,
 beaucoup,많이,Merci beaucoup.,
 beaucoup de,많은,Beaucoup de gens.,
 plusieurs,여러,Plusieurs fois.,
-nom,이름,Mon nom est Marie.,
+nom / au nom de / nom de famille / prénom,이름 / ~의 이름으로 / 성 / 이름,Au nom de Marie.,
 frère,형/오빠/남동생,J'ai un frère.,
 sœur,누나/언니/여동생,Ma sœur est étudiante.,
 tante,이모/고모/숙모,Ma tante habite à Séoul.,
@@ -245,437 +359,170 @@ voisin,이웃,Mon voisin est sympa.,
 ami,친구,J'ai un ami.,
 collègue,동료,Mon collègue est sympa.,
 invité,손님,Nous avons des invités.,
-quelqu'un,"누군가, 아는 사람",Quelqu'un m'attend.,
-garçon,소년,Un petit garçon.,
-ado,청소년,Mon fils est ado.,
+quelqu'un / l'inconnu,아는 사람 / 낯선 사람,Un inconnu m'a parlé.,
+garçon / ado / dame,소년 / 청소년 / 부인,Une dame élégante.,
 on,우리 (비공식),On y va.,
 chef / cheffe,상사,Mon chef est strict.,
-étudiant,학생,Je suis étudiant.,
+étudiant / l'élève,학생,L'élève écoute le prof.,
 vendeur / vendeuse,판매원,Le vendeur est gentil.,
 serveur,종업원,Le serveur arrive.,
 banquier / banquière,은행원,La banquière est sympa.,
 chauffeur,운전자,Le chauffeur est rapide.,
-pilote,조종사,Il est pilote.,
+pilote / passager,조종사 / 승객,Le pilote annonce l'atterrissage.,
 avocat / avocate,변호사,Elle est avocate.,
 docteur,의사,Le docteur arrive.,
-prof,선생님,Mon prof est patient.,
-professeur,교수,Le professeur explique.,
-auteur / lecteur,작가/독자,L'auteur est célèbre.,
+prof / professeur,선생님 / 교수,Le professeur explique.,
+policier,경찰관,Le policier arrive.,
+auteur / lecteur,작가 / 독자,L'auteur est célèbre.,
 ingénieur,엔지니어,Il est ingénieur.,
 hôte / hôtesse,"주인, 승무원",L'hôtesse est gentille.,
 joueur / joueuse,선수,Le joueur est rapide.,
 chanteur / chanteuse,가수,La chanteuse est connue.,
+peintre,화가,Il est peintre.,
 fleuriste,플로리스트,Elle est fleuriste.,
+coiffeur / coiffeuse,미용사,Le coiffeur est sympa.,
+roi,왕,Le roi de France.,
 métier,직업,Quel est ton métier ?,
+coquin,장난꾸러기,Quel coquin !,
+voleur / voleuse,도둑,Au voleur !,
+personne / gens / personnage / public,사람 / 사람들 / 등장인물 / 관객,Le public applaudit.,
 fantôme,유령,J'ai peur des fantômes.,
-jambe,다리,J'ai mal à la jambe.,
-dos,등,J'ai mal au dos.,
-ventre,배,J'ai mal au ventre.,
-gorge,목,J'ai mal à la gorge.,
-bouche,입,Ouvre la bouche.,
-tête,머리,J'ai mal à la tête.,
-cheveux,머리카락,Mes cheveux sont longs.,
-équipe,팀,Notre équipe est forte.,
-animal / animaux,동물,J'aime les animaux.,
-de compagnie,반려,Un animal de compagnie.,
-chat,고양이,J'ai un chat.,
-chien,개,Le chien aboie.,
-cheval / chevaux,말,Le cheval court vite.,
-ours,곰,Un ours brun.,
-oiseau / oiseaux,새,Les oiseaux chantent.,
-chouette (oiseau),부엉이,Une chouette dans l'arbre.,
-poisson,물고기,J'aime le poisson.,
-moustique,모기,Un moustique m'a piqué.,
-fleur,꽃,Une belle fleur.,
+jambe / pied,다리 / 발,J'ai mal au pied.,
+main / dos / ventre,손 / 등 / 배,J'ai mal au dos.,
+gorge / bouche / yeux,목구멍 / 입 / 눈,J'ai mal à la gorge.,
+visage / tête / cheveux,얼굴 / 머리 / 머리카락,J'ai mal à la tête.,
+rousse / barbe,붉은 머리 / 수염,Il a une barbe.,
 les vêtements,옷,J'achète des vêtements.,
-taille,사이즈,Quelle taille ?,
-chemise,셔츠,Ma chemise est blanche.,
-pull,스웨터,Un pull rouge.,
-pantalon,바지,Un pantalon noir.,
-jupe,치마,Une jupe courte.,
-robe,드레스,Une belle robe.,
-pyjama,잠옷,Je porte un pyjama.,
-manteau,코트,Mon manteau est chaud.,
-botte,장화,Des bottes rouges.,
-chaussure,신발,Mes chaussures sont neuves.,
-chaussette,양말,Une paire de chaussettes.,
-chapeau,모자,Un chapeau noir.,
-écharpe,목도리,Une écharpe chaude.,
-cravate,넥타이,Une cravate bleue.,
-ceinture,벨트,Ma ceinture est noire.,
-lunettes,안경,Mes lunettes sont là.,
-lunettes de soleil,선글라스,J'oublie mes lunettes de soleil.,
-crème solaire,선크림,Je mets de la crème solaire.,
-parapluie,우산,J'ai un parapluie.,
-maillot de bain,수영복,J'oublie mon maillot de bain.,
-portefeuille,지갑,Mon portefeuille est vide.,
-poche,주머니,Dans ma poche.,
-sac,가방,Mon sac est lourd.,
-sac à dos,배낭,Mon sac à dos est lourd.,
-valise,여행 가방,Ma valise est prête.,
-bagage,짐,Mes bagages sont lourds.,
-truc / chose,"것, 물건",C'est un truc bizarre.,
-affaire,"물건, 일",Mes affaires sont ici.,
-boîte,박스,Une boîte de chocolats.,
-colis,소포,J'attends un colis.,
-clé,열쇠,Où sont mes clés ?,
-réveil,알람시계,Mon réveil sonne à sept heures.,
-chargeur,충전기,J'ai besoin du chargeur.,
-portable,휴대폰,Mon portable sonne.,
-ordinateur,컴퓨터,Mon ordinateur est lent.,
-batterie,"배터리, 드럼",La batterie est vide.,
-jouet,장난감,Un jouet pour enfant.,
-voiture,자동차,Ma voiture est rouge.,
-avion,비행기,L'avion arrive.,
-vol,"비행, 항공편",Mon vol est à dix heures.,
-moto,오토바이,Une moto rapide.,
-vélo,자전거,Je fais du vélo.,
-plan,지도,Regarde le plan.,
-carte,"안내, 지도, 카드",Je paye par carte.,
-livre,책,Un bon livre.,
-dictionnaire,사전,J'utilise un dictionnaire.,
-cahier,노트,Mon cahier est neuf.,
-stylo,펜,Prête-moi un stylo.,
-carte postale,엽서,J'envoie une carte postale.,
-bougie,양초,Une bougie parfumée.,
-billet,"표, 티켓",J'achète un billet.,
-ballon,공,Le ballon est rouge.,
-cadeau,선물,Un beau cadeau.,
-gratuit,무료,C'est gratuit.,
-prix,가격,Quel est le prix ?,
-argent,돈,J'ai besoin d'argent.,
-espèces,현금,Je paye en espèces.,
-centime,센트,Cinquante centimes.,
-l'étiquette,가격표,Regarde l'étiquette.,
-ticket de caisse,영수증,Voici votre ticket de caisse.,
-salaire,급여,Mon salaire est correct.,
-en or,금으로 된,Un bracelet en or.,
-bonbon,사탕,Un bonbon sucré.,
-gâteau,케이크,Un gâteau au chocolat.,
-fromage,치즈,Du fromage français.,
-plat,"요리, 접시",Un plat du jour.,
-nourriture,"식료품, 음식",J'achète de la nourriture.,
-farine,밀가루,Un kilo de farine.,
-sucre,설탕,Un peu de sucre.,
-sel,소금,Du sel et du poivre.,
-l'eau,물,Un verre d'eau.,
-eau pétillante,탄산수,Une bouteille d'eau pétillante.,
-bière,맥주,Une bière fraîche.,
-jus d'orange,오렌지 주스,Un jus d'orange.,
-miel,꿀,Du miel dans le thé.,
-beurre,버터,Du pain et du beurre.,
-confiture,잼,De la confiture de fraise.,
-légume,야채,Je mange des légumes.,
-pomme,사과,Une pomme rouge.,
-poire,배,Une poire mûre.,
-banane,바나나,Une banane mûre.,
-viande,고기,Je ne mange pas de viande.,
-œuf,계란,Un œuf à la coque.,
-œufs brouillés,스크램블 에그,Des œufs brouillés.,
-assiette,접시,Une assiette propre.,
-verre,잔,Un verre d'eau.,
-tasse,컵,Une tasse de café.,
-bouteille,병,Une bouteille de vin.,
-couteau,칼,Le couteau est tranchant.,
-fourchette,포크,Une fourchette propre.,
-cuillère,숟가락,Une cuillère en bois.,
-serviette,"수건, 냅킨",Une serviette blanche.,
-mouchoir,"휴지, 손수건",J'ai besoin d'un mouchoir.,
-savon,비누,Du savon pour les mains.,
-shampoing,샴푸,J'achète du shampoing.,
-dentifrice,치약,Un tube de dentifrice.,
-brosse à dents,칫솔,Ma brosse à dents est neuve.,
-brosse,빗,Une brosse à cheveux.,
-parfum,향수,Un parfum agréable.,
-baignoire,욕조,Je prends un bain dans la baignoire.,
-miroir,거울,Je me regarde dans le miroir.,
-médicament,약,Je prends un médicament.,
-chaise,의자,Cette chaise est confortable.,
-canapé,소파,Sur le canapé.,
-coussin,쿠션,Un coussin confortable.,
-lit,침대,Au lit !,
-couverture,담요,Une couverture chaude.,
-frigo,냉장고,Dans le frigo.,
-télé,TV,Je regarde la télé.,
-climatisation,에어컨,Allume la climatisation.,
-placard,"옷장, 찬장",Dans le placard.,
-tiroir,서랍,Range-le dans le tiroir.,
-ciel,하늘,Le ciel est bleu.,
-nuage,구름,Il y a des nuages.,
-vent,바람,Il y a du vent.,
-pluie,비,La pluie est froide.,
-air,공기,L'air est frais.,
-temps,"시간, 날씨",Il fait beau temps.,
-degré,온도,Il fait vingt degrés.,
-mer,바다,J'aime la mer.,
-terre,"지구, 바닥",Par terre.,
-monde,"세계, 세상",Le monde est grand.,
-beaucoup de monde,많은 사람들,Il y a beaucoup de monde.,
-plage,해변,On va à la plage.,
-rivière,강,Une longue rivière.,
-lac,호수,Le lac est calme.,
-montagne,산,Une grande montagne.,
-forêt,숲,Une forêt profonde.,
-arbre,나무,Sous l'arbre.,
-pays,나라,Mon pays est la Corée.,
-allemand,독일(어),Il parle allemand.,
-Angleterre,영국,Il vient d'Angleterre.,
-l'étranger,해외,Je pars à l'étranger.,
-ville,도시,Busan est une grande ville.,
-campagne,시골,À la campagne.,
-rue,거리,Dans la rue.,
-quartier,동네,Mon quartier est calme.,
-endroit,장소,C'est un bel endroit.,
-gare,역,À la gare.,
-arrêt de bus,버스 정류장,À l'arrêt de bus.,
-université,대학,Je vais à l'université.,
-entreprise,기업,Mon entreprise est ici.,
-bureau,"사무실, 책상",Au bureau.,
-appartement,아파트,Mon appartement est petit.,
-chez,-의 집에,Chez moi.,
-ascenseur,엘리베이터,Je prends l'ascenseur.,
-jardin,정원,Dans le jardin.,
-piscine,수영장,À la piscine.,
-salle de sport,헬스장,Je vais à la salle de sport.,
-banque,은행,À la banque.,
-poste,우체국,Je vais à la poste.,
-magasin,가게,Dans le magasin.,
-supermarché,슈퍼마켓,Au supermarché.,
-boulangerie,빵집,À la boulangerie.,
-école,학교,Je vais à l'école.,
-travail,"직장, 일",Au travail.,
-hôpital,병원,À l'hôpital.,
-église,교회,Dans l'église.,
-tour,탑,La tour Eiffel.,
-bibliothèque,도서관,Je vais à la bibliothèque.,
-chambre,"침실, 방",Ma chambre est petite.,
-salon,거실,Dans le salon.,
-toilettes,화장실,Où sont les toilettes ?,
-salle de bain,욕실,Dans la salle de bain.,
-cuisine,부엌,Dans la cuisine.,
-couloir,복도,Dans le couloir.,
-étage,층,Au deuxième étage.,
-porte,문,Ferme la porte.,
-caisse,계산대,À la caisse.,
-salle d'attente,대기실,Dans la salle d'attente.,
-raison,"이유, 이성",Pour quelle raison ?,
-envie de,"욕구, -하고 싶음",J'ai envie de sortir.,
-défi,도전,C'est un défi.,
-choix,선택,Bon choix.,
-aide,도움,J'ai besoin d'aide.,
-conseil,조언,Merci pour ton conseil.,
-vie,인생,La vie est belle.,
-réunion,회의,J'ai une réunion.,
-au téléphone,통화 중,Je suis au téléphone.,
-idée,아이디어,Bonne idée !,
-blague,농담,Une bonne blague.,
-bruit,소리,Quel bruit !,
-cauchemar,악몽,J'ai fait un cauchemar.,
-pause,휴식,Je fais une pause.,
-cours,수업,J'ai un cours.,
-leçon,수업,Une leçon de français.,
-devoir,숙제,Je fais mes devoirs.,
-examen,시험,J'ai un examen demain.,
-réponse,답,Quelle est la réponse ?,
-note,"점수, 메모",J'ai une bonne note.,
-règle,규칙,C'est la règle.,
-concours,"경쟁, 대회",Je passe un concours.,
-médaille,메달,Il a gagné une médaille.,
-natation,수영,Je fais de la natation.,
-courir,달리기,J'aime courir.,courir
-randonnée,하이킹,On fait une randonnée.,
-aventure,모험,Quelle aventure !,
-promenade,산책,Une promenade au parc.,
-meilleur / meilleure,"최고, 최애",C'est ma meilleure amie.,
-langue,언어,Quelle langue ?,
-mot,단어,Quel est ce mot ?,
-prononciation,발음,La prononciation est difficile.,
-roman,소설,Un bon roman.,
-série,"드라마, 시리즈",Ma série préférée.,
-émission,"프로그램, 방송",Une émission de télé.,
-affiche,"광고, 포스터",Une affiche colorée.,
-jeu,게임,Je joue à ce jeu.,
-échecs,체스,Je joue aux échecs.,
-un contre un,1대1,On joue un contre un.,
-mode,패션,Elle aime la mode.,
-parole,가사,Les paroles de la chanson.,
-exercice,연습,Je fais des exercices.,
-rendez-vous,약속,J'ai un rendez-vous.,
-queue,줄,Je fais la queue.,
-ligne,"선, 줄",La ligne est occupée.,
-douche,샤워,Je prends une douche.,
-bain,목욕,Je prends un bain.,
-odeur,"향기, 냄새",Quelle bonne odeur !,
-repas,식사,Un bon repas.,
-petit déjeuner,아침 식사,Au petit déjeuner.,
-fête,"파티, 축제",C'est la fête !,
-camper,캠핑하다,On va camper ce week-end.,camper
-goût / saveur,"맛, 풍미",Quel bon goût.,
-recette,요리법,C'est la recette de ma grand-mère.,
-vaisselle,설거지,Je fais la vaisselle.,
-ménage,"집안일, 집청소",Je fais le ménage.,
-couleur,색깔,Quelle couleur ?,
-gris,회색,Le ciel est gris.,
-jaune,노란색,Une fleur jaune.,
-deux/trois/quatre/cinq,2/3/4/5,Cinq minutes.,
-six/sept/huit/neuf/dix,6/7/8/9/10,Dix euros.,
-onze/douze/treize/quatorze/quinze,11/12/13/14/15,Quinze minutes.,
-seize/dix-huit/dix-neuf/vingt,16/18/19/20,Vingt ans.,
-trente/quarante,30/40,J'ai quarante ans.,
-deuxième / sixième,두 번째 / 여섯 번째,Au deuxième étage.,
-aujourd'hui,오늘,Aujourd'hui il fait beau.,
-demain,내일,À demain.,
-hier,어제,Hier j'étais malade.,
-matin,아침,Ce matin.,
-trois heures du matin,새벽 세 시,Il est trois heures du matin.,
-midi,정오,À midi.,
-après-midi,오후,Cet après-midi.,
-soirée,"저녁, 파티",Bonne soirée.,
-ce soir,오늘 저녁,Ce soir je sors.,
-nuit,밤,Bonne nuit.,
-minuit,자정,À minuit.,
-et quart,15분,Il est deux heures et quart.,
-et demie,30분,Il est deux heures et demie.,
-heure,시간,Quelle heure est-il ?,
-jour,"날, 낮",Quel jour sommes-nous ?,
-journée,하루,Bonne journée.,
-semaine,주,La semaine prochaine.,
-mois,월,Le mois prochain.,
-an,"연, 해",J'ai trente ans.,
-bonne année,새해 복 많이 받으세요,Bonne année !,
-cette année,올해,Cette année.,
-tous les jours,매일,Je travaille tous les jours.,
-chaque jour,하루하루,Chaque jour est différent.,
-saison / printemps / été / automne / hiver,계절/봄/여름/가을/겨울,En été il fait chaud.,
-janvier/février/mars/avril/mai/juin,1월~6월,En janvier il fait froid.,
-juillet/août/septembre/octobre/novembre/décembre,7월~12월,En août il fait chaud.,
-lundi/mardi/mercredi/jeudi/vendredi/samedi/dimanche,월~일요일,Lundi prochain.,
-d'où,어디서,D'où venez-vous ?,
-où,어디에,Où es-tu ?,
-qui / à qui,누구 / 누구의,À qui est ce sac ?,
-quoi / qu'est-ce que c'est,무엇 / 이게 뭐야,Qu'est-ce que c'est ?,
-qu'est-ce que tu veux,너 뭐 원해,Qu'est-ce que tu veux ?,
-pourquoi,왜,Pourquoi pas ?,
-quand,언제,Quand pars-tu ?,
-quand il fait,-한 날씨일 때,Quand il fait beau.,
-quel / quel âge,어떤 / 몇 살,Quel âge as-tu ?,
-à quelle heure,몇 시에,À quelle heure ?,
-quelles villes,어떤 도시,Quelles villes as-tu visitées ?,
-quelque chose,무언가,Quelque chose à boire ?,
-comment / comment vas-tu,어떻게 / 어떻게 지내,Comment vas-tu ?,
-combien / combien ça coûte / ça fait combien,얼마나 / 얼마예요,Combien ça coûte ?,
-mais,하지만,J'aime mais c'est cher.,
-et,그리고,Toi et moi.,
-aussi,또한,Moi aussi.,
-alors,"그러니까, 그래서","Alors, on y va ?",
-parce que / car,"왜냐하면, -해서",Parce que j'aime ça.,
-tout / toutes,전부,Tout va bien.,
-tout le monde,모두,Tout le monde est là.,
-tout le temps,항상,Il travaille tout le temps.,
-tout de suite,지금 당장,Viens tout de suite !,
-tout à l'heure,이따가,À tout à l'heure !,
-pas du tout,전혀,Pas du tout.,
-quelques,몇몇,Quelques minutes.,
-presque,거의,C'est presque fini.,
-juste,단지,Juste un peu.,
-assez,충분히,C'est assez.,
-jamais,절대,Je ne sais jamais.,
-sûrement,틀림없이,C'est sûrement vrai.,
-peut-être,아마,Peut-être demain.,
-finalement,결국,Finalement il est venu.,
-l'air,-해 보이는,Il a l'air fatigué.,
-une fois,한 번,Une fois par jour.,
-cette fois,이번,"Cette fois, c'est différent.",
-très,매우,Très bien.,
-trop,너무 (지나치게),C'est trop.,
-vraiment,정말,Vraiment ?,
-toujours,항상,Toujours là.,
-souvent,자주,Je viens souvent.,
-en général,보통,En général oui.,
-d'habitude,보통,D'habitude je dors tôt.,
-comme d'habitude,평소처럼,Comme d'habitude.,
-parfois,가끔,Parfois je sors.,
-déjà,"이미, 벌써",C'est déjà fait.,
-encore,"여전히, 아직",Encore une fois.,
-enfin,드디어,Enfin !,
-pendant,-동안,Pendant la pause.,
-depuis,"-부터, -동안",Depuis mardi.,
-vers,-무렵,Vers midi.,
-en ce moment,요즘,En ce moment je travaille.,
-jusqu'à,-까지,Jusqu'à demain.,
-après,-후에,Après le travail.,
-avant,-전에,Avant le repas.,
-d'abord,먼저,D'abord on mange.,
-en avance,일찍,Je suis en avance.,
-ensuite,다음에,Ensuite on sort.,
-prochain,다음,Le mois prochain.,
-longtemps,오랫동안,Ça dure longtemps.,
-sur,"위에, 인터넷에서",Sur internet.,
-sous,아래에,Sous la table.,
-devant,앞에,Devant la maison.,
-derrière,뒤에,Derrière la porte.,
-à côté de,옆에,À côté de l'école.,
-près de,근처에,Près de chez moi.,
-gauche,왼쪽,À gauche.,
-droite,오른쪽,Tourne à droite.,
-ici,여기,Viens ici.,
-voilà,여기 있다,Voilà ton café.,
-là-bas,저기에,Il est là-bas.,
-partout,"여기저기에, 온통",Il y a des fleurs partout.,
-dehors,밖에서,Il est dehors.,
-dedans,안에서,C'est dedans.,
-autre / autres,"다른, 또 다른",Une autre fois.,
-ensemble,함께,Allons ensemble.,
-seul / seule,혼자,Je suis seul.,
-tout seul,혼자서,Il vit tout seul.,
-seulement,오직,Seulement cinq euros.,
-en fait,사실은,En fait oui.,
-heureusement,다행히,Heureusement il fait beau.,
-comme,-처럼,Comme toi.,
-si,-한지,Je vérifie si c'est ouvert.,
-moins,"덜, 적은",Moins cher.,
-une heure moins vingt,한 시 이십 분 전,Il est une heure moins vingt.,
-plus,더욱,Plus belle que toi.,
-plus tard / à plus tard,나중에 / 나중에 봐,À plus tard !,
-ne... plus,더 이상 -않다,Je ne fume plus.,
-ne... jamais,절대 -하지 않다,Je ne mens jamais.,
-ne... rien,전혀 -하지 않다,Je ne sais rien.,
-allô,여보세요,Allô ?,
-enchanté,반가워요,Enchanté !,
-bien sûr,물론,Bien sûr !,
-moi aussi,나도 그래,Moi aussi.,
-d'accord / ça marche,좋아요,D'accord.,
-ça va,잘 지내요,Ça va ?,
-quoi de neuf,무슨 일 있나요,Quoi de neuf ?,
-pardon,미안해요,Pardon !,
-de rien / ce n'est rien,"천만에요, 괜찮아",De rien.,
-ce n'est pas grave / c'est bon,괜찮아요,Ce n'est pas grave.,
-tant pis,어쩔 수 없지,Tant pis !,
-j'en ai marre,지긋지긋해,J'en ai marre !,
-calme-toi,진정해,Calme-toi !,
-avec plaisir,기꺼이요,Avec plaisir !,
-au revoir,안녕히 가세요,Au revoir.,
-à demain,내일 봐요,À demain !,
-bientôt / à bientôt,곧 / 곧 만나요,À bientôt.,
-bonne journée,좋은 하루 되세요,Bonne journée !,
-bonne soirée,좋은 저녁 되세요,Bonne soirée.,
-bon courage,힘내세요,Bon courage !,
-il fait quel temps,날씨 어때요,Il fait quel temps ?,
-il fait beau,날씨가 좋아요,Il fait beau aujourd'hui.,
-il fait froid,추워요,Il fait froid.,
-vite,빨리,Viens vite !,
-on y va,갑시다,On y va !,
-mince,아이고,Mince alors !,
-oh là là,어머나,Oh là là !,
-arrête,그만해,Arrête !,
-bof,글쎄요,Bof ça va.,
-chut,쉿,Chut !,
-ou pas,아니면,On sort ou pas ?,
-ça m'énerve,짜증나,Ça m'énerve !,
-donne-moi,나에게 줘,Donne-moi ça.,
-montre-moi,나에게 보여줘,Montre-moi ta photo.,
-c'est pris,"가져왔어, 차 있어",C'est pris.,
-viens m'aider,와서 도와줘,Viens m'aider !,
-je crois que,내 생각에는,Je crois que c'est vrai.,
-il y a,-가 있다,Il y a un chat.,
-joyeux anniversaire,생일 축하해요,Joyeux anniversaire !,
+taille / manche,사이즈 / 소매,Quelle taille ?,
+chemise / pull / pantalon / jupe / robe,셔츠 / 스웨터 / 바지 / 치마 / 드레스,Une belle robe.,
+costume / pyjama,정장 / 잠옷,Il porte un costume.,
+manteau / botte / chaussure / tennis,코트 / 장화 / 신발 / 운동화,Des tennis blanches.,
+chaussette / chapeau / casquette / bonnet,양말 / 모자 / 모자 / 비니,Un bonnet chaud.,
+écharpe / cravate / ceinture,목도리 / 넥타이 / 벨트,Une écharpe chaude.,
+bague / montre / lunettes / lunettes de soleil,반지 / 손목시계 / 안경 / 선글라스,Une belle montre.,
+crème solaire / parapluie / maillot de bain,선크림 / 우산 / 수영복,J'ai mon parapluie.,
+portefeuille / poche / sac / sac à dos / sac à main,지갑 / 주머니 / 가방 / 배낭 / 핸드백,Un sac à main.,
+valise / bagage,여행 가방 / 짐,Ma valise est prête.,
+truc / chose / affaire,"것, 물건",C'est un truc bizarre.,
+boîte / carton / colis / chariot,박스 / 상자 / 소포 / 카트,J'attends un colis.,
+clé / réveil / chargeur / portable,열쇠 / 알람시계 / 충전기 / 휴대폰,Mon portable sonne.,
+l'écran / ordinateur / batterie,화면 / 컴퓨터 / 배터리,Mon écran est cassé.,
+raquette / jouet / bonhomme de neige,라켓 / 장난감 / 눈사람,Un bonhomme de neige.,
+voiture / navette / bateau / avion / vol,자동차 / 셔틀버스 / 배 / 비행기 / 항공편,Mon vol est annulé.,
+moto / vélo,오토바이 / 자전거,Je fais du vélo.,
+plan / carte / livre / dictionnaire,지도 / 안내 / 책 / 사전,J'utilise un dictionnaire.,
+cahier / carnet de dessin / stylo / règle / colle / trousse,노트 / 스케치북 / 펜 / 자 / 풀 / 필통,Ma trousse est pleine.,
+carte postale / tableau / papier / bougie / billet / ballon / cadeau,엽서 / 그림 / 종이 / 양초 / 표 / 공 / 선물,Un beau cadeau.,
+gratuit / échantillon / prix / argent / espèces / centime,무료 / 샘플 / 가격 / 돈 / 현금 / 센트,C'est gratuit.,
+l'addition / pourboire / l'étiquette / ticket de caisse / salaire,계산서 / 팁 / 가격표 / 영수증 / 급여,L'addition s'il vous plaît.,
+en or / bijoux / distributeur,금으로 된 / 보석 / 현금인출기,Un distributeur automatique.,
+bonbon / gâteau / fromage / morceau / plat / four / nourriture,사탕 / 케이크 / 치즈 / 조각 / 요리 / 오븐 / 식료품,Un morceau de gâteau.,
+farine / riz / pâtes / sucre / sel,밀가루 / 쌀 / 파스타 / 설탕 / 소금,Du riz et des pâtes.,
+l'eau / boisson / eau pétillante / bière / l'apéro,물 / 음료수 / 탄산수 / 맥주 / 안주,Un apéro entre amis.,
+jus d'orange / miel / beurre / confiture / glace / chantilly,오렌지주스 / 꿀 / 버터 / 잼 / 아이스크림 / 생크림,De la chantilly sur la glace.,
+légume / pomme / poire / abricot / fraise / banane,야채 / 사과 / 배 / 살구 / 딸기 / 바나나,Une fraise fraîche.,
+viande / saucisse / œuf / œufs brouillés,고기 / 소시지 / 계란 / 스크램블 에그,Des œufs brouillés.,
+assiette / verre / tasse / bouteille / bol / panier,접시 / 잔 / 컵 / 병 / 그릇 / 바구니,Un bol de soupe.,
+couteau / fourchette / cuillère / serviette / mouchoir,칼 / 포크 / 숟가락 / 냅킨 / 휴지,Une cuillère en bois.,
+savon / shampoing / dentifrice / brosse à dents / brosse / parfum / lessive,비누 / 샴푸 / 치약 / 칫솔 / 빗 / 향수 / 세제,Du linge à laver.,
+baignoire / lavabo / miroir / médicament,욕조 / 세면대 / 거울 / 약,Je prends un médicament.,
+chaise / canapé / coussin / lit / couverture / fenêtre,의자 / 소파 / 쿠션 / 침대 / 담요 / 창문,Ouvre la fenêtre.,
+frigo / télé / climatisation / placard / armoire / tiroir,냉장고 / TV / 에어컨 / 찬장 / 옷장 / 서랍,Dans l'armoire.,
+l'évier / balai / poubelle,싱크대 / 빗자루 / 쓰레기통,Vide la poubelle.,
+ciel / nuage / vent / pluie / air / lumière / temps / météo / degré,하늘 / 구름 / 바람 / 비 / 공기 / 빛 / 날씨 / 날씨예보 / 온도,Quelle belle lumière.,
+mer / terre / monde / plage / rivière / lac / montagne / forêt / arbre / fleur / feuille,바다 / 지구·바닥 / 세계 / 해변 / 강 / 호수 / 산 / 숲 / 나무 / 꽃 / 잎,Une forêt profonde.,
+animal / de compagnie / chat / chien / cheval / ours / mouton,동물 / 반려 / 고양이 / 개 / 말 / 곰 / 양,Un mouton blanc.,
+oiseau / chouette / grenouille / poisson / moustique / araignée,새 / 부엉이 / 개구리 / 물고기 / 모기 / 거미,Une araignée dans la salle.,
+pays / allemand / Angleterre / les États-Unis / l'étranger,나라 / 독일 / 영국 / 미국 / 해외,Je pars aux États-Unis.,
+ville / château / campagne,도시 / 성 / 시골,Un château magnifique.,
+rue / route / trottoir / raccourci / pont,거리 / 길 / 인도 / 지름길 / 다리,Prends le raccourci.,
+quartier / endroit / lieu / région / ailleurs / l'immeuble,동네 / 장소 / 장소 / 지역 / 다른 곳 / 건물,Un bel endroit.,
+gare / arrêt de bus / université / entreprise / bureau,역 / 버스 정류장 / 대학 / 기업 / 사무실·책상,À la gare.,
+appartement / ascenseur / jardin / piscine / salle de sport,아파트 / 엘리베이터 / 정원 / 수영장 / 헬스장,Dans le jardin.,
+banque / poste / magasin / cabine d'essayage / supermarché / boulangerie,은행 / 우체국 / 가게 / 탈의실 / 슈퍼마켓 / 빵집,À la boulangerie.,
+école / collège / lycée / travail / hôpital / église / tour / bibliothèque,학교 / 중학교 / 고등학교 / 직장 / 병원 / 교회 / 탑 / 도서관,Je vais à la bibliothèque.,
+chambre / salon / toilettes / salle de bain / cuisine / couloir / étage / porte / toit,침실 / 거실 / 화장실 / 욕실 / 부엌 / 복도 / 층 / 문 / 지붕,Au deuxième étage.,
+caisse / comptoir / rayon / salle d'attente / scène / écurie,계산대 / 카운터 / 코너 / 대기실 / 무대 / 마굿간,Dans la salle d'attente.,
+raison / d'avis / envie de / défi / choix / aide / conseil / excuse / vie / vraie vie,이유·이성 / 마음 / 욕구 / 도전 / 선택 / 도움 / 조언 / 변명 / 인생 / 현실,C'est la vraie vie.,
+réunion / au téléphone / idée / blague / destin / horoscope / bruit / cauchemar / pause / fin,회의 / 통화 중 / 아이디어 / 농담 / 운명 / 운세 / 소리 / 악몽 / 휴식 / 끝,Quelle bonne idée !,
+cours / leçon / matière / histoire / devoir / examen / contrôle / réponse / note / règle / formulaire / projet / titre,수업 / 수업 / 과목 / 역사·이야기 / 숙제 / 시험 / 시험 / 답 / 점수 / 규칙 / 양식 / 프로젝트 / 제목,Je fais mes devoirs.,
+concours / médaille / natation / baignade / courir / randonnée / basket / sport / aventure / promenade / santé,경쟁 / 메달 / 수영 / 수영 / 달리기 / 하이킹 / 농구 / 운동 / 모험 / 산책 / 건강,Je fais du sport.,
+langue / mot / prononciation / sujet / roman / bande dessinée / dessin animé / série / documentaire,언어 / 단어 / 발음 / 주제 / 소설 / 만화책 / 만화영화 / 드라마 / 다큐멘터리,Mon dessin animé préféré.,
+spectacle / émission / chaîne / texte / dialogue / ambiance / chanson / parole / poésie / affiche,공연 / 프로그램 / 채널 / 대본 / 대화 / 분위기 / 노래 / 가사 / 시 / 광고,Quelle belle ambiance.,
+jeu / les jeux vidéo / aux échecs / un contre un / mode / exercice / rendez-vous / contrat,게임 / 비디오게임 / 체스 / 1대1 / 패션 / 연습 / 약속 / 계약,J'ai un rendez-vous.,
+queue / ligne / douche / bain / odeur / repas / petit déjeuner / fête / mariage / camper,줄 / 선 / 샤워 / 목욕 / 향기 / 식사 / 아침식사 / 파티 / 결혼식 / 캠핑,Un mariage magnifique.,
+goût / saveur / recette / vaisselle / linge / courses / ménage / bazar / désordre,맛 / 풍미 / 요리법 / 설거지 / 빨래 / 장보기 / 집안일 / 엉망 / 무질서,Quel bazar !,
+couleur / gris / jaune / marron / brun / roux / rouge,색깔 / 회색 / 노란색 / 갈색 / 갈색 / 주황색 / 빨간색,Une robe rouge.,
+numéro / deux / trois / quatre / cinq / six / sept / huit / neuf / dix,번호 / 2~10,Numéro dix.,
+onze / douze / treize / quatorze / quinze / seize / dix-huit / dix-neuf / vingt,11~20,Vingt ans.,
+trente / quarante / cinquante,30/40/50,Cinquante euros.,
+deuxième / troisième / quatrième / sixième / onzième,2번째~11번째,Au deuxième étage.,
+aujourd'hui / demain / hier,오늘 / 내일 / 어제,Hier j'étais malade.,
+matin / trois heures du matin / midi / après-midi / soirée / ce soir / nuit / minuit,아침 / 새벽 3시 / 정오 / 오후 / 저녁 / 오늘 저녁 / 밤 / 자정,Ce soir je sors.,
+et quart / et demie / heure / jour / journée / semaine / mois / an,15분 / 30분 / 시간 / 날 / 하루 / 주 / 월 / 연,Quelle journée !,
+bonne année / cette année / l'année dernière / semaine prochaine / tous les jours / chaque jour / l'autre jour,새해 / 올해 / 작년 / 다음주 / 매일 / 하루하루 / 며칠 전,"L'autre jour, je l'ai vu.",
+saison / printemps / été / automne / hiver,계절 / 봄 / 여름 / 가을 / 겨울,En été il fait chaud.,
+en janvier / février / mars / avril / mai / juin,1월~6월,En janvier il fait froid.,
+juillet / août / septembre / octobre / novembre / décembre,7월~12월,En août il fait chaud.,
+lundi / mardi / mercredi / jeudi / vendredi / samedi / dimanche,월~일요일,Lundi prochain.,
+d'où / où / qui / à qui,어디서 / 어디에 / 누구 / 누구의,À qui est ce sac ?,
+quoi / pourquoi / quand / pour quand,무엇 / 왜 / 언제 / 언제까지,Pour quand c'est ?,
+quand il fait / quel / quel âge / à quelle heure / quelles villes,날씨일 때 / 어떤 / 몇 살 / 몇 시에 / 어떤 도시,Quel âge as-tu ?,
+quelqu'un / quelques / quelque chose / quelque part / qu'est-ce que c'est,누군가 / 몇몇 / 무언가 / 어딘가 / 이게 뭐야,Quelque chose à boire ?,
+comment / comment vas-tu / combien / combien ça coûte / ça fait combien,어떻게 / 어떻게 지내 / 얼마나 / 얼마예요,Combien ça coûte ?,
+mais / et / aussi / alors / parce que / car / grâce à,하지만 / 그리고 / 또한 / 그러니까 / 왜냐하면 / -해서 / 덕분에,Grâce à toi !,
+tout / toutes / tout le monde / tout le temps / tout de suite / tout à l'heure,전부 / 모두 / 항상 / 지금 당장 / 이따가,Tout de suite !,
+pas du tout / presque / environ / juste / assez / d'ailleurs / jamais,전혀 / 거의 / 약 / 단지 / 충분히 / 게다가 / 절대,C'est assez.,
+sûrement / peut-être / finalement / l'air / une fois / cette fois / dernière fois,틀림없이 / 아마 / 결국 / -해 보이는 / 한 번 / 이번 / 저번,Une fois de plus.,
+très / trop / vraiment / tellement / toujours / souvent / surtout,매우 / 너무 / 정말 / 너무나 / 항상 / 자주 / 주로·특히,Tellement beau !,
+en général / d'habitude / comme d'habitude / parfois / au hasard / déjà / encore / pas encore,보통 / 보통 / 평소처럼 / 가끔 / 운으로 / 이미 / 여전히 / 아직,Pas encore prêt.,
+enfin / soudain / pendant / depuis / vers / en ce moment / jusqu'à,드디어 / 갑자기 / -동안 / -부터 / -무렵 / 요즘 / -까지,Depuis le début.,
+après / avant / il y a / de ~ à ~ / qu'avant / d'abord / en avance / en même temps / ensuite / puis / prochain / longtemps / lentement,-후에 / -전에 / -전에 / 부터~까지 / 예전보다 / 먼저 / 일찍 / 동시에 / 다음에 / 그 다음에 / 다음 / 오랫동안 / 천천히,En même temps.,
+sur / sous / fond / devant / derrière / à côté de / en face de / milieu / près de / gauche / droite / tout droit,위에 / 아래에 / 바닥에 / 앞에 / 뒤에 / 옆에 / 맞은편에 / 한가운데 / 근처에 / 왼쪽 / 오른쪽 / 똑바로,En face de la gare.,
+ici / voilà / là-bas / partout / dehors / dedans,여기 / 여기 있다 / 저기에 / 온통 / 밖에서 / 안에서,Il est dehors.,
+autre / autres / ensemble / seul / tout seul / seulement,다른 / 다른 것들 / 함께 / 혼자 / 혼자서 / 오직,Tout seul.,
+en fait / heureusement / malheureusement / comme / autant que / si / sauf,사실은 / 다행히 / 유감스럽게도 / -처럼 / -만큼 / -한지 / 제외하고,Malheureusement non.,
+moins / une heure moins vingt / plus / plus tard / à plus tard / les plus ~ de,덜·적은 / 한 시 이십 분 전 / 더욱 / 나중에 / 나중에 봐 / -중 가장,Les plus difficile de tous.,
+ne... plus / ne... jamais / ne... rien / de rien / ce n'est rien / mieux / il faut,더 이상 않다 / 절대 않다 / 전혀 않다 / 천만에요 / 괜찮아 / 더욱 / 해야 한다,Il faut partir.,
+aussi ~ que / autant que,-만큼 ~한,Aussi beau que toi.,
+allô / enchanté / bien sûr / évidemment / moi aussi,여보세요 / 반가워요 / 물론 / 물론 / 나도 그래,Évidemment !,
+d'accord / être d'accord / ça va / ça marche / ça te dit de,좋아요 / 동의하다 / 잘 지내요 / 좋아 / -할래요,Ça te dit de sortir ?,
+quoi de neuf / qu'est-ce qui se passe / vous savez quoi,무슨 일 있나요 / 무슨 일이야 / 있잖아,Vous savez quoi ?,
+pardon / ce n'est pas grave / c'est bon / c'était bon / tant pis,미안해요 / 괜찮아요 / 괜찮아 / 괜찮았어 / 어쩔 수 없지,C'était bon !,
+j'en ai marre / calme-toi / sois prudent / avec plaisir,지긋지긋해 / 진정해 / 조심해 / 기꺼이요,Sois prudent !,
+au revoir / à demain / bientôt / à bientôt / bonne journée / bonne soirée / bon courage,안녕히 가세요 / 내일 봐요 / 곧 / 곧 만나요 / 좋은 하루 / 좋은 저녁 / 힘내세요,Bon courage !,
+ce sera amusant / il fait quel temps / il fait beau / il fait froid,재밌을 거야 / 날씨 어때요 / 날씨 좋아요 / 추워요,Ce sera amusant !,
+vite / on y va / mince / oh là là / arrête / bof / chut / ou pas / ça m'énerve,빨리 / 갑시다 / 아이고 / 어머나 / 그만해 / 글쎄요 / 쉿 / 아니면 / 짜증나,Oh là là !,
+donne-moi / montre-moi / tiens / voici / c'est pris / viens m'aider,나에게 줘 / 보여줘 / 자! / 여기 / 차 있어 / 와서 도와줘,"Tiens, prends ça.",
+je crois que / j'ai de la chance / il y a / joyeux anniversaire,내 생각에는 / 운이 좋아 / 저기에·-전에 / 생일 축하해요,Joyeux anniversaire !,
+prendre un verre,마시다 (한 잔 하다),On prend un verre ?,prendre
+prendre une douche,샤워하다,Je prends une douche.,prendre
+faire du rugby / faire de la danse,럭비하다 / 춤추다,Je fais de la danse.,faire
+faire les valises,짐을 싸다,Je fais les valises.,faire
+faire une pause,휴식을 취하다,Je fais une pause.,faire
+faire froid,춥다,Il fait froid.,faire
+faire le ménage,집안일하다,Je fais le ménage.,faire
+faire les courses,장보다,Je fais les courses.,faire
+faire des cours,수업 듣다,Je fais des cours de français.,faire
+faire confiance,"믿다, 신뢰하다",Je lui fais confiance.,faire
+faire le magasin,쇼핑하다,Je fais le magasin.,faire
+être d'accord,동의하다,Je suis d'accord avec toi.,être
+payer par carte,카드로 계산하다,Je paye par carte.,payer
+payer en espèces,현금으로 계산하다,Je paye en espèces.,payer
+perdre de l'argent,돈을 잃다,J'ai perdu de l'argent.,perdre
+donner des conseils,조언하다,Il me donne des conseils.,donner
+laisser un pourboire,팁을 놓다,Je laisse un pourboire.,laisser
+se sentir mieux,기분이 나아지다,Je me sens mieux.,se sentir
+comment tu te sens,기분이 어때,Comment tu te sens ?,se sentir
+avoir dit,말하다 (과거),Il m'a dit bonjour.,avoir
+on dirait que,-처럼 보이다,On dirait qu'il pleut.,dire
+ça marche,"작동하다, 좋아",Ça marche bien.,marcher
+lire / lisent / lu,읽다 (현재/복수/과거분사),J'ai lu ce livre.,lire
+fort en ~,~에 강한,Il est fort en maths.,
+à voix haute,큰 소리로,Lis à voix haute.,
+moi-même,나 직접,Je l'ai fait moi-même.,
+nouvelles,소식,Tu as des nouvelles ?,
+mardi dernier,지난 화요일,On s'est vus mardi dernier.,
+du monde / beaucoup de monde,세상에서 / 많은 사람들,Il y a beaucoup de monde.,
+autant que,~만큼 (동사 비교),Je travaille autant que toi.,
+autant de + 명사 + que,~만큼 많은 (명사),J'ai autant de travail que toi.,
