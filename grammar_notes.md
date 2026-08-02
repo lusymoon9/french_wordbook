@@ -22,3 +22,21 @@ CSV 카드에 담기 애매한 문법 설명을 정리하는 파일입니다.
 - 부정문은 `ne...pas`가 재귀대명사를 감싼다. (`je ne me cache pas`)
 
 wordbook에 나오는 재귀동사 예: `se cacher`(숨다), `se lever`(일어나다), `se reposer`(쉬다), `s'amuser`(놀다), `se dépêcher`(서두르다), `s'approcher`(다가가다), `se marier`(결혼하다), `se tromper`(착각하다) 등.
+
+## autant que vs autant de + 명사 + que — 무엇을 비교하는지가 기준
+
+**① autant que (동사 뒤 — 동작의 정도를 비교)**
+
+주어 + 동사 + **autant que** + 비교대상
+
+- Je travaille **autant que** toi. (나는 너만큼 일한다)
+- Il mange **autant que** moi. (그는 나만큼 먹는다)
+
+**② autant de + 명사 + que (명사의 양·수를 비교)**
+
+주어 + 동사 + **autant de** + 명사 + **que** + 비교대상
+
+- J'ai **autant de** travail **que** toi. (나는 너만큼 많은 일이 있다)
+- Elle a **autant d'**amis **que** moi. (그녀는 나만큼 많은 친구가 있다)
+
+비교하는 대상이 **명사(양/수)**일 때는 그 앞에 반드시 `de`가 붙는다 — `beaucoup de`, `plus de`, `moins de`와 같은 원리(수량 표현 + 명사는 항상 de로 연결). `plus`/`moins`도 동일한 규칙을 따른다: `plus que`(동사 비교) vs `plus de + 명사 + que`(명사 비교).
