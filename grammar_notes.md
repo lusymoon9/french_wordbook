@@ -64,3 +64,35 @@ wordbook에 나오는 재귀동사 예: `se cacher`(숨다), `se lever`(일어�
   - Elle part de Paris pour Londres. (그녀는 파리를 떠나 런던으로 간다)
 
 핵심: **sortir**는 "안에 있다가 밖으로 나가는 동작"(공간의 안/밖), **partir**는 "그 장소를 떠나 어딘가로 출발하는 것"(이동의 시작·방향)에 방점이 있다. 방을 나갈 땐 sortir, 여행이나 장거리 이동으로 떠날 땐 partir가 자연스럽다.
+
+## 복합과거(passé composé) 만들기 — 조동사는 avoir만이 아니다
+
+과거형(복합과거)은 **조동사(avoir 또는 être) 현재형 + 과거분사(participe passé)**로 만든다. 즉 `il a + 과거분사`, `il est + 과거분사` 둘 다 "그가 ~했다"는 과거를 나타내는 같은 구조이고, `a`/`est` 뒤에 오는 건 항상 과거분사다.
+
+- **avoir + 과거분사** — 대부분의 동사가 여기 해당.
+  - il a mangé (그는 먹었다), il a fini (끝냈다), il a pris (가져갔다)
+- **être + 과거분사** — 주로 이동/상태변화를 나타내는 자동사(흔히 "DR & MRS VANDERTRAMP"로 외움: Devenir, Revenir, Monter, Rester, Sortir, Venir, Aller, Naître, Descendre, Entrer, Rentrer, Tomber, Retourner, Arriver, Mourir, Partir)와 **모든 재귀동사**.
+  - il est allé (갔다), il est parti (떠났다), il est arrivé (도착했다), il est tombé (넘어졌다), il est resté (머물렀다)
+  - 재귀동사: il s'est levé (일어났다), elle s'est cachée (숨었다) — être 뒤에서 재귀동사는 주어의 성·수에 과거분사가 일치한다 (elle s'est cachée처럼 e가 붙음).
+
+## était vs éteins — 철자는 비슷해도 완전히 다른 동사
+
+- **était** = **être**(이다)의 반과거(imparfait) 3인칭 단수. 과거의 지속적인 상태를 묘사. "~였다, ~한 상태였다".
+  - Il était fatigué. (그는 피곤한 상태였다)
+- **éteins** = **éteindre**(끄다)의 현재형(je/tu). "끈다".
+  - J'éteins la lumière. (나는 불을 끈다)
+
+두 단어는 어원도 뜻도 무관한 별개의 동사(être vs éteindre)에서 온 형태이며, 철자가 é-t로 시작해 비슷해 보일 뿐이다.
+
+## retourner vs revenir vs rentrer — 기준점이 다른 "돌아가다"
+
+셋 다 "돌아가다/돌아오다" 계열이지만, **어디를 기준으로 돌아가는지**가 다르다.
+
+- **rentrer** = 집·실내 등 특정 장소 **안으로** 돌아가다. 초점은 "집/안".
+  - Je rentre chez moi. (나는 집으로 돌아간다)
+- **retourner** = 화자가 지금 있는 곳이 아니라, **예전에 있었던 그곳**으로 (다시) 돌아가다.
+  - Je retourne en France. (나는 (다시) 프랑스로 돌아간다 — 지금 프랑스에 있지 않음)
+- **revenir** = **화자가 있는/기준이 되는 이쪽**으로 돌아오다.
+  - Il revient demain. (그는 내일 (이쪽으로) 돌아온다)
+
+정리: rentrer=**집으로**, retourner=**저쪽(예전 장소)으로**, revenir=**이쪽(화자 기준)으로**. 셋 다 이동동사라 복합과거에서 être를 조동사로 쓴다.
