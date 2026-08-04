@@ -96,3 +96,18 @@ wordbook에 나오는 재귀동사 예: `se cacher`(숨다), `se lever`(일어�
   - Il revient demain. (그는 내일 (이쪽으로) 돌아온다)
 
 정리: rentrer=**집으로**, retourner=**저쪽(예전 장소)으로**, revenir=**이쪽(화자 기준)으로**. 셋 다 이동동사라 복합과거에서 être를 조동사로 쓴다.
+
+## 반과거(imparfait) 만드는 법 — être만 빼고 전부 규칙적
+
+반과거는 **직설법 현재 nous(우리) 형에서 -ons를 뗀 어간** + 어미(-ais, -ais, -ait, -ions, -iez, -aient)로 만든다. 이 규칙은 **être 하나만 빼고 모든 동사**(불규칙 동사 포함)에 그대로 적용된다.
+
+- devoir: nous devons → dev- → je devais, tu devais, il devait, nous devions, vous deviez, ils devaient
+- faire: nous faisons → fais- → je faisais, ... ils faisaient (철자는 faisais지만 발음은 [fəzɛ])
+- être(유일한 예외): 어간이 **ét-** → j'étais, tu étais, il était, nous étions, vous étiez, ils étaient
+
+주의할 점:
+- lever/appeler/préférer처럼 현재형에서 강세 때문에 철자가 바뀌는 동사(lève, appelle, préfère)도 반과거는 nous 어간을 그대로 쓰므로 **바뀌지 않는다**: je levais(leévais 아님), j'appelais(appellais 아님), je préférais.
+- -cer 동사(lancer)는 a/o 앞에서만 ç 유지: je lançais / nous lancions(ç 없음).
+- -ger 동사(déménager, piéger)는 a/o 앞에서만 e 유지: je déménageais / nous déménagions(e 없음).
+
+wordbook CSV에는 동사 카드(현재형+과거분사) 바로 다음 줄에 `(반과거)` 태그가 붙은 카드를 추가해뒀다 (같은 infinitive 값으로 연결됨).
