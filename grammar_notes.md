@@ -111,3 +111,17 @@ wordbook에 나오는 재귀동사 예: `se cacher`(숨다), `se lever`(일어�
 - -ger 동사(déménager, piéger)는 a/o 앞에서만 e 유지: je déménageais / nous déménagions(e 없음).
 
 wordbook CSV에는 동사 카드(현재형+과거분사) 바로 다음 줄에 `(반과거)` 태그가 붙은 카드를 추가해뒀다 (같은 infinitive 값으로 연결됨).
+
+## parler vs dire — 둘 다 "말하다"지만 초점이 다름
+
+- **parler** = 말하는 **행위 자체**(대화하다, 언어를 구사하다). 목적어 없이도 쓸 수 있다.
+  - Il parle. (그는 말하고 있다) / parler à qqn (~에게 말을 걸다) / parler de qqch (~에 대해 얘기하다) / parler français (불어를 구사하다)
+- **dire** = 말한 **내용**이 핵심. 항상 무엇을 말했는지를 동반한다. "say/tell"에 가깝다.
+  - Il dit que c'est vrai. (그는 그게 사실이라고 말한다)
+
+## appeler vs rappeler — rappeler = appeler + "다시(re-)"
+
+- **appeler** = (처음) 전화를 걸다, 부르다, 이름 짓다. 재귀형 `s'appeler` = ~라고 불리다(이름이 ~이다).
+  - Je m'appelle Nini. (내 이름은 니니야)
+- **rappeler** = **다시** 전화하다(콜백) 또는 (누군가에게 무언가를) 상기시키다. 재귀형 `se rappeler` = 기억해내다, 회상하다.
+  - Ça me rappelle mon enfance. (그건 내 어린 시절을 떠올리게 한다)
