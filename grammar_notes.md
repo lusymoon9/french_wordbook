@@ -125,3 +125,39 @@ wordbook CSV에는 동사 카드(현재형+과거분사) 바로 다음 줄에 `(
   - Je m'appelle Nini. (내 이름은 니니야)
 - **rappeler** = **다시** 전화하다(콜백) 또는 (누군가에게 무언가를) 상기시키다. 재귀형 `se rappeler` = 기억해내다, 회상하다.
   - Ça me rappelle mon enfance. (그건 내 어린 시절을 떠올리게 한다)
+
+## 단순미래(futur simple) 만드는 법 — 반과거보다 불규칙 어간이 훨씬 많음
+
+기본 규칙: **동사원형(어간) + ai/as/a/ons/ez/ont**.
+- -er, -ir 동사: 원형을 그대로 어간으로 쓴다. partir → partir**ai**, partir**as**...
+- -re 동사: 원형 끝의 e를 뗀다. prendre → prendr**ai**, mettre → mettr**ai**.
+
+**완전히 불규칙한 어간** (외울 수밖에 없다):
+| 동사 | 미래 어간 | 예 |
+|---|---|---|
+| être | ser- | je serai |
+| avoir | aur- | j'aurai |
+| aller | ir- | j'irai |
+| faire | fer- | je ferai |
+| pouvoir | pourr- | je pourrai |
+| vouloir | voudr- | je voudrai |
+| devoir | devr- | je devrai |
+| savoir | saur- | je saurai |
+| voir | verr- | je verrai |
+| envoyer | enverr- | j'enverrai |
+| venir/devenir/revenir/se souvenir | viendr-/deviendr-/reviendr-/souviendr- | je viendrai |
+| tenir 계열(contenir 등) | tiendr-/contiendr- | je contiendrai |
+| courir | courr- | je courrai |
+| recevoir | recevr- | je recevrai |
+| s'asseoir | assiér- | je m'assiérai |
+
+**주의**: **prévoir**는 voir와 어원이 같아 보이지만 미래형은 **규칙적**이다 — je prévoir**ai** (verrai 아님)! 흔히 틀리는 함정.
+
+**철자 변화**:
+- lever, promener, acheter, emmener, enlever(=e-caduc 동사): 미래에도 è 유지. j'achèterai, je lèverai.
+- préférer, répéter, récupérer, espérer 같은 é-fermé 동사는 미래에서 **é 그대로 유지**(è로 안 바뀜): je préférerai.
+- appeler, rappeler: 자음 두 번. j'appellerai.
+- nettoyer 같은 -oyer 동사: y→i 필수. je nettoierai.
+- -cer, -ger 동사(lancer, manger)는 반과거와 달리 미래에서 철자 변화가 **필요 없다** (원형 자체에 이미 e가 있어서). je lancerai, je mangerai.
+
+wordbook CSV에는 각 동사의 반과거 카드 바로 다음 줄에 `(미래)` 태그가 붙은 카드를 추가해뒀다.
