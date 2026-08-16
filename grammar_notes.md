@@ -161,3 +161,16 @@ wordbook CSV에는 동사 카드(현재형+과거분사) 바로 다음 줄에 `(
 - -cer, -ger 동사(lancer, manger)는 반과거와 달리 미래에서 철자 변화가 **필요 없다** (원형 자체에 이미 e가 있어서). je lancerai, je mangerai.
 
 wordbook CSV에는 각 동사의 반과거 카드 바로 다음 줄에 `(미래)` 태그가 붙은 카드를 추가해뒀다.
+
+## pris (prendre의 과거분사) — 언제 쓰나
+
+**pris**는 prendre(타다·가져가다·찍다·마시다)의 과거분사. 두 가지로 쓰인다.
+
+1. **복합시제**: avoir + pris
+   - J'ai pris une douche. (샤워를 했다)
+   - Il a pris le train. (기차를 탔다)
+2. **형용사처럼 — "차 있는/바쁜/사용 중인"** (주어의 성·수에 맞춰 pris/prise/pris/prises로 변화)
+   - Cette place est prise. (이 자리는 차 있어요)
+   - Je suis pris ce soir. (오늘 저녁 바빠요)
+
+현재형(prends/prend/prenons...)은 동작이 지금 일어남을, **pris**는 그 동작이 끝난 결과(과거) 또는 이미 차지된/바쁜 상태를 나타낸다. 다른 -re 계열 동사의 과거분사도 같은 패턴: apprendre→appris, comprendre→compris.
