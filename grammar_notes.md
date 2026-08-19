@@ -174,3 +174,22 @@ wordbook CSV에는 각 동사의 반과거 카드 바로 다음 줄에 `(미래)
    - Je suis pris ce soir. (오늘 저녁 바빠요)
 
 현재형(prends/prend/prenons...)은 동작이 지금 일어남을, **pris**는 그 동작이 끝난 결과(과거) 또는 이미 차지된/바쁜 상태를 나타낸다. 다른 -re 계열 동사의 과거분사도 같은 패턴: apprendre→appris, comprendre→compris.
+
+## s'asseoir(앉다) — 변화형이 두 가지라 헷갈림
+
+s'asseoir는 프랑스어에서 몇 안 되는, **두 가지 변화 패턴이 둘 다 표준으로 인정되는 동사**다. 한 문장 안에서는 한 패턴으로 통일해서 써야 한다 (섞어 쓰면 틀림).
+
+| 인칭 | 패턴 A (ie형 — 더 흔함, wordbook 채택) | 패턴 B (oi형) |
+|---|---|---|
+| je | m'assieds | m'assois |
+| tu | t'assieds | t'assois |
+| il/elle | s'assied | s'assoit |
+| nous | nous asseyons | nous assoyons |
+| vous | vous asseyez | vous assoyez |
+| ils | s'asseyent | s'assoient |
+
+- 반과거는 두 패턴 다 같은 어간(asse-): je m'asseyais, ...
+- 미래는 불규칙: je m'**assiérai** (assoirai도 가능하지만 assiérai가 전통적 표준형)
+- 과거분사: **assis**
+
+wordbook은 패턴 A(ie형)로 통일해뒀다.
