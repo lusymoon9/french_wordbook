@@ -193,3 +193,19 @@ s'asseoir는 프랑스어에서 몇 안 되는, **두 가지 변화 패턴이 �
 - 과거분사: **assis**
 
 wordbook은 패턴 A(ie형)로 통일해뒀다.
+
+## tout / toute / tous / toutes — "모든"은 뒤 명사의 성·수에 맞춘다
+
+형용사로 쓰이는 tout은 뒤에 오는 명사의 성(남성/여성)·수(단수/복수)에 따라 4가지로 변한다.
+
+| | 단수 | 복수 |
+|---|---|---|
+| 남성 | **tout** | **tous** |
+| 여성 | **toute** | **toutes** |
+
+- tout le monde (모두 — le monde는 남성단수) / tout le temps (항상)
+- toute la journée (하루 종일 — la journée는 여성단수)
+- **tous** les jours (매일 — les jours 남성복수) / tous les matins (매일 아침)
+- **toutes** les filles (모든 소녀들 — les filles 여성복수)
+
+뒤 명사가 남성단수→tout, 여성단수→toute, 남성복수→tous, 여성복수→toutes. 참고로 tout이 **대명사**로 혼자 쓰이면(예: Ils sont tous là. 그들 모두 거기 있다) "tous"의 s를 **발음하지만**, 명사 앞 **형용사**로 쓸 때(tous les jours)는 s가 **묵음**이다.
