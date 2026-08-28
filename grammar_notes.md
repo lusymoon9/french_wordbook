@@ -209,3 +209,17 @@ wordbook은 패턴 A(ie형)로 통일해뒀다.
 - **toutes** les filles (모든 소녀들 — les filles 여성복수)
 
 뒤 명사가 남성단수→tout, 여성단수→toute, 남성복수→tous, 여성복수→toutes. 참고로 tout이 **대명사**로 혼자 쓰이면(예: Ils sont tous là. 그들 모두 거기 있다) "tous"의 s를 **발음하지만**, 명사 앞 **형용사**로 쓸 때(tous les jours)는 s가 **묵음**이다.
+
+## du/de la/des(부분관사) — 부정문에서는 de로 줄어든다
+
+- **긍정문**: du/de la/des + 명사 ("~을 좀/약간")
+  - Il faut du sucre. (설탕이 필요하다)
+- **부정문**(ne...pas, ne...plus, ne...jamais 등): du/de la/des → **de**(모음 앞이면 d')로 축약
+  - Il n'y a plus **de** sucre. (더 이상 설탕이 없다)
+  - Je ne veux pas **de** sucre. (설탕을 원하지 않는다)
+  - Je n'ai pas **d'**argent. (돈이 없다)
+
+부정문에서는 양이 0이 되어 "약간의"라는 부분관사의 의미 자체가 성립하지 않으므로 de만 남는다.
+
+**예외**: être 부정문에서 존재/양이 아니라 **정체성을 대조**할 때는 부분관사를 그대로 유지한다.
+- Ce n'est pas **du** sucre, c'est **du** sel. (이건 설탕이 아니라 소금이다)
