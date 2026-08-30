@@ -75,6 +75,10 @@ wordbook에 나오는 재귀동사 예: `se cacher`(숨다), `se lever`(일어�
   - il est allé (갔다), il est parti (떠났다), il est arrivé (도착했다), il est tombé (넘어졌다), il est resté (머물렀다)
   - 재귀동사: il s'est levé (일어났다), elle s'est cachée (숨었다) — être 뒤에서 재귀동사는 주어의 성·수에 과거분사가 일치한다 (elle s'est cachée처럼 e가 붙음).
 
+**wordbook의 207개 동사 중 être를 쓰는 36개** (나머지 171개는 전부 avoir):
+- 이동·상태변화: aller, arriver, descendre, devenir, entrer, monter, partir, rentrer, rester, retourner, revenir, sortir, tomber, venir
+- 재귀동사(전부): s'amuser, s'améliorer, s'approcher, s'arrêter, s'asseoir, s'entraîner, s'habiller, s'inscrire, s'intéresser, s'occuper, se cacher, se coiffer, se doucher, se dépêcher, se lever, se marier, se promener, se reposer, se retrouver, se réveiller, se sentir, se souvenir
+
 ## était vs éteins — 철자는 비슷해도 완전히 다른 동사
 
 - **était** = **être**(이다)의 반과거(imparfait) 3인칭 단수. 과거의 지속적인 상태를 묘사. "~였다, ~한 상태였다".
