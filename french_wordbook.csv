@@ -588,7 +588,7 @@ ambitieux / ambitieuse,야망 있는,Il est ambitieux.,
 paresseux / paresseuse,게으른,Il est paresseux.,
 drôle,웃긴,C'est drôle.,
 passionnant,흥미진진한,C'est passionnant !,
-ennuyeux,지루한,C'est ennuyeux.,
+ennuyeux / ennuyeuse,지루한,C'est ennuyeux.,
 triste,슬픈,Je suis triste.,
 dommage,안타까운,C'est dommage.,
 inquiet / inquiète,걱정하는,Je suis inquiet.,
@@ -1123,3 +1123,9 @@ rêver(미래)_rêverai/rêveras/rêvera/rêverons/rêverez/rêveront,(미래) �
 il pleuvra,비가 올 것이다,Il pleuvra demain.,pleuvoir
 il neigera,눈이 올 것이다,Il neigera ce week-end.,neiger
 juif / juive,"유대인의, 유대인",Il est juif. / Elle est juive.,
+ennuyer_ennuie/ennuies/ennuie/ennuyons/ennuyez/ennuient/ennuyé,(남을) 지루/귀찮게 하다,Ce film m'ennuie.,ennuyer
+ennuyer(반과거)_ennuyais/ennuyais/ennuyait/ennuyions/ennuyiez/ennuyaient,(반과거) (남을) 지루/귀찮게 하다,Ce film m'ennuyait.,ennuyer
+ennuyer(미래)_ennuierai/ennuieras/ennuiera/ennuierons/ennuierez/ennuieront,(미래) (남을) 지루/귀찮게 하다,Ce film m'ennuiera.,ennuyer
+s'ennuyer_je m'ennuie/tu t'ennuies/il s'ennuie/nous nous ennuyons/vous vous ennuyez/ils s'ennuient/ennuyé,"심심하다, 지루해하다",Je m'ennuie.,s'ennuyer
+s'ennuyer(반과거)_m'ennuyais/t'ennuyais/s'ennuyait/nous ennuyions/vous ennuyiez/s'ennuyaient,"(반과거) 심심하다, 지루해하다",Je m'ennuyais.,s'ennuyer
+s'ennuyer(미래)_m'ennuierai/t'ennuieras/s'ennuiera/nous ennuierons/vous ennuierez/s'ennuieront,"(미래) 심심하다, 지루해하다",Je m'ennuierai.,s'ennuyer
