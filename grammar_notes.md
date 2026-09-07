@@ -227,3 +227,13 @@ wordbook은 패턴 A(ie형)로 통일해뒀다.
 
 **예외**: être 부정문에서 존재/양이 아니라 **정체성을 대조**할 때는 부분관사를 그대로 유지한다.
 - Ce n'est pas **du** sucre, c'est **du** sel. (이건 설탕이 아니라 소금이다)
+
+## avoir eu — avoir 자신의 복합과거 (조동사와 본동사가 같은 동사)
+
+**eu**는 avoir의 과거분사. `avons eu`처럼 avoir가 자기 자신을 복합과거로 만들면 **avoir(조동사) + eu(avoir의 과거분사)** 구조가 되어 "조동사와 본동사가 같은 단어"인 특이 케이스가 된다.
+
+- Nous avons eu une réunion rapide. (우리는 짧은 회의를 가졌다/했다)
+- Il a eu peur. (그는 무서웠다 — avoir peur의 과거)
+- J'ai eu de la chance. (나는 운이 좋았다)
+
+다른 동사의 복합과거(예: il a mangé)에서는 avoir가 순전히 조동사 역할만 하지만, avoir 본인의 복합과거에서는 avoir가 조동사이자 동시에 그 뜻(가지다)을 나르는 과거분사(eu)의 원형이기도 하다는 점이 헷갈리는 지점.
