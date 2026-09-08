@@ -239,3 +239,19 @@ wordbook은 패턴 A(ie형)로 통일해뒀다.
 - Ça a été difficile. (그거 어려웠어)
 
 다른 동사의 복합과거(예: il a mangé)에서는 avoir가 순전히 조동사 역할만 하지만, avoir/être 본인의 복합과거에서는 avoir가 조동사이자 동시에 그 뜻(가지다/이다)을 나르는 과거분사(eu/été)의 원형이기도 하다는 점이 헷갈리는 지점. 핵심은 "조동사는 무조건 avoir 또는 être 둘 중 하나이고, 본동사가 무엇이든(심지어 avoir나 être 자신이어도) 그 규칙은 안 바뀐다"는 것.
+
+## beau/bel/belle, nouveau/nouvel/nouvelle, vieux/vieil/vieille — 모음 앞 특수 남성형
+
+이 세 형용사는 세트로 외운다. 뒤에 오는 명사의 **성 + 첫 발음(자음 vs 모음·무음h)**에 따라 형태가 갈리는데, 특이하게 **남성단수만 두 가지 형태**가 있다 (모음 앞에서 연음을 위해 형태가 바뀜).
+
+| | 남성(자음 앞) | 남성(모음·무음h 앞) | 여성 |
+|---|---|---|---|
+| 아름다운 | beau | **bel** | belle |
+| 새로운 | nouveau | **nouvel** | nouvelle |
+| 낡은/오래된 | vieux | **vieil** | vieille |
+
+- un **beau** garçon / un **bel** homme (자음 vs 모음)
+- un **nouveau** livre / un **nouvel** ami
+- un **vieux** chien / un **vieil** hôtel
+
+여성형은 항상 형태가 하나뿐이고(belle/nouvelle/vieille), 모음 앞이라고 따로 안 바뀐다 — 남성단수에서만 일어나는 현상. 복수는 남성 beaux/nouveaux/vieux, 여성 belles/nouvelles/vieilles.
