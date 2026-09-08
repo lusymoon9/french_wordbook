@@ -228,12 +228,14 @@ wordbook은 패턴 A(ie형)로 통일해뒀다.
 **예외**: être 부정문에서 존재/양이 아니라 **정체성을 대조**할 때는 부분관사를 그대로 유지한다.
 - Ce n'est pas **du** sucre, c'est **du** sel. (이건 설탕이 아니라 소금이다)
 
-## avoir eu — avoir 자신의 복합과거 (조동사와 본동사가 같은 동사)
+## avoir eu / avoir été — avoir·être 자신의 복합과거
 
-**eu**는 avoir의 과거분사. `avons eu`처럼 avoir가 자기 자신을 복합과거로 만들면 **avoir(조동사) + eu(avoir의 과거분사)** 구조가 되어 "조동사와 본동사가 같은 단어"인 특이 케이스가 된다.
+**eu**는 avoir의 과거분사, **été**는 être의 과거분사. 둘 다 자기 자신을 복합과거로 만들 때도 조동사는 **항상 avoir**다 (être는 이동/재귀동사가 아니므로 être 자신의 과거에도 être를 조동사로 안 쓴다 — avoir + été).
 
 - Nous avons eu une réunion rapide. (우리는 짧은 회의를 가졌다/했다)
 - Il a eu peur. (그는 무서웠다 — avoir peur의 과거)
 - J'ai eu de la chance. (나는 운이 좋았다)
+- Elle a été fatiguée. (그녀는 피곤했다 — être fatigué(e)의 과거)
+- Ça a été difficile. (그거 어려웠어)
 
-다른 동사의 복합과거(예: il a mangé)에서는 avoir가 순전히 조동사 역할만 하지만, avoir 본인의 복합과거에서는 avoir가 조동사이자 동시에 그 뜻(가지다)을 나르는 과거분사(eu)의 원형이기도 하다는 점이 헷갈리는 지점.
+다른 동사의 복합과거(예: il a mangé)에서는 avoir가 순전히 조동사 역할만 하지만, avoir/être 본인의 복합과거에서는 avoir가 조동사이자 동시에 그 뜻(가지다/이다)을 나르는 과거분사(eu/été)의 원형이기도 하다는 점이 헷갈리는 지점. 핵심은 "조동사는 무조건 avoir 또는 être 둘 중 하나이고, 본동사가 무엇이든(심지어 avoir나 être 자신이어도) 그 규칙은 안 바뀐다"는 것.
