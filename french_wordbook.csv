@@ -1133,3 +1133,6 @@ se coucher_je me couche/tu te couches/il se couche/nous nous couchons/vous vous 
 se coucher(반과거)_me couchais/te couchais/se couchait/nous couchions/vous couchiez/se couchaient,"(반과거) 자다, 잠자리에 들다",Je me couchais tôt.,se coucher
 se coucher(미래)_me coucherai/te coucheras/se couchera/nous coucherons/vous coucherez/se coucheront,"(미래) 자다, 잠자리에 들다",Je me coucherai tôt.,se coucher
 être au courant de,"~에 대해 알고 있다, 정통하다",Elle n'est pas au courant de l'activité.,être
+amener_amène/amènes/amène/amenons/amenez/amènent/amené,데리고 오다,Amène ton ami à la fête.,amener
+amener(반과거)_amenais/amenais/amenait/amenions/ameniez/amenaient,(반과거) 데리고 오다,"Avant, il amenait.",amener
+amener(미래)_amènerai/amèneras/amènera/amènerons/amènerez/amèneront,(미래) 데리고 오다,"Demain, il amènera.",amener
