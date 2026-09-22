@@ -7,188 +7,532 @@ ce (남성·자음 앞) / cet (남성·모음 앞) / cette (여성) / ces (복�
 de + le → du / de + la → de la / de + les → des,"~의, ~에서, ~을 (부분관사 축약)",Je viens du Japon. / Je parle de la France.,
 à + le → au / à + la → à la / à + les → aux,"~에, ~으로 (전치사 축약)",Je vais au Japon. / Je vais à la plage.,
 être_suis/es/est/sommes/êtes/sont/été,-이다 (était=과거),J'étais fatigué.,être
+être(반과거)_étais/étais/était/étions/étiez/étaient,(반과거) -이다 (était=과거),J'étais fatigué.,être
+être(미래)_serai/seras/sera/serons/serez/seront,(미래) -이다 (était=과거),"Demain, il sera.",être
 avoir_ai/as/a/avons/avez/ont/eu,갖고 있다 (avais=과거),J'avais faim.,avoir
+avoir(반과거)_avais/avais/avait/avions/aviez/avaient,(반과거) 갖고 있다 (avais=과거),J'avais faim.,avoir
+avoir(미래)_aurai/auras/aura/aurons/aurez/auront,(미래) 갖고 있다 (avais=과거),"Demain, il aura.",avoir
 avoir en train de,-하는 중이다,Je suis en train de manger.,avoir
 pouvoir_peux/peux/peut/pouvons/pouvez/peuvent/pu,할 수 있다 (pourrait=could),Il pourrait venir.,pouvoir
+pouvoir(반과거)_pouvais/pouvais/pouvait/pouvions/pouviez/pouvaient,(반과거) 할 수 있다 (pourrait=could),"Avant, il pouvait.",pouvoir
+pouvoir(미래)_pourrai/pourras/pourra/pourrons/pourrez/pourront,(미래) 할 수 있다 (pourrait=could),"Demain, il pourra.",pouvoir
 vouloir_veux/veux/veut/voulons/voulez/veulent/voulu,원하다,Je veux un café.,vouloir
+vouloir(반과거)_voulais/voulais/voulait/voulions/vouliez/voulaient,(반과거) 원하다,Je voulais un café.,vouloir
+vouloir(미래)_voudrai/voudras/voudra/voudrons/voudrez/voudront,(미래) 원하다,Je voudrai un café.,vouloir
 devoir_dois/dois/doit/devons/devez/doivent/dû,"해야 한다, 숙제",Je dois partir.,devoir
+devoir(반과거)_devais/devais/devait/devions/deviez/devaient,"(반과거) 해야 한다, 숙제",Je devais partir.,devoir
+devoir(미래)_devrai/devras/devra/devrons/devrez/devront,"(미래) 해야 한다, 숙제",Je devrai partir.,devoir
 devoir être,"-할 것이다, ~임에 틀림없다",Il doit être fatigué.,devoir
 aller_vais/vas/va/allons/allez/vont/allé,가다 (au/à),Je vais à Paris.,aller
+aller(반과거)_allais/allais/allait/allions/alliez/allaient,(반과거) 가다 (au/à),J'allais à Paris.,aller
+aller(미래)_irai/iras/ira/irons/irez/iront,(미래) 가다 (au/à),J'irai à Paris.,aller
 prendre_prends/prends/prend/prenons/prenez/prennent/pris,"타다, 가져가다, 사진 찍다, 마시다, 샤워하다",Je prends une douche.,prendre
+prendre(반과거)_prenais/prenais/prenait/prenions/preniez/prenaient,"(반과거) 타다, 가져가다, 사진 찍다, 마시다, 샤워하다",Je prenais une douche.,prendre
+prendre(미래)_prendrai/prendras/prendra/prendrons/prendrez/prendront,"(미래) 타다, 가져가다, 사진 찍다, 마시다, 샤워하다",Je prendrai une douche.,prendre
 faire_fais/fais/fait/faisons/faites/font/fait,"하다, 만들다",Je fais du sport.,faire
+faire(반과거)_faisais/faisais/faisait/faisions/faisiez/faisaient,"(반과거) 하다, 만들다",Je faisais du sport.,faire
+faire(미래)_ferai/feras/fera/ferons/ferez/feront,"(미래) 하다, 만들다",Je ferai du sport.,faire
 faire le ménage / faire les courses / faire des cours / faire confiance,집안일하다 / 장보다 / 수업듣다 / 믿다,Je fais les courses.,faire
 venir_viens/viens/vient/venons/venez/viennent/venu,-에서 오다 (de),Je viens de Corée.,venir
+venir(반과거)_venais/venais/venait/venions/veniez/venaient,(반과거) -에서 오다 (de),Je venais de Corée.,venir
+venir(미래)_viendrai/viendras/viendra/viendrons/viendrez/viendront,(미래) -에서 오다 (de),Je viendrai de Corée.,venir
 jouer_joue/joues/joue/jouons/jouez/jouent/joué,"놀다, 경기하다, 연기하다, 연주하다",Je joue au tennis.,jouer
+jouer(반과거)_jouais/jouais/jouait/jouions/jouiez/jouaient,"(반과거) 놀다, 경기하다, 연기하다, 연주하다",Je jouais au tennis.,jouer
+jouer(미래)_jouerai/joueras/jouera/jouerons/jouerez/joueront,"(미래) 놀다, 경기하다, 연기하다, 연주하다",Je jouerai au tennis.,jouer
 savoir_sais/sais/sait/savons/savez/savent/su,(사실·언어·기술을) 알다,Je ne sais pas.,savoir
+savoir(반과거)_savais/savais/savait/savions/saviez/savaient,(반과거) (사실·언어·기술을) 알다,Je ne savais pas.,savoir
+savoir(미래)_saurai/sauras/saura/saurons/saurez/sauront,(미래) (사실·언어·기술을) 알다,Je ne saurai pas.,savoir
 voir_vois/vois/voit/voyons/voyez/voient/vu,보다 (vu=본),J'ai vu ce film.,voir
+voir(반과거)_voyais/voyais/voyait/voyions/voyiez/voyaient,(반과거) 보다 (vu=본),"Avant, il voyait.",voir
+voir(미래)_verrai/verras/verra/verrons/verrez/verront,(미래) 보다 (vu=본),"Demain, il verra.",voir
 appeler_appelle/appelles/appelle/appelons/appelez/appellent/appelé,"전화하다, -라고 부르다",Je m'appelle Nini.,appeler
+appeler(반과거)_appelais/appelais/appelait/appelions/appeliez/appelaient,"(반과거) 전화하다, -라고 부르다","Avant, il appelait.",appeler
+appeler(미래)_appellerai/appelleras/appellera/appellerons/appellerez/appelleront,"(미래) 전화하다, -라고 부르다","Demain, il appellera.",appeler
 marcher_marche/marches/marche/marchons/marchez/marchent/marché,"걷다, 작동하다",Ça marche bien.,marcher
+marcher(반과거)_marchais/marchais/marchait/marchions/marchiez/marchaient,"(반과거) 걷다, 작동하다","Avant, il marchait.",marcher
+marcher(미래)_marcherai/marcheras/marchera/marcherons/marcherez/marcheront,"(미래) 걷다, 작동하다","Demain, il marchera.",marcher
 partir_pars/pars/part/partons/partez/partent/parti,-으로 떠나다,Je pars en vacances.,partir
+partir(반과거)_partais/partais/partait/partions/partiez/partaient,(반과거) -으로 떠나다,Je partais en vacances.,partir
+partir(미래)_partirai/partiras/partira/partirons/partirez/partiront,(미래) -으로 떠나다,Je partirai en vacances.,partir
 sortir_sors/sors/sort/sortons/sortez/sortent/sorti,"나오다, 나가다, 내리다, 사귀다",On sort ensemble.,sortir
+sortir(반과거)_sortais/sortais/sortait/sortions/sortiez/sortaient,"(반과거) 나오다, 나가다, 내리다, 사귀다",On sortait ensemble.,sortir
+sortir(미래)_sortirai/sortiras/sortira/sortirons/sortirez/sortiront,"(미래) 나오다, 나가다, 내리다, 사귀다",On sortira ensemble.,sortir
 descendre_descends/descends/descend/descendons/descendez/descendent/descendu,내리다,Je descends à la prochaine.,descendre
+descendre(반과거)_descendais/descendais/descendait/descendions/descendiez/descendaient,(반과거) 내리다,Je descendais à la prochaine.,descendre
+descendre(미래)_descendrai/descendras/descendra/descendrons/descendrez/descendront,(미래) 내리다,Je descendrai à la prochaine.,descendre
 monter_monte/montes/monte/montons/montez/montent/monté,"타다, 올라가다",Je monte dans le bus.,monter
+monter(반과거)_montais/montais/montait/montions/montiez/montaient,"(반과거) 타다, 올라가다",Je montais dans le bus.,monter
+monter(미래)_monterai/monteras/montera/monterons/monterez/monteront,"(미래) 타다, 올라가다",Je monterai dans le bus.,monter
 bouger_bouge/bouges/bouge/bougeons/bougez/bougent/bougé,"이동하다, 움직이다",Ne bouge pas !,bouger
+bouger(반과거)_bougeais/bougeais/bougeait/bougions/bougiez/bougeaient,"(반과거) 이동하다, 움직이다","Avant, il bougeait.",bouger
+bouger(미래)_bougerai/bougeras/bougera/bougerons/bougerez/bougeront,"(미래) 이동하다, 움직이다","Demain, il bougera.",bouger
 s'approcher_je m'approche/tu t'approches/il s'approche/nous nous approchons/vous vous approchez/ils s'approchent/approché,다가가다,Il s'approche de moi.,s'approcher
+s'approcher(반과거)_m'approchais/t'approchais/s'approchait/nous approchions/vous approchiez/s'approchaient,(반과거) 다가가다,Il s'approchait de moi.,s'approcher
+s'approcher(미래)_m'approcherai/t'approcheras/s'approchera/nous approcherons/vous approcherez/s'approcheront,(미래) 다가가다,Il s'approchera de moi.,s'approcher
 déménager_déménage/déménages/déménage/déménageons/déménagez/déménagent/déménagé,이사하다,Je déménage la semaine prochaine.,déménager
+déménager(반과거)_déménageais/déménageais/déménageait/déménagions/déménagiez/déménageaient,(반과거) 이사하다,Je déménageais la semaine prochaine.,déménager
+déménager(미래)_déménagerai/déménageras/déménagera/déménagerons/déménagerez/déménageront,(미래) 이사하다,Je déménagerai la semaine prochaine.,déménager
 entrer_entre/entres/entre/entrons/entrez/entrent/entré,들어가다,J'entre dans la salle.,entrer
+entrer(반과거)_entrais/entrais/entrait/entrions/entriez/entraient,(반과거) 들어가다,J'entrais dans la salle.,entrer
+entrer(미래)_entrerai/entreras/entrera/entrerons/entrerez/entreront,(미래) 들어가다,J'entrerai dans la salle.,entrer
 rentrer_rentre/rentres/rentre/rentrons/rentrez/rentrent/rentré,돌아가다,Je rentre chez moi.,rentrer
+rentrer(반과거)_rentrais/rentrais/rentrait/rentrions/rentriez/rentraient,(반과거) 돌아가다,Je rentrais chez moi.,rentrer
+rentrer(미래)_rentrerai/rentreras/rentrera/rentrerons/rentrerez/rentreront,(미래) 돌아가다,Je rentrerai chez moi.,rentrer
 revenir_reviens/reviens/revient/revenons/revenez/reviennent/revenu,돌아오다,Il revient demain.,revenir
+revenir(반과거)_revenais/revenais/revenait/revenions/reveniez/revenaient,(반과거) 돌아오다,Il revenait demain.,revenir
+revenir(미래)_reviendrai/reviendras/reviendra/reviendrons/reviendrez/reviendront,(미래) 돌아오다,Il reviendra demain.,revenir
 arriver_arrive/arrives/arrive/arrivons/arrivez/arrivent/arrivé,도착하다,Venir d'arriver 방금 도착하다.,arriver
+arriver(반과거)_arrivais/arrivais/arrivait/arrivions/arriviez/arrivaient,(반과거) 도착하다,"Avant, il arrivait.",arriver
+arriver(미래)_arriverai/arriveras/arrivera/arriverons/arriverez/arriveront,(미래) 도착하다,"Demain, il arrivera.",arriver
 habiter_habite/habites/habite/habitons/habitez/habitent/habité,-에 살다 (en/au),J'habite à Busan.,habiter
+habiter(반과거)_habitais/habitais/habitait/habitions/habitiez/habitaient,(반과거) -에 살다 (en/au),J'habitais à Busan.,habiter
+habiter(미래)_habiterai/habiteras/habitera/habiterons/habiterez/habiteront,(미래) -에 살다 (en/au),J'habiterai à Busan.,habiter
 vivre_vis/vis/vit/vivons/vivez/vivent/vécu,살다,Je vis à Paris.,vivre
+vivre(반과거)_vivais/vivais/vivait/vivions/viviez/vivaient,(반과거) 살다,Je vivais à Paris.,vivre
+vivre(미래)_vivrai/vivras/vivra/vivrons/vivrez/vivront,(미래) 살다,Je vivrai à Paris.,vivre
 rester_reste/restes/reste/restons/restez/restent/resté,머무르다,Je reste à la maison.,rester
+rester(반과거)_restais/restais/restait/restions/restiez/restaient,(반과거) 머무르다,Je restais à la maison.,rester
+rester(미래)_resterai/resteras/restera/resterons/resterez/resteront,(미래) 머무르다,Je resterai à la maison.,rester
 rester éveillé,깨어 있다,Je reste éveillé.,rester
 se réveiller_je me réveille/tu te réveilles/il se réveille/nous nous réveillons/vous vous réveillez/ils se réveillent/réveillé,깨어나다,Je me réveille à sept heures.,se réveiller
+se réveiller(반과거)_me réveillais/te réveillais/se réveillait/nous réveillions/vous réveilliez/se réveillaient,(반과거) 깨어나다,Je me réveillais à sept heures.,se réveiller
+se réveiller(미래)_me réveillerai/te réveilleras/se réveillera/nous réveillerons/vous réveillerez/se réveilleront,(미래) 깨어나다,Je me réveillerai à sept heures.,se réveiller
 dormir_dors/dors/dort/dormons/dormez/dorment/dormi,자다,Je dors huit heures.,dormir
+dormir(반과거)_dormais/dormais/dormait/dormions/dormiez/dormaient,(반과거) 자다,Je dormais huit heures.,dormir
+dormir(미래)_dormirai/dormiras/dormira/dormirons/dormirez/dormiront,(미래) 자다,Je dormirai huit heures.,dormir
 se lever_je me lève/tu te lèves/il se lève/nous nous levons/vous vous levez/ils se lèvent/levé,일어나다,Je me lève tôt.,se lever
+se lever(반과거)_me levais/te levais/se levait/nous levions/vous leviez/se levaient,(반과거) 일어나다,Je me levais tôt.,se lever
+se lever(미래)_me lèverai/te lèveras/se lèvera/nous lèverons/vous lèverez/se lèveront,(미래) 일어나다,Je me lèverai tôt.,se lever
 se reposer_je me repose/tu te reposes/il se repose/nous nous reposons/vous vous reposez/ils se reposent/reposé,쉬다,Je me repose un peu.,se reposer
+se reposer(반과거)_me reposais/te reposais/se reposait/nous reposions/vous reposiez/se reposaient,(반과거) 쉬다,Je me reposais un peu.,se reposer
+se reposer(미래)_me reposerai/te reposeras/se reposera/nous reposerons/vous reposerez/se reposeront,(미래) 쉬다,Je me reposerai un peu.,se reposer
 s'amuser_je m'amuse/tu t'amuses/il s'amuse/nous nous amusons/vous vous amusez/ils s'amusent/amusé,"놀다, 즐기다",Je m'amuse bien.,s'amuser
+s'amuser(반과거)_m'amusais/t'amusais/s'amusait/nous amusions/vous amusiez/s'amusaient,"(반과거) 놀다, 즐기다",Je m'amusais bien.,s'amuser
+s'amuser(미래)_m'amuserai/t'amuseras/s'amusera/nous amuserons/vous amuserez/s'amuseront,"(미래) 놀다, 즐기다",Je m'amuserai bien.,s'amuser
 se cacher_je me cache/tu te caches/il se cache/nous nous cachons/vous vous cachez/ils se cachent/caché,숨어 있다,Il se cache derrière l'arbre.,se cacher
+se cacher(반과거)_me cachais/te cachais/se cachait/nous cachions/vous cachiez/se cachaient,(반과거) 숨어 있다,Il se cachait derrière l'arbre.,se cacher
+se cacher(미래)_me cacherai/te cacheras/se cachera/nous cacherons/vous cacherez/se cacheront,(미래) 숨어 있다,Il se cachera derrière l'arbre.,se cacher
 commencer_commence/commences/commence/commençons/commencez/commencent/commencé,시작하다,Je commence à travailler.,commencer
+commencer(반과거)_commençais/commençais/commençait/commencions/commenciez/commençaient,(반과거) 시작하다,Je commençais à travailler.,commencer
+commencer(미래)_commencerai/commenceras/commencera/commencerons/commencerez/commenceront,(미래) 시작하다,Je commencerai à travailler.,commencer
 passer_passe/passes/passe/passons/passez/passent/passé,시간을 보내다,Je passe du temps avec ma famille.,passer
+passer(반과거)_passais/passais/passait/passions/passiez/passaient,(반과거) 시간을 보내다,Je passais du temps avec ma famille.,passer
+passer(미래)_passerai/passeras/passera/passerons/passerez/passeront,(미래) 시간을 보내다,Je passerai du temps avec ma famille.,passer
 durer_dure/dures/dure/durons/durez/durent/duré,지속되다,Le film dure deux heures.,durer
+durer(반과거)_durais/durais/durait/durions/duriez/duraient,(반과거) 지속되다,"Avant, il durait.",durer
+durer(미래)_durerai/dureras/durera/durerons/durerez/dureront,(미래) 지속되다,"Demain, il durera.",durer
 attendre_attends/attends/attend/attendons/attendez/attendent/attendu,기다리다,J'attends le bus.,attendre
+attendre(반과거)_attendais/attendais/attendait/attendions/attendiez/attendaient,(반과거) 기다리다,J'attendais le bus.,attendre
+attendre(미래)_attendrai/attendras/attendra/attendrons/attendrez/attendront,(미래) 기다리다,J'attendrai le bus.,attendre
 être patient / sois patient,"참다, 인내하다",Sois patient !,être
 se dépêcher_je me dépêche/tu te dépêches/il se dépêche/nous nous dépêchons/vous vous dépêchez/ils se dépêchent/dépêché,서두르다,Dépêche-toi !,se dépêcher
+se dépêcher(반과거)_me dépêchais/te dépêchais/se dépêchait/nous dépêchions/vous dépêchiez/se dépêchaient,(반과거) 서두르다,"Avant, il se dépêchait.",se dépêcher
+se dépêcher(미래)_me dépêcherai/te dépêcheras/se dépêchera/nous dépêcherons/vous dépêcherez/se dépêcheront,(미래) 서두르다,"Demain, il se dépêchera.",se dépêcher
 rencontrer_rencontre/rencontres/rencontre/rencontrons/rencontrez/rencontrent/rencontré,만나다,Je rencontre un ami.,rencontrer
+rencontrer(반과거)_rencontrais/rencontrais/rencontrait/rencontrions/rencontriez/rencontraient,(반과거) 만나다,Je rencontrais un ami.,rencontrer
+rencontrer(미래)_rencontrerai/rencontreras/rencontrera/rencontrerons/rencontrerez/rencontreront,(미래) 만나다,Je rencontrerai un ami.,rencontrer
 se retrouver_je me retrouve/tu te retrouves/il se retrouve/nous nous retrouvons/vous vous retrouvez/ils se retrouvent/retrouvé,만나다 (약속 장소에서),On se retrouve à midi.,se retrouver
+se retrouver(반과거)_me retrouvais/te retrouvais/se retrouvait/nous retrouvions/vous retrouviez/se retrouvaient,(반과거) 만나다 (약속 장소에서),"Avant, il se retrouvait.",se retrouver
+se retrouver(미래)_me retrouverai/te retrouveras/se retrouvera/nous retrouverons/vous retrouverez/se retrouveront,(미래) 만나다 (약속 장소에서),"Demain, il se retrouvera.",se retrouver
 aimer_aime/aimes/aime/aimons/aimez/aiment/aimé,"좋아하다, 하고 싶다",J'aimerais voyager.,aimer
+aimer(반과거)_aimais/aimais/aimait/aimions/aimiez/aimaient,"(반과거) 좋아하다, 하고 싶다","Avant, il aimait.",aimer
+aimer(미래)_aimerai/aimeras/aimera/aimerons/aimerez/aimeront,"(미래) 좋아하다, 하고 싶다","Demain, il aimera.",aimer
 espérer_espère/espères/espère/espérons/espérez/espèrent/espéré,희망하다,J'espère que ça va.,espérer
+espérer(반과거)_espérais/espérais/espérait/espérions/espériez/espéraient,(반과거) 희망하다,J'espérais que ça va.,espérer
+espérer(미래)_espérerai/espéreras/espérera/espérerons/espérerez/espéreront,(미래) 희망하다,J'espérerai que ça va.,espérer
 vouloir / voudrais,원하다 (정중한 표현),Je voudrais un café.,vouloir
 préférer_préfère/préfères/préfère/préférons/préférez/préfèrent/préféré,"더 좋아하다, 선호하다",Je préfère le thé.,préférer
+préférer(반과거)_préférais/préférais/préférait/préférions/préfériez/préféraient,"(반과거) 더 좋아하다, 선호하다",Je préférais le thé.,préférer
+préférer(미래)_préférerai/préféreras/préférera/préférerons/préférerez/préféreront,"(미래) 더 좋아하다, 선호하다",Je préférerai le thé.,préférer
 s'intéresser_je m'intéresse/tu t'intéresses/il s'intéresse/nous nous intéressons/vous vous intéressez/ils s'intéressent/intéressé,관심 있다,Je m'intéresse à la musique.,s'intéresser
+s'intéresser(반과거)_m'intéressais/t'intéressais/s'intéressait/nous intéressions/vous intéressiez/s'intéressaient,(반과거) 관심 있다,Je m'intéressais à la musique.,s'intéresser
+s'intéresser(미래)_m'intéresserai/t'intéresseras/s'intéressera/nous intéresserons/vous intéresserez/s'intéresseront,(미래) 관심 있다,Je m'intéresserai à la musique.,s'intéresser
 se marier_je me marie/tu te maries/il se marie/nous nous marions/vous vous mariez/ils se marient/marié,결혼하다,Ils se marient en juin.,se marier
+se marier(반과거)_me mariais/te mariais/se mariait/nous mariions/vous mariiez/se mariaient,(반과거) 결혼하다,Ils se mariaient en juin.,se marier
+se marier(미래)_me marierai/te marieras/se mariera/nous marierons/vous marierez/se marieront,(미래) 결혼하다,Ils se marieront en juin.,se marier
 détester_déteste/détestes/déteste/détestons/détestez/détestent/détesté,싫어하다,Je déteste le froid.,détester
+détester(반과거)_détestais/détestais/détestait/détestions/détestiez/détestaient,(반과거) 싫어하다,Je détestais le froid.,détester
+détester(미래)_détesterai/détesteras/détestera/détesterons/détesterez/détesteront,(미래) 싫어하다,Je détesterai le froid.,détester
 tuer_tue/tues/tue/tuons/tuez/tuent/tué,죽이다,Il tue le temps.,tuer
+tuer(반과거)_tuais/tuais/tuait/tuions/tuiez/tuaient,(반과거) 죽이다,Il tuait le temps.,tuer
+tuer(미래)_tuerai/tueras/tuera/tuerons/tuerez/tueront,(미래) 죽이다,Il tuera le temps.,tuer
 demander_demande/demandes/demande/demandons/demandez/demandent/demandé,요청하다,Je demande l'addition.,demander
+demander(반과거)_demandais/demandais/demandait/demandions/demandiez/demandaient,(반과거) 요청하다,Je demandais l'addition.,demander
+demander(미래)_demanderai/demanderas/demandera/demanderons/demanderez/demanderont,(미래) 요청하다,Je demanderai l'addition.,demander
 apporter_apporte/apportes/apporte/apportons/apportez/apportent/apporté,가져오다,J'apporte un cadeau.,apporter
+apporter(반과거)_apportais/apportais/apportait/apportions/apportiez/apportaient,(반과거) 가져오다,J'apportais un cadeau.,apporter
+apporter(미래)_apporterai/apporteras/apportera/apporterons/apporterez/apporteront,(미래) 가져오다,J'apporterai un cadeau.,apporter
 emporter_emporte/emportes/emporte/emportons/emportez/emportent/emporté,가져가다,J'emporte mon manteau.,emporter
+emporter(반과거)_emportais/emportais/emportait/emportions/emportiez/emportaient,(반과거) 가져가다,J'emportais mon manteau.,emporter
+emporter(미래)_emporterai/emporteras/emportera/emporterons/emporterez/emporteront,(미래) 가져가다,J'emporterai mon manteau.,emporter
 recevoir_reçois/reçois/reçoit/recevons/recevez/reçoivent/reçu,받다,Je reçois une lettre.,recevoir
+recevoir(반과거)_recevais/recevais/recevait/recevions/receviez/recevaient,(반과거) 받다,Je recevais une lettre.,recevoir
+recevoir(미래)_recevrai/recevras/recevra/recevrons/recevrez/recevront,(미래) 받다,Je recevrai une lettre.,recevoir
 donner_donne/donnes/donne/donnons/donnez/donnent/donné,주다,Il donne des conseils.,donner
+donner(반과거)_donnais/donnais/donnait/donnions/donniez/donnaient,(반과거) 주다,Il donnait des conseils.,donner
+donner(미래)_donnerai/donneras/donnera/donnerons/donnerez/donneront,(미래) 주다,Il donnera des conseils.,donner
 devrais,-하는 게 더 좋겠다,Tu devrais dormir.,devoir
 offrir_offre/offres/offre/offrons/offrez/offrent/offert,선물로 주다,Il m'offre des fleurs.,offrir
+offrir(반과거)_offrais/offrais/offrait/offrions/offriez/offraient,(반과거) 선물로 주다,"Avant, il offrait.",offrir
+offrir(미래)_offrirai/offriras/offrira/offrirons/offrirez/offriront,(미래) 선물로 주다,"Demain, il offrira.",offrir
 prêter_prête/prêtes/prête/prêtons/prêtez/prêtent/prêté,빌려주다,Je te prête mon stylo.,prêter
+prêter(반과거)_prêtais/prêtais/prêtait/prêtions/prêtiez/prêtaient,(반과거) 빌려주다,"Avant, il prêtait.",prêter
+prêter(미래)_prêterai/prêteras/prêtera/prêterons/prêterez/prêteront,(미래) 빌려주다,"Demain, il prêtera.",prêter
 emprunter_emprunte/empruntes/emprunte/empruntons/empruntez/empruntent/emprunté,빌리다,J'emprunte un livre.,emprunter
+emprunter(반과거)_empruntais/empruntais/empruntait/empruntions/empruntiez/empruntaient,(반과거) 빌리다,J'empruntais un livre.,emprunter
+emprunter(미래)_emprunterai/emprunteras/empruntera/emprunterons/emprunterez/emprunteront,(미래) 빌리다,J'emprunterai un livre.,emprunter
 envoyer_envoie/envoies/envoie/envoyons/envoyez/envoient/envoyé,보내다,J'envoie un message.,envoyer
+envoyer(반과거)_envoyais/envoyais/envoyait/envoyions/envoyiez/envoyaient,(반과거) 보내다,J'envoyais un message.,envoyer
+envoyer(미래)_enverrai/enverras/enverra/enverrons/enverrez/enverront,(미래) 보내다,J'enverrai un message.,envoyer
 manquer_manque/manques/manque/manquons/manquez/manquent/manqué,"사라지다, 그립다",Tu me manques.,manquer
+manquer(반과거)_manquais/manquais/manquait/manquions/manquiez/manquaient,"(반과거) 사라지다, 그립다","Avant, il manquait.",manquer
+manquer(미래)_manquerai/manqueras/manquera/manquerons/manquerez/manqueront,"(미래) 사라지다, 그립다","Demain, il manquera.",manquer
 voler_vole/voles/vole/volons/volez/volent/volé,훔치다,Il a volé mon sac.,voler
+voler(반과거)_volais/volais/volait/volions/voliez/volaient,(반과거) 훔치다,"Avant, il volait.",voler
+voler(미래)_volerai/voleras/volera/volerons/volerez/voleront,(미래) 훔치다,"Demain, il volera.",voler
 préparer_prépare/prépares/prépare/préparons/préparez/préparent/préparé,준비하다,Je prépare le dîner.,préparer
+préparer(반과거)_préparais/préparais/préparait/préparions/prépariez/préparaient,(반과거) 준비하다,Je préparais le dîner.,préparer
+préparer(미래)_préparerai/prépareras/préparera/préparerons/préparerez/prépareront,(미래) 준비하다,Je préparerai le dîner.,préparer
 prévoir_prévois/prévois/prévoit/prévoyons/prévoyez/prévoient/prévu,계획하다,Je prévois de partir.,prévoir
+prévoir(반과거)_prévoyais/prévoyais/prévoyait/prévoyions/prévoyiez/prévoyaient,(반과거) 계획하다,Je prévoyais de partir.,prévoir
+prévoir(미래)_prévoirai/prévoiras/prévoira/prévoirons/prévoirez/prévoiront,(미래) 계획하다,Je prévoirai de partir.,prévoir
 annuler_annule/annules/annule/annulons/annulez/annulent/annulé,취소하다,J'annule le rendez-vous.,annuler
+annuler(반과거)_annulais/annulais/annulait/annulions/annuliez/annulaient,(반과거) 취소하다,J'annulais le rendez-vous.,annuler
+annuler(미래)_annulerai/annuleras/annulera/annulerons/annulerez/annuleront,(미래) 취소하다,J'annulerai le rendez-vous.,annuler
 acheter_achète/achètes/achète/achetons/achetez/achètent/acheté,사다,J'achète du pain.,acheter
+acheter(반과거)_achetais/achetais/achetait/achetions/achetiez/achetaient,(반과거) 사다,J'achetais du pain.,acheter
+acheter(미래)_achèterai/achèteras/achètera/achèterons/achèterez/achèteront,(미래) 사다,J'achèterai du pain.,acheter
 vendre_vends/vends/vend/vendons/vendez/vendent/vendu,팔다,Il vend sa voiture.,vendre
+vendre(반과거)_vendais/vendais/vendait/vendions/vendiez/vendaient,(반과거) 팔다,Il vendait sa voiture.,vendre
+vendre(미래)_vendrai/vendras/vendra/vendrons/vendrez/vendront,(미래) 팔다,Il vendra sa voiture.,vendre
 payer_paye/payes/paye/payons/payez/paient/payé,계산하다,Je paye par carte / en espèces / l'addition.,payer
+payer(반과거)_payais/payais/payait/payions/payiez/payaient,(반과거) 계산하다,Je payais par carte / en espèces / l'addition.,payer
+payer(미래)_payerai/payeras/payera/payerons/payerez/payeront,(미래) 계산하다,Je payerai par carte / en espèces / l'addition.,payer
 payer l'addition,계산서를 지불하다,Je paye l'addition.,payer
 coûter_coûte/coûtes/coûte/coûtons/coûtez/coûtent/coûté,비용이 들다,Ça coûte cher.,coûter
+coûter(반과거)_coûtais/coûtais/coûtait/coûtions/coûtiez/coûtaient,(반과거) 비용이 들다,"Avant, il coûtait.",coûter
+coûter(미래)_coûterai/coûteras/coûtera/coûterons/coûterez/coûteront,(미래) 비용이 들다,"Demain, il coûtera.",coûter
 dépenser de l'argent,돈을 쓰다,Je dépense trop d'argent.,dépenser
 retirer_retire/retires/retire/retirons/retirez/retirent/retiré,인출하다,Je retire de l'argent.,retirer
+retirer(반과거)_retirais/retirais/retirait/retirions/retiriez/retiraient,(반과거) 인출하다,Je retirais de l'argent.,retirer
+retirer(미래)_retirerai/retireras/retirera/retirerons/retirerez/retireront,(미래) 인출하다,Je retirerai de l'argent.,retirer
 chercher_cherche/cherches/cherche/cherchons/cherchez/cherchent/cherché,찾다,Je cherche mes clés.,chercher
+chercher(반과거)_cherchais/cherchais/cherchait/cherchions/cherchiez/cherchaient,(반과거) 찾다,Je cherchais mes clés.,chercher
+chercher(미래)_chercherai/chercheras/cherchera/chercherons/chercherez/chercheront,(미래) 찾다,Je chercherai mes clés.,chercher
 trouver_trouve/trouves/trouve/trouvons/trouvez/trouvent/trouvé,"찾다, 생각하다",Je trouve la solution.,trouver
+trouver(반과거)_trouvais/trouvais/trouvait/trouvions/trouviez/trouvaient,"(반과거) 찾다, 생각하다",Je trouvais la solution.,trouver
+trouver(미래)_trouverai/trouveras/trouvera/trouverons/trouverez/trouveront,"(미래) 찾다, 생각하다",Je trouverai la solution.,trouver
 croire_crois/crois/croit/croyons/croyez/croient/cru,"생각하다, 믿다",Je crois que c'est vrai.,croire
+croire(반과거)_croyais/croyais/croyait/croyions/croyiez/croyaient,"(반과거) 생각하다, 믿다",Je croyais que c'est vrai.,croire
+croire(미래)_croirai/croiras/croira/croirons/croirez/croiront,"(미래) 생각하다, 믿다",Je croirai que c'est vrai.,croire
 réfléchir_réfléchis/réfléchis/réfléchit/réfléchissons/réfléchissez/réfléchissent/réfléchi,"생각하다, 숙고하다",Je réfléchis à la question.,réfléchir
+réfléchir(반과거)_réfléchissais/réfléchissais/réfléchissait/réfléchissions/réfléchissiez/réfléchissaient,"(반과거) 생각하다, 숙고하다",Je réfléchissais à la question.,réfléchir
+réfléchir(미래)_réfléchirai/réfléchiras/réfléchira/réfléchirons/réfléchirez/réfléchiront,"(미래) 생각하다, 숙고하다",Je réfléchirai à la question.,réfléchir
 penser_pense/penses/pense/pensons/pensez/pensent/pensé,"기억하다, 생각하다",Je pense à toi.,penser
+penser(반과거)_pensais/pensais/pensait/pensions/pensiez/pensaient,"(반과거) 기억하다, 생각하다",Je pensais à toi.,penser
+penser(미래)_penserai/penseras/pensera/penserons/penserez/penseront,"(미래) 기억하다, 생각하다",Je penserai à toi.,penser
 oublier_oublie/oublies/oublie/oublions/oubliez/oublient/oublié,잊다,J'oublie tout !,oublier
+oublier(반과거)_oubliais/oubliais/oubliait/oubliions/oubliiez/oubliaient,(반과거) 잊다,J'oubliais tout !,oublier
+oublier(미래)_oublierai/oublieras/oubliera/oublierons/oublierez/oublieront,(미래) 잊다,J'oublierai tout !,oublier
 choisir_choisis/choisis/choisit/choisissons/choisissez/choisissent/choisi,선택하다,Il choisit le menu.,choisir
+choisir(반과거)_choisissais/choisissais/choisissait/choisissions/choisissiez/choisissaient,(반과거) 선택하다,Il choisissait le menu.,choisir
+choisir(미래)_choisirai/choisiras/choisira/choisirons/choisirez/choisiront,(미래) 선택하다,Il choisira le menu.,choisir
 vérifier_vérifie/vérifies/vérifie/vérifions/vérifiez/vérifient/vérifié,확인하다,Vérifie si c'est ouvert.,vérifier
+vérifier(반과거)_vérifiais/vérifiais/vérifiait/vérifiions/vérifiiez/vérifiaient,(반과거) 확인하다,"Avant, il vérifiait.",vérifier
+vérifier(미래)_vérifierai/vérifieras/vérifiera/vérifierons/vérifierez/vérifieront,(미래) 확인하다,"Demain, il vérifiera.",vérifier
 regarder_regarde/regardes/regarde/regardons/regardez/regardent/regardé,"보다, 구경하다",Je regarde la télé.,regarder
+regarder(반과거)_regardais/regardais/regardait/regardions/regardiez/regardaient,"(반과거) 보다, 구경하다",Je regardais la télé.,regarder
+regarder(미래)_regarderai/regarderas/regardera/regarderons/regarderez/regarderont,"(미래) 보다, 구경하다",Je regarderai la télé.,regarder
 montrer_montre/montres/montre/montrons/montrez/montrent/montré,보여주다,Montre-moi ta photo.,montrer
+montrer(반과거)_montrais/montrais/montrait/montrions/montriez/montraient,(반과거) 보여주다,"Avant, il montrait.",montrer
+montrer(미래)_montrerai/montreras/montrera/montrerons/montrerez/montreront,(미래) 보여주다,"Demain, il montrera.",montrer
 exagérer_exagère/exagères/exagère/exagérons/exagérez/exagèrent/exagéré,과장하다,Tu exagères !,exagérer
+exagérer(반과거)_exagérais/exagérais/exagérait/exagérions/exagériez/exagéraient,(반과거) 과장하다,Tu exagérais !,exagérer
+exagérer(미래)_exagérerai/exagéreras/exagérera/exagérerons/exagérerez/exagéreront,(미래) 과장하다,Tu exagéreras !,exagérer
 dirait,-처럼 보인다,On dirait qu'il pleut.,dire
 piéger_piège/pièges/piège/piégeons/piégez/piègent/piégé,속이다,Il m'a piégé.,piéger
+piéger(반과거)_piégeais/piégeais/piégeait/piégions/piégiez/piégeaient,(반과거) 속이다,"Avant, il piégeait.",piéger
+piéger(미래)_piégerai/piégeras/piégera/piégerons/piégerez/piégeront,(미래) 속이다,"Demain, il piégera.",piéger
 lire_lis/lis/lit/lisons/lisez/lisent/lu,읽다,Je lis un roman.,lire
+lire(반과거)_lisais/lisais/lisait/lisions/lisiez/lisaient,(반과거) 읽다,Je lisais un roman.,lire
+lire(미래)_lirai/liras/lira/lirons/lirez/liront,(미래) 읽다,Je lirai un roman.,lire
 parler_parle/parles/parle/parlons/parlez/parlent/parlé,말하다,Je parle de mon voyage.,parler
+parler(반과거)_parlais/parlais/parlait/parlions/parliez/parlaient,(반과거) 말하다,Je parlais de mon voyage.,parler
+parler(미래)_parlerai/parleras/parlera/parlerons/parlerez/parleront,(미래) 말하다,Je parlerai de mon voyage.,parler
 dire_dis/dis/dit/disons/dites/disent/dit,"말하다, 쓰여있다",Il m'a dit que c'est vrai.,dire
+dire(반과거)_disais/disais/disait/disions/disiez/disaient,"(반과거) 말하다, 쓰여있다","Avant, il disait.",dire
+dire(미래)_dirai/diras/dira/dirons/direz/diront,"(미래) 말하다, 쓰여있다","Demain, il dira.",dire
 discuter_discute/discutes/discute/discutons/discutez/discutent/discuté,이야기하다,Nous discutons du film.,discuter
+discuter(반과거)_discutais/discutais/discutait/discutions/discutiez/discutaient,(반과거) 이야기하다,Nous discutions du film.,discuter
+discuter(미래)_discuterai/discuteras/discutera/discuterons/discuterez/discuteront,(미래) 이야기하다,Nous discuterons du film.,discuter
 répondre_réponds/réponds/répond/répondons/répondez/répondent/répondu,대답하다,Je réponds à ta question.,répondre
+répondre(반과거)_répondais/répondais/répondait/répondions/répondiez/répondaient,(반과거) 대답하다,Je répondais à ta question.,répondre
+répondre(미래)_répondrai/répondras/répondra/répondrons/répondrez/répondront,(미래) 대답하다,Je répondrai à ta question.,répondre
 chanter_chante/chantes/chante/chantons/chantez/chantent/chanté,노래하다,Elle chante bien.,chanter
+chanter(반과거)_chantais/chantais/chantait/chantions/chantiez/chantaient,(반과거) 노래하다,Elle chantait bien.,chanter
+chanter(미래)_chanterai/chanteras/chantera/chanterons/chanterez/chanteront,(미래) 노래하다,Elle chantera bien.,chanter
 improviser_improvise/improvises/improvise/improivisons/improvisez/improvisent/improvisé,즉흥 연기하다,Il improvise très bien.,improviser
+improviser(반과거)_improivisais/improivisais/improivisait/improivisions/improivisiez/improivisaient,(반과거) 즉흥 연기하다,Il improivisait très bien.,improviser
+improviser(미래)_improviserai/improviseras/improvisera/improviserons/improviserez/improviseront,(미래) 즉흥 연기하다,Il improvisera très bien.,improviser
 sourire_souris/souris/sourit/sourions/souriez/sourient/souri,웃다,Elle me sourit.,sourire
+sourire(반과거)_souriais/souriais/souriait/souriions/souriiez/souriaient,(반과거) 웃다,"Avant, il souriait.",sourire
+sourire(미래)_sourirai/souriras/sourira/sourirons/sourirez/souriront,(미래) 웃다,"Demain, il sourira.",sourire
 rire_ris/ris/rit/rions/riez/rient/ri,웃다 (소리내어),On rit ensemble.,rire
+rire(반과거)_riais/riais/riait/riions/riiez/riaient,(반과거) 웃다 (소리내어),On riait ensemble.,rire
+rire(미래)_rirai/riras/rira/rirons/rirez/riront,(미래) 웃다 (소리내어),On rira ensemble.,rire
 crier_crie/cries/crie/crions/criez/crient/crié,소리치다,Ne crie pas !,crier
+crier(반과거)_criais/criais/criait/criions/criiez/criaient,(반과거) 소리치다,"Avant, il criait.",crier
+crier(미래)_crierai/crieras/criera/crierons/crierez/crieront,(미래) 소리치다,"Demain, il criera.",crier
 sonner_sonne/sonnes/sonne/sonnons/sonnez/sonnent/sonné,울리다,Mon portable sonne.,sonner
+sonner(반과거)_sonnais/sonnais/sonnait/sonnions/sonniez/sonnaient,(반과거) 울리다,"Avant, il sonnait.",sonner
+sonner(미래)_sonnerai/sonneras/sonnera/sonnerons/sonnerez/sonneront,(미래) 울리다,"Demain, il sonnera.",sonner
 écouter_écoute/écoutes/écoute/écoutons/écoutez/écoutent/écouté,듣다,J'écoute la musique.,écouter
+écouter(반과거)_écoutais/écoutais/écoutait/écoutions/écoutiez/écoutaient,(반과거) 듣다,J'écoutais la musique.,écouter
+écouter(미래)_écouterai/écouteras/écoutera/écouterons/écouterez/écouteront,(미래) 듣다,J'écouterai la musique.,écouter
 entendre_entends/entends/entend/entendons/entendez/entendent/entendu,들리다,J'entends du bruit.,entendre
+entendre(반과거)_entendais/entendais/entendait/entendions/entendiez/entendaient,(반과거) 들리다,J'entendais du bruit.,entendre
+entendre(미래)_entendrai/entendras/entendra/entendrons/entendrez/entendront,(미래) 들리다,J'entendrai du bruit.,entendre
 traduire_traduis/traduis/traduit/traduisons/traduisez/traduisent/traduit,번역하다,Je traduis le texte.,traduire
+traduire(반과거)_traduisais/traduisais/traduisait/traduisions/traduisiez/traduisaient,(반과거) 번역하다,Je traduisais le texte.,traduire
+traduire(미래)_traduirai/traduiras/traduira/traduirons/traduirez/traduiront,(미래) 번역하다,Je traduirai le texte.,traduire
 écrire_écris/écris/écrit/écrivons/écrivez/écrivent/écrit,쓰다,J'écris une lettre.,écrire
+écrire(반과거)_écrivais/écrivais/écrivait/écrivions/écriviez/écrivaient,(반과거) 쓰다,J'écrivais une lettre.,écrire
+écrire(미래)_écrirai/écriras/écrira/écrirons/écrirez/écriront,(미래) 쓰다,J'écrirai une lettre.,écrire
 signer_signe/signes/signe/signons/signez/signent/signé,사인하다,Je signe le contrat.,signer
+signer(반과거)_signais/signais/signait/signions/signiez/signaient,(반과거) 사인하다,Je signais le contrat.,signer
+signer(미래)_signerai/signeras/signera/signerons/signerez/signeront,(미래) 사인하다,Je signerai le contrat.,signer
 effacer_efface/effaces/efface/effaçons/effacez/effacent/effacé,지우다,J'efface le tableau.,effacer
+effacer(반과거)_effaçais/effaçais/effaçait/effacions/effaciez/effaçaient,(반과거) 지우다,J'effaçais le tableau.,effacer
+effacer(미래)_effacerai/effaceras/effacera/effacerons/effacerez/effaceront,(미래) 지우다,J'effacerai le tableau.,effacer
 poster_poste/postes/poste/postons/postez/postent/posté,글을 올리다,Je poste une photo.,poster
+poster(반과거)_postais/postais/postait/postions/postiez/postaient,(반과거) 글을 올리다,Je postais une photo.,poster
+poster(미래)_posterai/posteras/postera/posterons/posterez/posteront,(미래) 글을 올리다,Je posterai une photo.,poster
 étudier_étudie/études/étudie/étudions/étudiez/étudient/étudié,공부하다,J'étudie le français.,étudier
+étudier(반과거)_étudiais/étudiais/étudiait/étudiions/étudiiez/étudiaient,(반과거) 공부하다,J'étudiais le français.,étudier
+étudier(미래)_étudierai/étudieras/étudiera/étudierons/étudierez/étudieront,(미래) 공부하다,J'étudierai le français.,étudier
 apprendre_apprends/apprends/apprend/apprenons/apprenez/apprennent/appris,배우다,J'ai appris le français.,apprendre
+apprendre(반과거)_apprenais/apprenais/apprenait/apprenions/appreniez/apprenaient,(반과거) 배우다,"Avant, il apprenait.",apprendre
+apprendre(미래)_apprendrai/apprendras/apprendra/apprendrons/apprendrez/apprendront,(미래) 배우다,"Demain, il apprendra.",apprendre
 comprendre_comprends/comprends/comprend/comprenons/comprenez/comprennent/compris,이해하다,Je comprends bien.,comprendre
+comprendre(반과거)_comprenais/comprenais/comprenait/comprenions/compreniez/comprenaient,(반과거) 이해하다,Je comprenais bien.,comprendre
+comprendre(미래)_comprendrai/comprendras/comprendra/comprendrons/comprendrez/comprendront,(미래) 이해하다,Je comprendrai bien.,comprendre
 apprendre par cœur,외우다,J'apprends par cœur.,apprendre
 se souvenir_je me souviens/tu te souviens/il se souvient/nous nous souvenons/vous vous souvenez/ils se souviennent/souvenu,기억하다,Je me souviens de toi.,se souvenir
+se souvenir(반과거)_me souvenais/te souvenais/se souvenait/nous souvenions/vous souveniez/se souvenaient,(반과거) 기억하다,Je me souvenais de toi.,se souvenir
+se souvenir(미래)_me souviendrai/te souviendras/se souviendra/nous souviendrons/vous souviendrez/se souviendront,(미래) 기억하다,Je me souviendrai de toi.,se souvenir
 réviser_révise/révises/révise/révisons/révisez/révisent/révisé,복습하다,Je révise mes leçons.,réviser
+réviser(반과거)_révisais/révisais/révisait/révisions/révisiez/révisaient,(반과거) 복습하다,Je révisais mes leçons.,réviser
+réviser(미래)_réviserai/réviseras/révisera/réviserons/réviserez/réviseront,(미래) 복습하다,Je réviserai mes leçons.,réviser
 connaître_connais/connais/connaît/connaissons/connaissez/connaissent/connu,(사람·장소·사물을) 알다,Je connais Paris.,connaître
+connaître(반과거)_connaissais/connaissais/connaissait/connaissions/connaissiez/connaissaient,(반과거) (사람·장소·사물을) 알다,Je connaissais Paris.,connaître
+connaître(미래)_connaîtrai/connaîtras/connaîtra/connaîtrons/connaîtrez/connaîtront,(미래) (사람·장소·사물을) 알다,Je connaîtrai Paris.,connaître
 ajouter_ajoute/ajoutes/ajoute/ajoutons/ajoutez/ajoutent/ajouté,추가하다,J'ajoute du sel.,ajouter
+ajouter(반과거)_ajoutais/ajoutais/ajoutait/ajoutions/ajoutiez/ajoutaient,(반과거) 추가하다,J'ajoutais du sel.,ajouter
+ajouter(미래)_ajouterai/ajouteras/ajoutera/ajouterons/ajouterez/ajouteront,(미래) 추가하다,J'ajouterai du sel.,ajouter
 travailler_travaille/travailles/travaille/travaillons/travaillez/travaillent/travaillé,일하다 (en/au),Je travaille à l'hôpital.,travailler
+travailler(반과거)_travaillais/travaillais/travaillait/travaillions/travailliez/travaillaient,(반과거) 일하다 (en/au),Je travaillais à l'hôpital.,travailler
+travailler(미래)_travaillerai/travailleras/travaillera/travaillerons/travaillerez/travailleront,(미래) 일하다 (en/au),Je travaillerai à l'hôpital.,travailler
 aider_aide/aides/aide/aidons/aidez/aident/aidé,돕다,Il m'aide beaucoup.,aider
+aider(반과거)_aidais/aidais/aidait/aidions/aidiez/aidaient,(반과거) 돕다,"Avant, il aidait.",aider
+aider(미래)_aiderai/aideras/aidera/aiderons/aiderez/aideront,(미래) 돕다,"Demain, il aidera.",aider
 partager_partage/partages/partage/partageons/partagez/partagent/partagé,공유하다,Je partage la photo.,partager
+partager(반과거)_partageais/partageais/partageait/partagions/partagiez/partageaient,(반과거) 공유하다,Je partageais la photo.,partager
+partager(미래)_partagerai/partageras/partagera/partagerons/partagerez/partageront,(미래) 공유하다,Je partagerai la photo.,partager
 essayer_essaie/essaies/essaie/essayons/essayez/essaient/essayé,시도하다,J'essaie de comprendre.,essayer
+essayer(반과거)_essayais/essayais/essayait/essayions/essayiez/essayaient,(반과거) 시도하다,J'essayais de comprendre.,essayer
+essayer(미래)_essayerai/essayeras/essayera/essayerons/essayerez/essayeront,(미래) 시도하다,J'essayerai de comprendre.,essayer
 gagner_gagne/gagnes/gagne/gagnons/gagnez/gagnent/gagné,이기다,Mon équipe gagne.,gagner
+gagner(반과거)_gagnais/gagnais/gagnait/gagnions/gagniez/gagnaient,(반과거) 이기다,"Avant, il gagnait.",gagner
+gagner(미래)_gagnerai/gagneras/gagnera/gagnerons/gagnerez/gagneront,(미래) 이기다,"Demain, il gagnera.",gagner
 perdre_perds/perds/perd/perdons/perdez/perdent/perdu,"지다, 잃다",J'ai perdu de l'argent.,perdre
+perdre(반과거)_perdais/perdais/perdait/perdions/perdiez/perdaient,"(반과거) 지다, 잃다","Avant, il perdait.",perdre
+perdre(미래)_perdrai/perdras/perdra/perdrons/perdrez/perdront,"(미래) 지다, 잃다","Demain, il perdra.",perdre
 abandonner_abandonne/abandonnes/abandonne/abandonnons/abandonnez/abandonnent/abandonné,포기하다,N'abandonne pas !,abandonner
+abandonner(반과거)_abandonnais/abandonnais/abandonnait/abandonnions/abandonniez/abandonnaient,(반과거) 포기하다,"Avant, il abandonnait.",abandonner
+abandonner(미래)_abandonnerai/abandonneras/abandonnera/abandonnerons/abandonnerez/abandonneront,(미래) 포기하다,"Demain, il abandonnera.",abandonner
 quitter_quitte/quittes/quitte/quittons/quittez/quittent/quitté,"그만두다, 떠나다",Il quitte son travail.,quitter
+quitter(반과거)_quittais/quittais/quittait/quittions/quittiez/quittaient,"(반과거) 그만두다, 떠나다",Il quittait son travail.,quitter
+quitter(미래)_quitterai/quitteras/quittera/quitterons/quitterez/quitteront,"(미래) 그만두다, 떠나다",Il quittera son travail.,quitter
 décider_décide/décides/décide/décidons/décidez/décident/décidé,결정하다,On décide de partir.,décider
+décider(반과거)_décidais/décidais/décidait/décidions/décidiez/décidaient,(반과거) 결정하다,On décidait de partir.,décider
+décider(미래)_déciderai/décideras/décidera/déciderons/déciderez/décideront,(미래) 결정하다,On décidera de partir.,décider
 inventer_invente/inventes/invente/inventons/inventez/inventent/inventé,"만들다, 발명하다",Il invente une histoire.,inventer
+inventer(반과거)_inventais/inventais/inventait/inventions/inventiez/inventaient,"(반과거) 만들다, 발명하다",Il inventait une histoire.,inventer
+inventer(미래)_inventerai/inventeras/inventera/inventerons/inventerez/inventeront,"(미래) 만들다, 발명하다",Il inventera une histoire.,inventer
 créer_crée/crées/crée/créons/créez/créent/créé,"만들다, 창조하다",Elle a créé une app.,créer
+créer(반과거)_créais/créais/créait/créions/créiez/créaient,"(반과거) 만들다, 창조하다","Avant, il créait.",créer
+créer(미래)_créerai/créeras/créera/créerons/créerez/créeront,"(미래) 만들다, 창조하다","Demain, il créera.",créer
 construire_construis/construis/construit/construisons/construisez/construisent/construit,짓다,On construit une maison.,construire
+construire(반과거)_construisais/construisais/construisait/construisions/construisiez/construisaient,(반과거) 짓다,On construisait une maison.,construire
+construire(미래)_construirai/construiras/construira/construirons/construirez/construiront,(미래) 짓다,On construira une maison.,construire
 utiliser_utilise/utilises/utilise/utilisons/utilisez/utilisent/utilisé,사용하다,J'utilise mon téléphone.,utiliser
+utiliser(반과거)_utilisais/utilisais/utilisait/utilisions/utilisiez/utilisaient,(반과거) 사용하다,J'utilisais mon téléphone.,utiliser
+utiliser(미래)_utiliserai/utiliseras/utilisera/utiliserons/utiliserez/utiliseront,(미래) 사용하다,J'utiliserai mon téléphone.,utiliser
 répéter_répète/répètes/répète/répétons/répétez/répètent/répété,반복하다,Répète s'il te plaît.,répéter
+répéter(반과거)_répétais/répétais/répétait/répétions/répétiez/répétaient,(반과거) 반복하다,"Avant, il répétait.",répéter
+répéter(미래)_répéterai/répéteras/répétera/répéterons/répéterez/répéteront,(미래) 반복하다,"Demain, il répétera.",répéter
 s'améliorer_je m'améliore/tu t'améliores/il s'améliore/nous nous améliorons/vous vous améliorez/ils s'améliorent/amélioré,향상되다,Mon français s'améliore.,s'améliorer
+s'améliorer(반과거)_m'améliorais/t'améliorais/s'améliorait/nous améliorions/vous amélioriez/s'amélioraient,(반과거) 향상되다,"Avant, il s'améliorait.",s'améliorer
+s'améliorer(미래)_m'améliorerai/t'amélioreras/s'améliorera/nous améliorerons/vous améliorerez/s'amélioreront,(미래) 향상되다,"Demain, il s'améliorera.",s'améliorer
 recommander_recommande/recommandes/recommande/recommandons/recommandez/recommandent/recommandé,추천하다,Je recommande ce restaurant.,recommander
+recommander(반과거)_recommandais/recommandais/recommandait/recommandions/recommandiez/recommandaient,(반과거) 추천하다,Je recommandais ce restaurant.,recommander
+recommander(미래)_recommanderai/recommanderas/recommandera/recommanderons/recommanderez/recommanderont,(미래) 추천하다,Je recommanderai ce restaurant.,recommander
 finir_finis/finis/finit/finissons/finissez/finissent/fini,끝내다,Je finis le travail.,finir
+finir(반과거)_finissais/finissais/finissait/finissions/finissiez/finissaient,(반과거) 끝내다,Je finissais le travail.,finir
+finir(미래)_finirai/finiras/finira/finirons/finirez/finiront,(미래) 끝내다,Je finirai le travail.,finir
 raccrocher_raccroche/raccroches/raccroche/raccrochons/raccrochez/raccrochent/raccroché,전화 끊다,Il raccroche.,raccrocher
+raccrocher(반과거)_raccrochais/raccrochais/raccrochait/raccrochions/raccrochiez/raccrochaient,(반과거) 전화 끊다,Il raccrochait.,raccrocher
+raccrocher(미래)_raccrocherai/raccrocheras/raccrochera/raccrocherons/raccrocherez/raccrocheront,(미래) 전화 끊다,Il raccrochera.,raccrocher
 fêter_fête/fêtes/fête/fêtons/fêtez/fêtent/fêté,축하하다,On fête son anniversaire.,fêter
+fêter(반과거)_fêtais/fêtais/fêtait/fêtions/fêtiez/fêtaient,(반과거) 축하하다,On fêtait son anniversaire.,fêter
+fêter(미래)_fêterai/fêteras/fêtera/fêterons/fêterez/fêteront,(미래) 축하하다,On fêtera son anniversaire.,fêter
 remercier_remercie/remercies/remercie/remercions/remerciez/remercient/remercié,감사하다,Je te remercie.,remercier
+remercier(반과거)_remerciais/remerciais/remerciait/remerciions/remerciiez/remerciaient,(반과거) 감사하다,"Avant, il remerciait.",remercier
+remercier(미래)_remercierai/remercieras/remerciera/remercierons/remercierez/remercieront,(미래) 감사하다,"Demain, il remerciera.",remercier
 profiter_profite/profites/profite/profitons/profitez/profitent/profité,즐기다,Profite bien de tes vacances.,profiter
+profiter(반과거)_profitais/profitais/profitait/profitions/profitiez/profitaient,(반과거) 즐기다,"Avant, il profitait.",profiter
+profiter(미래)_profiterai/profiteras/profitera/profiterons/profiterez/profiteront,(미래) 즐기다,"Demain, il profitera.",profiter
 rigoler_rigole/rigoles/rigole/rigolons/rigolez/rigolent/rigolé,웃다,On rigole bien.,rigoler
+rigoler(반과거)_rigolais/rigolais/rigolait/rigolions/rigoliez/rigolaient,(반과거) 웃다,On rigolait bien.,rigoler
+rigoler(미래)_rigolerai/rigoleras/rigolera/rigolerons/rigolerez/rigoleront,(미래) 웃다,On rigolera bien.,rigoler
 pleurer_pleure/pleures/pleure/pleurons/pleurez/pleurent/pleuré,울다,Elle pleure.,pleurer
+pleurer(반과거)_pleurais/pleurais/pleurait/pleurions/pleuriez/pleuraient,(반과거) 울다,Elle pleurait.,pleurer
+pleurer(미래)_pleurerai/pleureras/pleurera/pleurerons/pleurerez/pleureront,(미래) 울다,Elle pleurera.,pleurer
 se sentir_je me sens/tu te sens/il se sent/nous nous sentons/vous vous sentez/ils se sentent/senti,기분이 -하다,Je me sens mieux. / Comment tu te sens ?,se sentir
+se sentir(반과거)_me sentais/te sentais/se sentait/nous sentions/vous sentiez/se sentaient,(반과거) 기분이 -하다,Je me sentais mieux. / Comment tu te sens ?,se sentir
+se sentir(미래)_me sentirai/te sentiras/se sentira/nous sentirons/vous sentirez/se sentiront,(미래) 기분이 -하다,Je me sentirai mieux. / Comment tu te sens ?,se sentir
 boire_bois/bois/boit/buvons/buvez/boivent/bu,마시다,Je bois de l'eau.,boire
+boire(반과거)_buvais/buvais/buvait/buvions/buviez/buvaient,(반과거) 마시다,Je buvais de l'eau.,boire
+boire(미래)_boirai/boiras/boira/boirons/boirez/boiront,(미래) 마시다,Je boirai de l'eau.,boire
 manger_mange/manges/mange/mangeons/mangez/mangent/mangé,먹다,Je mange une pomme.,manger
+manger(반과거)_mangeais/mangeais/mangeait/mangions/mangiez/mangeaient,(반과거) 먹다,Je mangeais une pomme.,manger
+manger(미래)_mangerai/mangeras/mangera/mangerons/mangerez/mangeront,(미래) 먹다,Je mangerai une pomme.,manger
 goûter_goûte/goûtes/goûte/goûtons/goûtez/goûtent/goûté,맛보다,Je goûte la soupe.,goûter
+goûter(반과거)_goûtais/goûtais/goûtait/goûtions/goûtiez/goûtaient,(반과거) 맛보다,Je goûtais la soupe.,goûter
+goûter(미래)_goûterai/goûteras/goûtera/goûterons/goûterez/goûteront,(미래) 맛보다,Je goûterai la soupe.,goûter
 déjeuner_déjeune/déjeunes/déjeune/déjeunons/déjeunez/déjeunent/déjeuné,점심 먹다,Je déjeune à midi.,déjeuner
+déjeuner(반과거)_déjeunais/déjeunais/déjeunait/déjeunions/déjeuniez/déjeunaient,(반과거) 점심 먹다,Je déjeunais à midi.,déjeuner
+déjeuner(미래)_déjeunerai/déjeuneras/déjeunera/déjeunerons/déjeunerez/déjeuneront,(미래) 점심 먹다,Je déjeunerai à midi.,déjeuner
 dîner_dîne/dînes/dîne/dînons/dînez/dînent/dîné,저녁 먹다,Je dîne en famille.,dîner
+dîner(반과거)_dînais/dînais/dînait/dînions/dîniez/dînaient,(반과거) 저녁 먹다,Je dînais en famille.,dîner
+dîner(미래)_dînerai/dîneras/dînera/dînerons/dînerez/dîneront,(미래) 저녁 먹다,Je dînerai en famille.,dîner
 commander_commande/commandes/commande/commandons/commandez/commandent/commandé,주문하다,Je commande un café.,commander
+commander(반과거)_commandais/commandais/commandait/commandions/commandiez/commandaient,(반과거) 주문하다,Je commandais un café.,commander
+commander(미래)_commanderai/commanderas/commandera/commanderons/commanderez/commanderont,(미래) 주문하다,Je commanderai un café.,commander
 cuisiner_cuisine/cuisines/cuisine/cuisinons/cuisinez/cuisinent/cuisiné,요리하다,Je cuisine le soir.,cuisiner
+cuisiner(반과거)_cuisinais/cuisinais/cuisinait/cuisinions/cuisiniez/cuisinaient,(반과거) 요리하다,Je cuisinais le soir.,cuisiner
+cuisiner(미래)_cuisinerai/cuisineras/cuisinera/cuisinerons/cuisinerez/cuisineront,(미래) 요리하다,Je cuisinerai le soir.,cuisiner
 couper_coupe/coupes/coupe/coupons/coupez/coupent/coupé,자르다,Je coupe le pain.,couper
+couper(반과거)_coupais/coupais/coupait/coupions/coupiez/coupaient,(반과거) 자르다,Je coupais le pain.,couper
+couper(미래)_couperai/couperas/coupera/couperons/couperez/couperont,(미래) 자르다,Je couperai le pain.,couper
 mélanger_mélange/mélanges/mélange/mélangeons/mélangez/mélangent/mélangé,섞다,Je mélange les ingrédients.,mélanger
+mélanger(반과거)_mélangeais/mélangeais/mélangeait/mélangions/mélangiez/mélangeaient,(반과거) 섞다,Je mélangeais les ingrédients.,mélanger
+mélanger(미래)_mélangerai/mélangeras/mélangera/mélangerons/mélangerez/mélangeront,(미래) 섞다,Je mélangerai les ingrédients.,mélanger
 composer_compose/composes/compose/composons/composez/composent/composé,누르다 (번호),Je compose le numéro.,composer
+composer(반과거)_composais/composais/composait/composions/composiez/composaient,(반과거) 누르다 (번호),Je composais le numéro.,composer
+composer(미래)_composerai/composeras/composera/composerons/composerez/composeront,(미래) 누르다 (번호),Je composerai le numéro.,composer
 allumer_allume/allumes/allume/allumons/allumez/allument/allumé,켜다,J'allume la lumière.,allumer
+allumer(반과거)_allumais/allumais/allumait/allumions/allumiez/allumaient,(반과거) 켜다,J'allumais la lumière.,allumer
+allumer(미래)_allumerai/allumeras/allumera/allumerons/allumerez/allumeront,(미래) 켜다,J'allumerai la lumière.,allumer
 éteindre_éteins/éteins/éteint/éteignons/éteignez/éteignent/éteint,끄다,J'éteins la télé.,éteindre
+éteindre(반과거)_éteignais/éteignais/éteignait/éteignions/éteigniez/éteignaient,(반과거) 끄다,J'éteignais la télé.,éteindre
+éteindre(미래)_éteindrai/éteindras/éteindra/éteindrons/éteindrez/éteindront,(미래) 끄다,J'éteindrai la télé.,éteindre
 fonctionner_fonctionne/fonctionnes/fonctionne/fonctionnons/fonctionnez/fonctionnent/fonctionné,작동하다,Ça fonctionne bien.,fonctionner
+fonctionner(반과거)_fonctionnais/fonctionnais/fonctionnait/fonctionnions/fonctionniez/fonctionnaient,(반과거) 작동하다,"Avant, il fonctionnait.",fonctionner
+fonctionner(미래)_fonctionnerai/fonctionneras/fonctionnera/fonctionnerons/fonctionnerez/fonctionneront,(미래) 작동하다,"Demain, il fonctionnera.",fonctionner
 porter_porte/portes/porte/portons/portez/portent/porté,"입다, 들다",Je porte un pull.,porter
+porter(반과거)_portais/portais/portait/portions/portiez/portaient,"(반과거) 입다, 들다",Je portais un pull.,porter
+porter(미래)_porterai/porteras/portera/porterons/porterez/porteront,"(미래) 입다, 들다",Je porterai un pull.,porter
 s'habiller_je m'habille/tu t'habilles/il s'habille/nous nous habillons/vous vous habillez/ils s'habillent/habillé,옷을 입다,Je m'habille vite.,s'habiller
+s'habiller(반과거)_m'habillais/t'habillais/s'habillait/nous habillions/vous habilliez/s'habillaient,(반과거) 옷을 입다,Je m'habillais vite.,s'habiller
+s'habiller(미래)_m'habillerai/t'habilleras/s'habillera/nous habillerons/vous habillerez/s'habilleront,(미래) 옷을 입다,Je m'habillerai vite.,s'habiller
 mettre_mets/mets/met/mettons/mettez/mettent/mis,"넣다, 신발 신다, 바르다, 음악 틀다",Je mets de la musique.,mettre
+mettre(반과거)_mettais/mettais/mettait/mettions/mettiez/mettaient,"(반과거) 넣다, 신발 신다, 바르다, 음악 틀다",Je mettais de la musique.,mettre
+mettre(미래)_mettrai/mettras/mettra/mettrons/mettrez/mettront,"(미래) 넣다, 신발 신다, 바르다, 음악 틀다",Je mettrai de la musique.,mettre
 laisser_laisse/laisses/laisse/laissons/laissez/laissent/laissé,"두다, 남기다",Laisser un pourboire.,laisser
+laisser(반과거)_laissais/laissais/laissait/laissions/laissiez/laissaient,"(반과거) 두다, 남기다","Avant, il laissait.",laisser
+laisser(미래)_laisserai/laisseras/laissera/laisserons/laisserez/laisseront,"(미래) 두다, 남기다","Demain, il laissera.",laisser
 ouvrir_ouvre/ouvres/ouvre/ouvrons/ouvrez/ouvrent/ouvert,열다,J'ouvre la fenêtre.,ouvrir
+ouvrir(반과거)_ouvrais/ouvrais/ouvrait/ouvrions/ouvriez/ouvraient,(반과거) 열다,J'ouvrais la fenêtre.,ouvrir
+ouvrir(미래)_ouvrirai/ouvriras/ouvrira/ouvrirons/ouvrirez/ouvriront,(미래) 열다,J'ouvrirai la fenêtre.,ouvrir
 fermer_ferme/fermes/ferme/fermons/fermez/ferment/fermé,닫다,Je ferme la porte.,fermer
+fermer(반과거)_fermais/fermais/fermait/fermions/fermiez/fermaient,(반과거) 닫다,Je fermais la porte.,fermer
+fermer(미래)_fermerai/fermeras/fermera/fermerons/fermerez/fermeront,(미래) 닫다,Je fermerai la porte.,fermer
 courir_cours/cours/court/courons/courez/courent/couru,달리다,Je cours tous les matins.,courir
+courir(반과거)_courais/courais/courait/courions/couriez/couraient,(반과거) 달리다,Je courais tous les matins.,courir
+courir(미래)_courrai/courras/courra/courrons/courrez/courront,(미래) 달리다,Je courrai tous les matins.,courir
 sauter_saute/sautes/saute/sautons/sautez/sautent/sauté,"뛰다, 점프하다",L'enfant saute partout.,sauter
+sauter(반과거)_sautais/sautais/sautait/sautions/sautiez/sautaient,"(반과거) 뛰다, 점프하다","Avant, il sautait.",sauter
+sauter(미래)_sauterai/sauteras/sautera/sauterons/sauterez/sauteront,"(미래) 뛰다, 점프하다","Demain, il sautera.",sauter
 se promener_je me promène/tu te promènes/il se promène/nous nous promenons/vous vous promenez/ils se promènent/promené,산책하다,Je me promène au parc.,se promener
+se promener(반과거)_me promenais/te promenais/se promenait/nous promenions/vous promeniez/se promenaient,(반과거) 산책하다,Je me promenais au parc.,se promener
+se promener(미래)_me promènerai/te promèneras/se promènera/nous promènerons/vous promènerez/se promèneront,(미래) 산책하다,Je me promènerai au parc.,se promener
 s'entraîner_je m'entraîne/tu t'entraînes/il s'entraîne/nous nous entraînons/vous vous entraînez/ils s'entraînent/entraîné,훈련하다,Il s'entraîne tous les jours.,s'entraîner
+s'entraîner(반과거)_m'entraînais/t'entraînais/s'entraînait/nous entraînions/vous entraîniez/s'entraînaient,(반과거) 훈련하다,Il s'entraînait tous les jours.,s'entraîner
+s'entraîner(미래)_m'entraînerai/t'entraîneras/s'entraînera/nous entraînerons/vous entraînerez/s'entraîneront,(미래) 훈련하다,Il s'entraînera tous les jours.,s'entraîner
 conduire_conduis/conduis/conduit/conduisons/conduisez/conduisent/conduit,운전하다,Je conduis prudemment.,conduire
+conduire(반과거)_conduisais/conduisais/conduisait/conduisions/conduisiez/conduisaient,(반과거) 운전하다,Je conduisais prudemment.,conduire
+conduire(미래)_conduirai/conduiras/conduira/conduirons/conduirez/conduiront,(미래) 운전하다,Je conduirai prudemment.,conduire
 tourner_tourne/tournes/tourne/tournons/tournez/tournent/tourné,돌다,Tournez à gauche.,tourner
+tourner(반과거)_tournais/tournais/tournait/tournions/tourniez/tournaient,(반과거) 돌다,"Avant, il tournait.",tourner
+tourner(미래)_tournerai/tourneras/tournera/tournerons/tournerez/tourneront,(미래) 돌다,"Demain, il tournera.",tourner
 traverser_traverse/traverses/traverse/traversons/traversez/traversent/traversé,건너다,Je traverse la rue.,traverser
+traverser(반과거)_traversais/traversais/traversait/traversions/traversiez/traversaient,(반과거) 건너다,Je traversais la rue.,traverser
+traverser(미래)_traverserai/traverseras/traversera/traverserons/traverserez/traverseront,(미래) 건너다,Je traverserai la rue.,traverser
 s'arrêter_je m'arrête/tu t'arrêtes/il s'arrête/nous nous arrêtons/vous vous arrêtez/ils s'arrêtent/arrêté,멈추다,Le bus s'arrête ici.,s'arrêter
-s'asseoir_je m'assieds/tu t'assieds/il s'assoit/nous nous asseyons/vous vous asseyez/ils s'asseyent/assis,앉다,Asseyez-vous !,s'asseoir
+s'arrêter(반과거)_m'arrêtais/t'arrêtais/s'arrêtait/nous arrêtions/vous arrêtiez/s'arrêtaient,(반과거) 멈추다,"Avant, il s'arrêtait.",s'arrêter
+s'arrêter(미래)_m'arrêterai/t'arrêteras/s'arrêtera/nous arrêterons/vous arrêterez/s'arrêteront,(미래) 멈추다,"Demain, il s'arrêtera.",s'arrêter
+s'asseoir_je m'assieds/tu t'assieds/il s'assied/nous nous asseyons/vous vous asseyez/ils s'asseyent/assis,앉다,Asseyez-vous !,s'asseoir
+s'asseoir(반과거)_m'asseyais/t'asseyais/s'asseyait/nous asseyions/vous asseyiez/s'asseyaient,(반과거) 앉다,"Avant, il s'asseyait.",s'asseoir
+s'asseoir(미래)_m'assiérai/t'assiéras/s'assiéra/nous assiérons/vous assiérez/s'assiéront,(미래) 앉다,"Demain, il s'assiéra.",s'asseoir
 laver_lave/laves/lave/lavons/lavez/lavent/lavé,씻다,Je lave les assiettes.,laver
+laver(반과거)_lavais/lavais/lavait/lavions/laviez/lavaient,(반과거) 씻다,Je lavais les assiettes.,laver
+laver(미래)_laverai/laveras/lavera/laverons/laverez/laveront,(미래) 씻다,Je laverai les assiettes.,laver
 se doucher_je me douche/tu te douches/il se douche/nous nous douchons/vous vous douchez/ils se douchent/douché,샤워하다,Je me douche le matin.,se doucher
+se doucher(반과거)_me douchais/te douchais/se douchait/nous douchions/vous douchiez/se douchaient,(반과거) 샤워하다,Je me douchais le matin.,se doucher
+se doucher(미래)_me doucherai/te doucheras/se douchera/nous doucherons/vous doucherez/se doucheront,(미래) 샤워하다,Je me doucherai le matin.,se doucher
 se coiffer_je me coiffe/tu te coiffes/il se coiffe/nous nous coiffons/vous vous coiffez/ils se coiffent/coiffé,머리 손질하다,Je me coiffe.,se coiffer
+se coiffer(반과거)_me coiffais/te coiffais/se coiffait/nous coiffions/vous coiffiez/se coiffaient,(반과거) 머리 손질하다,Je me coiffais.,se coiffer
+se coiffer(미래)_me coifferai/te coifferas/se coiffera/nous coifferons/vous coifferez/se coifferont,(미래) 머리 손질하다,Je me coifferai.,se coiffer
 nager_nage/nages/nage/nageons/nagez/nagent/nagé,수영하다,Je nage à la piscine.,nager
+nager(반과거)_nageais/nageais/nageait/nagions/nagiez/nageaient,(반과거) 수영하다,Je nageais à la piscine.,nager
+nager(미래)_nagerai/nageras/nagera/nagerons/nagerez/nageront,(미래) 수영하다,Je nagerai à la piscine.,nager
 pêcher_pêche/pêches/pêche/pêchons/pêchez/pêchent/pêché,낚시하다,Je pêche dans le lac.,pêcher
+pêcher(반과거)_pêchais/pêchais/pêchait/pêchions/pêchiez/pêchaient,(반과거) 낚시하다,Je pêchais dans le lac.,pêcher
+pêcher(미래)_pêcherai/pêcheras/pêchera/pêcherons/pêcherez/pêcheront,(미래) 낚시하다,Je pêcherai dans le lac.,pêcher
 nettoyer_nettoie/nettoies/nettoie/nettoyons/nettoyez/nettoient/nettoyé,청소하다,Je nettoie la chambre.,nettoyer
+nettoyer(반과거)_nettoyais/nettoyais/nettoyait/nettoyions/nettoyiez/nettoyaient,(반과거) 청소하다,Je nettoyais la chambre.,nettoyer
+nettoyer(미래)_nettoierai/nettoieras/nettoiera/nettoierons/nettoierez/nettoieront,(미래) 청소하다,Je nettoierai la chambre.,nettoyer
 ranger_range/ranges/range/rangeons/rangez/rangent/rangé,정리하다,Je range mes affaires.,ranger
+ranger(반과거)_rangeais/rangeais/rangeait/rangions/rangiez/rangeaient,(반과거) 정리하다,Je rangeais mes affaires.,ranger
+ranger(미래)_rangerai/rangeras/rangera/rangerons/rangerez/rangeront,(미래) 정리하다,Je rangerai mes affaires.,ranger
 devenir_deviens/deviens/devient/devenons/devenez/deviennent/devenu,되다,Il devient médecin.,devenir
+devenir(반과거)_devenais/devenais/devenait/devenions/deveniez/devenaient,(반과거) 되다,Il devenait médecin.,devenir
+devenir(미래)_deviendrai/deviendras/deviendra/deviendrons/deviendrez/deviendront,(미래) 되다,Il deviendra médecin.,devenir
 grandir_grandis/grandis/grandit/grandissons/grandissez/grandissent/grandi,"성장하다, 커지다",Il grandit vite.,grandir
+grandir(반과거)_grandissais/grandissais/grandissait/grandissions/grandissiez/grandissaient,"(반과거) 성장하다, 커지다",Il grandissait vite.,grandir
+grandir(미래)_grandirai/grandiras/grandira/grandirons/grandirez/grandiront,"(미래) 성장하다, 커지다",Il grandira vite.,grandir
 s'occuper_je m'occupe/tu t'occupes/il s'occupe/nous nous occupons/vous vous occupez/ils s'occupent/occupé,돌보다,Je m'occupe des enfants.,s'occuper
+s'occuper(반과거)_m'occupais/t'occupais/s'occupait/nous occupions/vous occupiez/s'occupaient,(반과거) 돌보다,Je m'occupais des enfants.,s'occuper
+s'occuper(미래)_m'occuperai/t'occuperas/s'occupera/nous occuperons/vous occuperez/s'occuperont,(미래) 돌보다,Je m'occuperai des enfants.,s'occuper
 nourrir_nourris/nourris/nourrit/nourrissons/nourrissez/nourrissent/nourri,먹이를 주다,Je nourris le chat.,nourrir
+nourrir(반과거)_nourrissais/nourrissais/nourrissait/nourrissions/nourrissiez/nourrissaient,(반과거) 먹이를 주다,Je nourrissais le chat.,nourrir
+nourrir(미래)_nourrirai/nourriras/nourrira/nourrirons/nourrirez/nourriront,(미래) 먹이를 주다,Je nourrirai le chat.,nourrir
 mériter_mérite/mérites/mérite/méritons/méritez/méritent/mérité,자격이 있다,Tu le mérites !,mériter
+mériter(반과거)_méritais/méritais/méritait/méritions/méritiez/méritaient,(반과거) 자격이 있다,"Avant, il méritait.",mériter
+mériter(미래)_mériterai/mériteras/méritera/mériterons/mériterez/mériteront,(미래) 자격이 있다,"Demain, il méritera.",mériter
 vieillir_vieillis/vieillis/vieillit/vieillissons/vieillissez/vieillissent/vieilli,늙다,On vieillit tous.,vieillir
+vieillir(반과거)_vieillissais/vieillissais/vieillissait/vieillissions/vieillissiez/vieillissaient,(반과거) 늙다,On vieillissait tous.,vieillir
+vieillir(미래)_vieillirai/vieilliras/vieillira/vieillirons/vieillirez/vieilliront,(미래) 늙다,On vieillira tous.,vieillir
 ressembler_ressemble/ressembles/ressemble/ressemblons/ressemblez/ressemblent/ressemblé,닮다,Il ressemble à son père.,ressembler
+ressembler(반과거)_ressemblais/ressemblais/ressemblait/ressemblions/ressembliez/ressemblaient,(반과거) 닮다,Il ressemblait à son père.,ressembler
+ressembler(미래)_ressemblerai/ressembleras/ressemblera/ressemblerons/ressemblerez/ressembleront,(미래) 닮다,Il ressemblera à son père.,ressembler
 sentir_sens/sens/sent/sentons/sentez/sentent/senti,"냄새가 나다, 느껴지다",Ça sent bon !,sentir
+sentir(반과거)_sentais/sentais/sentait/sentions/sentiez/sentaient,"(반과거) 냄새가 나다, 느껴지다","Avant, il sentait.",sentir
+sentir(미래)_sentirai/sentiras/sentira/sentirons/sentirez/sentiront,"(미래) 냄새가 나다, 느껴지다","Demain, il sentira.",sentir
 tousser_tousse/tousses/tousse/toussons/toussez/toussent/toussé,기침하다,Je tousse beaucoup.,tousser
+tousser(반과거)_toussais/toussais/toussait/toussions/toussiez/toussaient,(반과거) 기침하다,Je toussais beaucoup.,tousser
+tousser(미래)_tousserai/tousseras/toussera/tousserons/tousserez/tousseront,(미래) 기침하다,Je tousserai beaucoup.,tousser
 il pleut,비가 온다,Il pleut aujourd'hui.,pleuvoir
 il neige,눈이 온다,Il neige en hiver.,neiger
 avoir soif,목마르다,J'ai soif.,avoir
@@ -244,7 +588,7 @@ ambitieux / ambitieuse,야망 있는,Il est ambitieux.,
 paresseux / paresseuse,게으른,Il est paresseux.,
 drôle,웃긴,C'est drôle.,
 passionnant,흥미진진한,C'est passionnant !,
-ennuyeux,지루한,C'est ennuyeux.,
+ennuyeux / ennuyeuse,지루한,C'est ennuyeux.,
 triste,슬픈,Je suis triste.,
 dommage,안타까운,C'est dommage.,
 inquiet / inquiète,걱정하는,Je suis inquiet.,
@@ -275,7 +619,7 @@ propre,깨끗한,La chambre est propre.,
 sale,"더러운, 짠",Mes mains sont sales.,
 mouillé,젖은,Mon manteau est mouillé.,
 frais / fraîche,"신선한, 시원한",Le poisson est frais.,
-beau / belle,아름다운,C'est beau.,
+beau / bel(모음 앞) / belle,아름다운,"C'est beau. / un bel homme, un beau garçon.",
 joli / jolie,예쁜,Une jolie fleur.,
 mignon,귀여운,Le chat est mignon.,
 génial,멋진,C'est génial.,
@@ -301,8 +645,8 @@ même,"같은, 심지어",Moi-même 직접.,
 premier / première,첫 번째,C'est la première fois.,
 dernier / dernière,"마지막, 지난",Mardi dernier 지난 수요일.,
 jeune,젊은,Il est jeune.,
-nouveau / nouvelle,"새로운, 소식",Les nouvelles du jour.,
-vieux / vieille,"낡은, 오래된",Une vieille maison.,
+nouveau / nouvel(모음 앞) / nouvelle,"새로운, 소식","Les nouvelles du jour. / un nouvel ami, un nouveau livre.",
+vieux / vieil(모음 앞) / vieille,"낡은, 오래된","Une vieille maison. / un vieil ami, un vieux livre.",
 cassé,부서진,Mon téléphone est cassé.,
 en panne,고장난,La voiture est en panne.,
 éteint,꺼진,Le feu est éteint.,
@@ -526,3 +870,272 @@ mardi dernier,지난 화요일,On s'est vus mardi dernier.,
 du monde / beaucoup de monde,세상에서 / 많은 사람들,Il y a beaucoup de monde.,
 autant que,~만큼 (동사 비교),Je travaille autant que toi.,
 autant de + 명사 + que,~만큼 많은 (명사),J'ai autant de travail que toi.,
+reculer_recule/recules/recule/reculons/reculez/reculent/reculé,"물러나다, 후진하다","Recule un peu, s'il te plaît.",reculer
+reculer(반과거)_reculais/reculais/reculait/reculions/reculiez/reculaient,"(반과거) 물러나다, 후진하다","Avant, il reculait.",reculer
+reculer(미래)_reculerai/reculeras/reculera/reculerons/reculerez/reculeront,"(미래) 물러나다, 후진하다","Demain, il reculera.",reculer
+garer_gare/gares/gare/garons/garez/garent/garé,주차하다,Je gare la voiture ici.,garer
+garer(반과거)_garais/garais/garait/garions/gariez/garaient,(반과거) 주차하다,Je garais la voiture ici.,garer
+garer(미래)_garerai/gareras/garera/garerons/garerez/gareront,(미래) 주차하다,Je garerai la voiture ici.,garer
+emmener_emmène/emmènes/emmène/emmenons/emmenez/emmènent/emmené,데리고 다니다,Je t'emmène au cinéma.,emmener
+emmener(반과거)_emmenais/emmenais/emmenait/emmenions/emmeniez/emmenaient,(반과거) 데리고 다니다,"Avant, il emmenait.",emmener
+emmener(미래)_emmènerai/emmèneras/emmènera/emmènerons/emmènerez/emmèneront,(미래) 데리고 다니다,"Demain, il emmènera.",emmener
+éliminer_élimine/élimines/élimine/éliminons/éliminez/éliminent/éliminé,"처치하다, 제거하다",Il faut éliminer le problème.,éliminer
+éliminer(반과거)_éliminais/éliminais/éliminait/éliminions/éliminiez/éliminaient,"(반과거) 처치하다, 제거하다","Avant, il éliminait.",éliminer
+éliminer(미래)_éliminerai/élimineras/éliminera/éliminerons/éliminerez/élimineront,"(미래) 처치하다, 제거하다","Demain, il éliminera.",éliminer
+lancer_lance/lances/lance/lançons/lancez/lancent/lancé,던지다,Il lance le ballon.,lancer
+lancer(반과거)_lançais/lançais/lançait/lancions/lanciez/lançaient,(반과거) 던지다,Il lançait le ballon.,lancer
+lancer(미래)_lancerai/lanceras/lancera/lancerons/lancerez/lanceront,(미래) 던지다,Il lancera le ballon.,lancer
+récupérer_récupère/récupères/récupère/récupérons/récupérez/récupèrent/récupéré,"되찾다, 회복하다",Je récupère mes affaires.,récupérer
+récupérer(반과거)_récupérais/récupérais/récupérait/récupérions/récupériez/récupéraient,"(반과거) 되찾다, 회복하다",Je récupérais mes affaires.,récupérer
+récupérer(미래)_récupérerai/récupéreras/récupérera/récupérerons/récupérerez/récupéreront,"(미래) 되찾다, 회복하다",Je récupérerai mes affaires.,récupérer
+organiser_organise/organises/organise/organisons/organisez/organisent/organisé,"계획하다, 준비하다",Elle organise la fête.,organiser
+organiser(반과거)_organisais/organisais/organisait/organisions/organisiez/organisaient,"(반과거) 계획하다, 준비하다",Elle organisait la fête.,organiser
+organiser(미래)_organiserai/organiseras/organisera/organiserons/organiserez/organiseront,"(미래) 계획하다, 준비하다",Elle organisera la fête.,organiser
+planifier_planifie/planifies/planifie/planifions/planifiez/planifient/planifié,계획하다,Nous planifions le voyage.,planifier
+planifier(반과거)_planifiais/planifiais/planifiait/planifiions/planifiiez/planifiaient,(반과거) 계획하다,Nous planifiions le voyage.,planifier
+planifier(미래)_planifierai/planifieras/planifiera/planifierons/planifierez/planifieront,(미래) 계획하다,Nous planifierons le voyage.,planifier
+s'inscrire_m'inscris/t'inscris/s'inscrit/nous inscrivons/vous inscrivez/s'inscrivent/inscrit,등록하다,Je m'inscris au cours.,s'inscrire
+s'inscrire(반과거)_nous inscrivais/nous inscrivais/nous inscrivait/nous inscrivions/nous inscriviez/nous inscrivaient,(반과거) 등록하다,Je nous inscrivais au cours.,s'inscrire
+s'inscrire(미래)_inscrirai/inscriras/inscrira/inscrirons/inscrirez/inscriront,(미래) 등록하다,J'inscrirai au cours.,s'inscrire
+découvrir_découvre/découvres/découvre/découvrons/découvrez/découvrent/découvert,발견하다,J'ai découvert un nouveau restaurant.,découvrir
+découvrir(반과거)_découvrais/découvrais/découvrait/découvrions/découvriez/découvraient,(반과거) 발견하다,"Avant, il découvrait.",découvrir
+découvrir(미래)_découvrirai/découvriras/découvrira/découvrirons/découvrirez/découvriront,(미래) 발견하다,"Demain, il découvrira.",découvrir
+rappeler_rappelle/rappelles/rappelle/rappelons/rappelez/rappellent/rappelé,"상기시키다, 다시 전화하다",Ça me rappelle mon enfance.,rappeler
+rappeler(반과거)_rappelais/rappelais/rappelait/rappelions/rappeliez/rappelaient,"(반과거) 상기시키다, 다시 전화하다","Avant, il rappelait.",rappeler
+rappeler(미래)_rappellerai/rappelleras/rappellera/rappellerons/rappellerez/rappelleront,"(미래) 상기시키다, 다시 전화하다","Demain, il rappellera.",rappeler
+reprocher_reproche/reproches/reproche/reprochons/reprochez/reprochent/reproché,"꾸짖다, 비난하다",Il me reproche mon retard.,reprocher
+reprocher(반과거)_reprochais/reprochais/reprochait/reprochions/reprochiez/reprochaient,"(반과거) 꾸짖다, 비난하다","Avant, il reprochait.",reprocher
+reprocher(미래)_reprocherai/reprocheras/reprochera/reprocherons/reprocherez/reprocheront,"(미래) 꾸짖다, 비난하다","Demain, il reprochera.",reprocher
+peindre_peins/peins/peint/peignons/peignez/peignent/peint,"그리다, 색칠하다",Elle peint un tableau.,peindre
+peindre(반과거)_peignais/peignais/peignait/peignions/peigniez/peignaient,"(반과거) 그리다, 색칠하다",Elle peignait un tableau.,peindre
+peindre(미래)_peindrai/peindras/peindra/peindrons/peindrez/peindront,"(미래) 그리다, 색칠하다",Elle peindra un tableau.,peindre
+enseigner_enseigne/enseignes/enseigne/enseignons/enseignez/enseignent/enseigné,가르치다,Il enseigne le français.,enseigner
+enseigner(반과거)_enseignais/enseignais/enseignait/enseignions/enseigniez/enseignaient,(반과거) 가르치다,Il enseignait le français.,enseigner
+enseigner(미래)_enseignerai/enseigneras/enseignera/enseignerons/enseignerez/enseigneront,(미래) 가르치다,Il enseignera le français.,enseigner
+réussir_réussis/réussis/réussit/réussissons/réussissez/réussissent/réussi,성공하다,Tu vas réussir !,réussir
+réussir(반과거)_réussissais/réussissais/réussissait/réussissions/réussissiez/réussissaient,(반과거) 성공하다,"Avant, il réussissait.",réussir
+réussir(미래)_réussirai/réussiras/réussira/réussirons/réussirez/réussiront,(미래) 성공하다,"Demain, il réussira.",réussir
+pencher_penche/penches/penche/penchons/penchez/penchent/penché,기울이다,Il penche la tête.,pencher
+pencher(반과거)_penchais/penchais/penchait/penchions/penchiez/penchaient,(반과거) 기울이다,Il penchait la tête.,pencher
+pencher(미래)_pencherai/pencheras/penchera/pencherons/pencherez/pencheront,(미래) 기울이다,Il penchera la tête.,pencher
+enlever_enlève/enlèves/enlève/enlevons/enlevez/enlèvent/enlevé,"제거하다, 벗다",Enlève tes chaussures.,enlever
+enlever(반과거)_enlevais/enlevais/enlevait/enlevions/enleviez/enlevaient,"(반과거) 제거하다, 벗다","Avant, il enlevait.",enlever
+enlever(미래)_enlèverai/enlèveras/enlèvera/enlèverons/enlèverez/enlèveront,"(미래) 제거하다, 벗다","Demain, il enlèvera.",enlever
+toucher_touche/touches/touche/touchons/touchez/touchent/touché,"만지다, 닿다",Ne touche pas ça !,toucher
+toucher(반과거)_touchais/touchais/touchait/touchions/touchiez/touchaient,"(반과거) 만지다, 닿다","Avant, il touchait.",toucher
+toucher(미래)_toucherai/toucheras/touchera/toucherons/toucherez/toucheront,"(미래) 만지다, 닿다","Demain, il touchera.",toucher
+effleurer_effleure/effleures/effleure/effleurons/effleurez/effleurent/effleuré,스치다,Sa main effleure la mienne.,effleurer
+effleurer(반과거)_effleurais/effleurais/effleurait/effleurions/effleuriez/effleuraient,(반과거) 스치다,"Avant, il effleurait.",effleurer
+effleurer(미래)_effleurerai/effleureras/effleurera/effleurerons/effleurerez/effleureront,(미래) 스치다,"Demain, il effleurera.",effleurer
+briller_brille/brilles/brille/brillons/brillez/brillent/brillé,빛나다,Le soleil brille.,briller
+briller(반과거)_brillais/brillais/brillait/brillions/brilliez/brillaient,(반과거) 빛나다,Le soleil brillait.,briller
+briller(미래)_brillerai/brilleras/brillera/brillerons/brillerez/brilleront,(미래) 빛나다,Le soleil brillera.,briller
+gravir_gravis/gravis/gravit/gravissons/gravissez/gravissent/gravi,"등반하다, 오르다",Ils gravissent la montagne.,gravir
+gravir(반과거)_gravissais/gravissais/gravissait/gravissions/gravissiez/gravissaient,"(반과거) 등반하다, 오르다",Ils gravissaient la montagne.,gravir
+gravir(미래)_gravirai/graviras/gravira/gravirons/gravirez/graviront,"(미래) 등반하다, 오르다",Ils graviront la montagne.,gravir
+tomber_tombe/tombes/tombe/tombons/tombez/tombent/tombé,"떨어지다, 넘어지다","Attention, tu vas tomber !",tomber
+tomber(반과거)_tombais/tombais/tombait/tombions/tombiez/tombaient,"(반과거) 떨어지다, 넘어지다","Avant, il tombait.",tomber
+tomber(미래)_tomberai/tomberas/tombera/tomberons/tomberez/tomberont,"(미래) 떨어지다, 넘어지다","Demain, il tombera.",tomber
+renverser_renverse/renverses/renverse/renversons/renversez/renversent/renversé,"엎지르다, 쓰러뜨리다",J'ai renversé mon café.,renverser
+renverser(반과거)_renversais/renversais/renversait/renversions/renversiez/renversaient,"(반과거) 엎지르다, 쓰러뜨리다","Avant, il renversait.",renverser
+renverser(미래)_renverserai/renverseras/renversera/renverserons/renverserez/renverseront,"(미래) 엎지르다, 쓰러뜨리다","Demain, il renversera.",renverser
+contenir_contiens/contiens/contient/contenons/contenez/contiennent/contenu,"들어있다, 포함하다",Cette boîte contient des livres.,contenir
+contenir(반과거)_contenais/contenais/contenait/contenions/conteniez/contenaient,"(반과거) 들어있다, 포함하다","Avant, il contenait.",contenir
+contenir(미래)_contiendrai/contiendras/contiendra/contiendrons/contiendrez/contiendront,"(미래) 들어있다, 포함하다","Demain, il contiendra.",contenir
+stationner_stationne/stationnes/stationne/stationnons/stationnez/stationnent/stationné,주차하다,On ne peut pas stationner ici.,stationner
+stationner(반과거)_stationnais/stationnais/stationnait/stationnions/stationniez/stationnaient,(반과거) 주차하다,"Avant, il stationnait.",stationner
+stationner(미래)_stationnerai/stationneras/stationnera/stationnerons/stationnerez/stationneront,(미래) 주차하다,"Demain, il stationnera.",stationner
+aimable,친절한,Elle est très aimable.,
+émouvant / émouvante,감동적인,C'est une histoire émouvante.,
+touchant,감동적인,C'était un moment touchant.,
+adorable,사랑스러운,Ce chat est adorable.,
+insupportable,참을 수 없는,Cette chaleur est insupportable.,
+furieux / furieuse,화난,Il est furieux contre moi.,
+fâché,화난,Elle est fâchée avec moi.,
+coincé,"꼼짝 못하는, 갇힌",Je suis coincé dans les embouteillages.,
+fatigant,피곤하게 하는,Ce travail est fatigant.,
+vivant,살아 있는,Il est toujours vivant.,
+discret / discrète,"조용한, 신중한",Il est très discret.,
+bavard / bavarde,수다스러운,Ma sœur est bavarde.,
+curieux / curieuse,호기심이 많은,Les enfants sont curieux.,
+sociable,사교적인,Il est très sociable.,
+inclus,포함된,Le petit-déjeuner est inclus.,
+à pied,걸어서,Je vais au travail à pied.,
+coloré,화려한,Elle porte des vêtements colorés.,
+raffiné,세련된,C'est un goût raffiné.,
+ordinaire,평범한,C'est une journée ordinaire.,
+banal / banale,평범한,C'est un peu banal.,
+réel / réelle,진짜의,C'est une histoire réelle.,
+trompé,"속은, 틀린",Il se sent trompé.,
+crevé,펑크난,Mon pneu est crevé.,
+gourmand / gourmande,"잘 먹는, 식탐 있는",Il est très gourmand.,
+copieux / copieuse,푸짐한,Le repas était copieux.,
+mamie,할머니,Mamie me raconte une histoire.,
+mariée,신부,La mariée est très belle.,
+directeur / directrice,"원장, 이사",Le directeur arrive.,
+réceptionniste,프론트 직원,La réceptionniste m'a aidé.,
+pompier,소방관,Le pompier a éteint le feu.,
+facteur,우편배달부,Le facteur apporte le courrier.,
+peuple,"사람들, 민족",Le peuple français.,
+épaule,어깨,J'ai mal à l'épaule.,
+larmes,눈물,Elle a des larmes aux yeux.,
+merde,"똥 (비속어: 이런, 젠장)","Merde, j'ai oublié mon sac !",
+ailes,날개,L'oiseau a de belles ailes.,
+sandales,샌들,Je porte des sandales en été.,
+alliance,결혼반지,Il porte son alliance.,
+outil,"공구, 도구",J'ai besoin d'un outil.,
+clavier,키보드,Mon clavier ne fonctionne plus.,
+appareil photo,카메라,J'ai pris mon appareil photo.,
+trottinette,킥보드,Il va au travail en trottinette.,
+volant,운전대,Elle tient le volant.,
+pneu,타이어,Le pneu est crevé.,
+coffre,트렁크,Mets les valises dans le coffre.,
+panneau,표지판,Regarde le panneau.,
+pinceau,붓,Elle peint avec un pinceau.,
+tissu,"천, 원단",Ce tissu est très doux.,
+aliment,"음식, 식품",C'est un aliment sain.,
+poivre,후추,Ajoute du sel et du poivre.,
+huile,기름,Verse un peu d'huile.,
+alcool,"술, 알코올",Il ne boit pas d'alcool.,
+poulet,닭고기,On mange du poulet ce soir.,
+oreiller,베개,Mon oreiller est trop mou.,
+rideau,커튼,Ferme le rideau.,
+aspirateur,청소기,Je passe l'aspirateur.,
+graine,씨앗,Il plante une graine.,
+singe,원숭이,Le singe mange une banane.,
+perroquet,앵무새,Le perroquet répète tout.,
+mairie,시청,La mairie est fermée le dimanche.,
+banc,벤치,On s'assoit sur le banc.,
+bâtiment,건물,Ce bâtiment est très haut.,
+épicerie,식료품점,Je vais à l'épicerie.,
+escalier,계단,Je monte l'escalier.,
+entrée,입구,L'entrée est par ici.,
+intérieur,내부,L'intérieur de la maison est joli.,
+honnêteté,정직,J'apprécie ton honnêteté.,
+joie,기쁨,Elle pleure de joie.,
+indice,힌트,Donne-moi un indice.,
+futur,미래,Personne ne connaît le futur.,
+vérité,진실,Dis-moi la vérité.,
+bêtise,바보 같은 짓,Ne fais pas de bêtise.,
+interdiction,금지,C'est une interdiction stricte.,
+connexion,연결,J'ai une bonne connexion internet.,
+grève,파업,Il y a une grève des trains.,
+tâche,"업무, 일",J'ai une tâche difficile.,
+escalade,등반,On fait de l'escalade ce week-end.,
+discours,연설,Il a fait un long discours.,
+niveau,"레벨, 수준",Mon niveau de français s'améliore.,
+accès,"이용, 접근",L'accès est interdit.,
+créneau,"예약 시간대, 평행주차",J'ai trouvé un créneau pour me garer.,
+cérémonie,의식,La cérémonie commence à midi.,
+bleu clair,연한 파란색,Le ciel est bleu clair.,
+lendemain,다음날,"Le lendemain, il pleuvait.",
+avant-hier,그저께,Je l'ai vu avant-hier.,
+ça coûte combien,얼마예요,Ça coûte combien ?,
+à cause de,~때문에,Il est en retard à cause de la pluie.,
+exactement,정확히,C'est exactement ce que je voulais.,
+absolument,"당연히, 반드시",Il faut absolument venir.,
+rarement,드물게,Il pleut rarement ici.,
+doucement,"부드럽게, 천천히",Parle doucement.,
+dessus,그 위에,Mets le livre dessus.,
+toi-même,너 자신,Fais-le toi-même.,
+retourner_retourne/retournes/retourne/retournons/retournez/retournent/retourné,(예전에 있던 곳으로) 돌아가다,Je retourne en France.,retourner
+retourner(반과거)_retournais/retournais/retournait/retournions/retourniez/retournaient,(반과거) (예전에 있던 곳으로) 돌아가다,Je retournais en France.,retourner
+retourner(미래)_retournerai/retourneras/retournera/retournerons/retournerez/retourneront,(미래) (예전에 있던 곳으로) 돌아가다,Je retournerai en France.,retourner
+exister_existe/existes/existe/existons/existez/existent/existé,존재하다,Ce problème existe encore.,exister
+exister(반과거)_existais/existais/existait/existions/existiez/existaient,(반과거) 존재하다,Ce problème existait encore.,exister
+exister(미래)_existerai/existeras/existera/existerons/existerez/existeront,(미래) 존재하다,"Demain, il existera.",exister
+souhaiter_souhaite/souhaites/souhaite/souhaitons/souhaitez/souhaitent/souhaité,"바라다, 기원하다",Je te souhaite bon courage.,souhaiter
+souhaiter(반과거)_souhaitais/souhaitais/souhaitait/souhaitions/souhaitiez/souhaitaient,"(반과거) 바라다, 기원하다",Je te souhaitais bon courage.,souhaiter
+souhaiter(미래)_souhaiterai/souhaiteras/souhaitera/souhaiterons/souhaiterez/souhaiteront,"(미래) 바라다, 기원하다","Demain, il souhaitera.",souhaiter
+disparaître_disparais/disparais/disparaît/disparaissons/disparaissez/disparaissent/disparu,사라지다,Il a disparu soudainement.,disparaître
+disparaître(반과거)_disparaissais/disparaissais/disparaissait/disparaissions/disparaissiez/disparaissaient,(반과거) 사라지다,"Avant, il disparaissait.",disparaître
+disparaître(미래)_disparaîtrai/disparaîtras/disparaîtra/disparaîtrons/disparaîtrez/disparaîtront,(미래) 사라지다,"Demain, il disparaîtra.",disparaître
+hésiter_hésite/hésites/hésite/hésitons/hésitez/hésitent/hésité,망설이다,J'hésite encore.,hésiter
+hésiter(반과거)_hésitais/hésitais/hésitait/hésitions/hésitiez/hésitaient,(반과거) 망설이다,J'hésitais encore.,hésiter
+hésiter(미래)_hésiterai/hésiteras/hésitera/hésiterons/hésiterez/hésiteront,(미래) 망설이다,J'hésiterai encore.,hésiter
+expliquer_explique/expliques/explique/expliquons/expliquez/expliquent/expliqué,설명하다,Il explique la règle.,expliquer
+expliquer(반과거)_expliquais/expliquais/expliquait/expliquions/expliquiez/expliquaient,(반과거) 설명하다,Il expliquait la règle.,expliquer
+expliquer(미래)_expliquerai/expliqueras/expliquera/expliquerons/expliquerez/expliqueront,(미래) 설명하다,Il expliquera la règle.,expliquer
+présenter_présente/présentes/présente/présentons/présentez/présentent/présenté,소개하다,Je te présente mon ami.,présenter
+présenter(반과거)_présentais/présentais/présentait/présentions/présentiez/présentaient,(반과거) 소개하다,Je te présentais mon ami.,présenter
+présenter(미래)_présenterai/présenteras/présentera/présenterons/présenterez/présenteront,(미래) 소개하다,"Demain, il présentera.",présenter
+enregistrer_enregistre/enregistres/enregistre/enregistrons/enregistrez/enregistrent/enregistré,"저장하다, 녹음하다",J'enregistre la chanson.,enregistrer
+enregistrer(반과거)_enregistrais/enregistrais/enregistrait/enregistrions/enregistriez/enregistraient,"(반과거) 저장하다, 녹음하다",J'enregistrais la chanson.,enregistrer
+enregistrer(미래)_enregistrerai/enregistreras/enregistrera/enregistrerons/enregistrerez/enregistreront,"(미래) 저장하다, 녹음하다",J'enregistrerai la chanson.,enregistrer
+frapper_frappe/frappes/frappe/frappons/frappez/frappent/frappé,"두드리다, 치다",Quelqu'un frappe à la porte.,frapper
+frapper(반과거)_frappais/frappais/frappait/frappions/frappiez/frappaient,"(반과거) 두드리다, 치다",Quelqu'un frappait à la porte.,frapper
+frapper(미래)_frapperai/frapperas/frappera/frapperons/frapperez/frapperont,"(미래) 두드리다, 치다","Demain, il frappera.",frapper
+décevant / décevante,실망스러운,Ce film est décevant.,
+courageux / courageuse,용감한,Il est très courageux.,
+excitant,흥미진진한,C'est un jeu excitant.,
+disponible,"시간이 되는, 이용 가능한",Tu es disponible ce soir ?,
+utile,유용한,Ce conseil est utile.,
+inutile,쓸모없는,C'est complètement inutile.,
+debout,서 있는,Reste debout.,
+rond / ronde,둥근,La table est ronde.,
+confirmé,확인된,Le rendez-vous est confirmé.,
+belle-mère,"시어머니, 장모",Ma belle-mère arrive demain.,
+beau-père,"시아버지, 장인",Mon beau-père est gentil.,
+stagiaire,인턴,Elle est stagiaire dans cette entreprise.,
+pharmacien / pharmacienne,약사,Le pharmacien m'a conseillé ce médicament.,
+bras,팔,J'ai mal au bras.,
+carie,충치,J'ai une carie.,
+rhume,감기,J'ai attrapé un rhume.,
+tenue,복장,J'aime bien ta tenue.,
+trésor,보물,Ils cherchent un trésor.,
+logiciel,소프트웨어,Ce logiciel est très pratique.,
+siège,좌석,Prends un siège.,
+roue,바퀴,La roue est crevée.,
+valeur,가치,Ça a beaucoup de valeur pour moi.,
+monnaie,잔돈,Tu as de la monnaie ?,
+gaufre,와플,On mange une gaufre ?,
+casserole,냄비,Mets de l'eau dans la casserole.,
+drap,시트,Change les draps.,
+bâton,막대기,Le chien rapporte le bâton.,
+brouillard,안개,Il y a du brouillard ce matin.,
+herbe,"풀, 잔디",On s'assoit sur l'herbe.,
+stand,"노점, 부스",Il y a un stand de crêpes.,
+brocante,벼룩시장,On va à la brocante samedi.,
+cantine,"급식실, 구내식당",Je mange à la cantine.,
+usine,공장,Il travaille dans une usine.,
+auberge de jeunesse,유스호스텔,On dort dans une auberge de jeunesse.,
+terrasse,테라스,On mange en terrasse.,
+plafond,천장,Le plafond est haut.,
+emmerde,골칫거리 (비속어),Quelle emmerde !,
+erreur,실수,C'est une erreur.,
+mémoire,기억(력),Il a une bonne mémoire.,
+ordonnance,처방전,Le docteur me donne une ordonnance.,
+horaire,"시간표, 일정",Quel est ton horaire ?,
+entretien,"면접, 유지보수",J'ai un entretien demain.,
+effet,효과,Ça a un bon effet.,
+commentaire,댓글,Laisse un commentaire.,
+mauve,보라색,Elle porte une robe mauve.,
+date,날짜,Quelle est la date aujourd'hui ?,
+donc,그래서,"Je suis fatigué, donc je vais dormir.",
+franchement,솔직히,"Franchement, je ne sais pas.",
+facilement,쉽게,Il apprend facilement.,
+actuellement,"현재, 지금","Actuellement, je travaille à Paris.",
+qu'en,~에 대해서는 (qu'en penses-tu?),Qu'en penses-tu ?,
+rêve,꿈,J'ai fait un rêve bizarre.,
+rêver_rêve/rêves/rêve/rêvons/rêvez/rêvent/rêvé,꿈꾸다,Je rêve de toi.,rêver
+rêver(반과거)_rêvais/rêvais/rêvait/rêvions/rêviez/rêvaient,(반과거) 꿈꾸다,Je rêvais de toi.,rêver
+rêver(미래)_rêverai/rêveras/rêvera/rêverons/rêverez/rêveront,(미래) 꿈꾸다,Je rêverai de toi.,rêver
+il pleuvra,비가 올 것이다,Il pleuvra demain.,pleuvoir
+il neigera,눈이 올 것이다,Il neigera ce week-end.,neiger
+juif / juive,"유대인의, 유대인",Il est juif. / Elle est juive.,
+ennuyer_ennuie/ennuies/ennuie/ennuyons/ennuyez/ennuient/ennuyé,(남을) 지루/귀찮게 하다,Ce film m'ennuie.,ennuyer
+ennuyer(반과거)_ennuyais/ennuyais/ennuyait/ennuyions/ennuyiez/ennuyaient,(반과거) (남을) 지루/귀찮게 하다,Ce film m'ennuyait.,ennuyer
+ennuyer(미래)_ennuierai/ennuieras/ennuiera/ennuierons/ennuierez/ennuieront,(미래) (남을) 지루/귀찮게 하다,Ce film m'ennuiera.,ennuyer
+s'ennuyer_je m'ennuie/tu t'ennuies/il s'ennuie/nous nous ennuyons/vous vous ennuyez/ils s'ennuient/ennuyé,"심심하다, 지루해하다",Je m'ennuie.,s'ennuyer
+s'ennuyer(반과거)_m'ennuyais/t'ennuyais/s'ennuyait/nous ennuyions/vous ennuyiez/s'ennuyaient,"(반과거) 심심하다, 지루해하다",Je m'ennuyais.,s'ennuyer
+s'ennuyer(미래)_m'ennuierai/t'ennuieras/s'ennuiera/nous ennuierons/vous ennuierez/s'ennuieront,"(미래) 심심하다, 지루해하다",Je m'ennuierai.,s'ennuyer
+se coucher_je me couche/tu te couches/il se couche/nous nous couchons/vous vous couchez/ils se couchent/couché,"자다, 잠자리에 들다",Je me couche tôt.,se coucher
+se coucher(반과거)_me couchais/te couchais/se couchait/nous couchions/vous couchiez/se couchaient,"(반과거) 자다, 잠자리에 들다",Je me couchais tôt.,se coucher
+se coucher(미래)_me coucherai/te coucheras/se couchera/nous coucherons/vous coucherez/se coucheront,"(미래) 자다, 잠자리에 들다",Je me coucherai tôt.,se coucher
+être au courant de,"~에 대해 알고 있다, 정통하다",Elle n'est pas au courant de l'activité.,être
+amener_amène/amènes/amène/amenons/amenez/amènent/amené,데리고 오다,Amène ton ami à la fête.,amener
+amener(반과거)_amenais/amenais/amenait/amenions/ameniez/amenaient,(반과거) 데리고 오다,"Avant, il amenait.",amener
+amener(미래)_amènerai/amèneras/amènera/amènerons/amènerez/amèneront,(미래) 데리고 오다,"Demain, il amènera.",amener
+peigner_peigne/peignes/peigne/peignons/peignez/peignent/peigné,(머리를) 빗질하다,Elle peigne ses cheveux.,peigner
+peigner(반과거)_peignais/peignais/peignait/peignions/peigniez/peignaient,(반과거) (머리를) 빗질하다,Elle peignait ses cheveux.,peigner
+peigner(미래)_peignerai/peigneras/peignera/peignerons/peignerez/peigneront,(미래) (머리를) 빗질하다,Elle peignera ses cheveux.,peigner

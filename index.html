@@ -186,6 +186,23 @@
     justify-content: center;
   }
   .tts-btn:hover { background: var(--accent-soft); }
+  .verb-table-btn {
+    position: absolute;
+    top: 56px;
+    right: 12px;
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--accent);
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .verb-table-btn:hover { background: var(--accent-soft); }
   .status-badge {
     position: absolute;
     top: 12px;
@@ -473,6 +490,71 @@
   }
   .dialog-actions button:hover { transform: translateY(-1px); }
 
+  /* VERB TABLE DIALOG */
+  dialog#verb-table-dialog {
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 0;
+    background: var(--surface);
+    color: var(--text);
+    box-shadow: 0 10px 40px rgba(0,0,0,0.25);
+    max-width: 480px;
+    width: calc(100% - 32px);
+  }
+  dialog#verb-table-dialog::backdrop {
+    background: rgba(0,0,0,0.4);
+    backdrop-filter: blur(2px);
+  }
+  #verb-table-body {
+    padding: 22px 22px 8px;
+  }
+  #verb-table-body h2 {
+    margin: 0 0 14px;
+    font-size: 19px;
+    font-weight: 600;
+    color: var(--accent);
+  }
+  .verb-table-wrap { overflow-x: auto; }
+  table.verb-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+  }
+  table.verb-table th, table.verb-table td {
+    padding: 8px 10px;
+    border-bottom: 1px solid var(--border);
+    text-align: left;
+    white-space: nowrap;
+  }
+  table.verb-table th {
+    color: var(--muted);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    font-weight: 600;
+  }
+  table.verb-table td.person { color: var(--muted); font-weight: 500; }
+  .verb-table-pp {
+    margin-top: 14px;
+    font-size: 13px;
+    color: var(--muted);
+  }
+  .verb-table-actions {
+    display: flex;
+    justify-content: flex-end;
+    padding: 14px 22px 20px;
+  }
+  .verb-table-actions button {
+    padding: 8px 16px;
+    border-radius: 7px;
+    font-size: 14px;
+    cursor: pointer;
+    font-family: inherit;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text);
+  }
+
   .hidden { display: none !important; }
   kbd {
     font-family: ui-monospace, SF Mono, Menlo, monospace;
@@ -542,6 +624,7 @@
     <div class="card" id="flashcard">
       <span class="status-badge" id="card-status">새 카드</span>
       <button class="tts-btn" id="tts-btn" title="발음 듣기 (P)">🔊</button>
+      <button class="verb-table-btn hidden" id="verb-table-btn" title="동사 변화표 보기">📋</button>
       <div class="front-text" id="card-front"></div>
       <div class="back-text hidden" id="card-back"></div>
       <div class="example-text hidden" id="card-example"></div>
@@ -639,6 +722,14 @@
   </form>
 </dialog>
 
+<!-- VERB CONJUGATION TABLE DIALOG -->
+<dialog id="verb-table-dialog">
+  <div id="verb-table-body"></div>
+  <div class="verb-table-actions">
+    <button type="button" id="close-verb-table-btn">닫기</button>
+  </div>
+</dialog>
+
 <script>
 'use strict';
 
@@ -646,7 +737,8 @@ const STORE_KEY = 'wordbook.v1';
 const DATA_KEY = 'wordbook.csv.v2';   // bumped because schema changed (3 columns)
 const SETTINGS_KEY = 'wordbook.settings.v1';
 
-let allCards = [];          // [{front, back, example}]
+let allCards = [];          // [{front, back, example, infinitive}]
+let infinitiveGroups = new Map(); // infinitive -> [{tense, personForms, pp}]
 let filteredCards = [];
 let cardIdx = 0;
 let currentMode = 'flashcard';
@@ -696,19 +788,77 @@ function loadCards(csvText) {
   allCards = data.map(r => ({
     front: r[0].trim(),
     back: r[1].trim(),
-    example: (r[2] || '').trim()
+    example: (r[2] || '').trim(),
+    infinitive: (r[3] || '').trim()
   }));
+  buildInfinitiveGroups();
 }
 
 function csvField(s) {
   return /[,"\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
 }
 function serializeCards() {
-  const lines = ['french,korean,example'];
+  const lines = ['french,korean,example,infinitive'];
   for (const c of allCards) {
-    lines.push(`${csvField(c.front)},${csvField(c.back)},${csvField(c.example || '')}`);
+    lines.push(`${csvField(c.front)},${csvField(c.back)},${csvField(c.example || '')},${csvField(c.infinitive || '')}`);
   }
   return lines.join('\n');
+}
+
+// ============ VERB CONJUGATION TABLE ============
+// front 필드가 "동사원형_je/tu/il/nous/vous/ils/과거분사" (현재)
+// 또는 "동사원형(반과거)_je/tu/il/nous/vous/ils" / "동사원형(미래)_..." 패턴인 카드들을
+// 같은 infinitive끼리 묶어서 표로 보여준다.
+function buildInfinitiveGroups() {
+  infinitiveGroups = new Map();
+  for (const c of allCards) {
+    if (!c.infinitive || !c.front.includes('_') || !c.front.includes('/')) continue;
+    const us = c.front.indexOf('_');
+    const head = c.front.slice(0, us);
+    const forms = c.front.slice(us + 1).split('/');
+    let tense = '현재';
+    if (head.includes('(반과거)')) tense = '반과거';
+    else if (head.includes('(미래)')) tense = '미래';
+    let pp = '', personForms = forms;
+    if (tense === '현재' && forms.length === 7) {
+      pp = forms[6];
+      personForms = forms.slice(0, 6);
+    }
+    if (personForms.length !== 6) continue;
+    // 재귀동사 현재형만 "je me lève"처럼 주어가 이미 붙어 있어 반과거/미래("me levais")와
+    // 표기가 안 맞으므로, 현재형에서만 주어를 떼어 통일한다.
+    if (tense === '현재') {
+      const SUBJ_WORDS = ['je', 'tu', 'il', 'nous', 'vous', 'ils'];
+      personForms = personForms.map((f, i) => f.replace(new RegExp('^' + SUBJ_WORDS[i] + '\\s+', 'i'), ''));
+    }
+    if (!infinitiveGroups.has(c.infinitive)) infinitiveGroups.set(c.infinitive, []);
+    infinitiveGroups.get(c.infinitive).push({ tense, personForms, pp });
+  }
+}
+function openVerbTable(infinitive) {
+  const group = infinitiveGroups.get(infinitive);
+  if (!group || !group.length) return;
+  const byTense = {};
+  let pp = '';
+  for (const g of group) {
+    byTense[g.tense] = g.personForms;
+    if (g.pp) pp = g.pp;
+  }
+  const order = ['현재', '반과거', '미래'].filter(t => byTense[t]);
+  const persons = ['je', 'tu', 'il/elle/on', 'nous', 'vous', 'ils/elles'];
+  let html = `<h2>${escapeHtml(infinitive)}</h2>`;
+  html += '<div class="verb-table-wrap"><table class="verb-table"><thead><tr><th></th>';
+  for (const t of order) html += `<th>${t}</th>`;
+  html += '</tr></thead><tbody>';
+  for (let i = 0; i < 6; i++) {
+    html += `<tr><td class="person">${persons[i]}</td>`;
+    for (const t of order) html += `<td>${escapeHtml(byTense[t][i] || '')}</td>`;
+    html += '</tr>';
+  }
+  html += '</tbody></table></div>';
+  if (pp) html += `<div class="verb-table-pp">과거분사: <b>${escapeHtml(pp)}</b></div>`;
+  el('verb-table-body').innerHTML = html;
+  el('verb-table-dialog').showModal();
 }
 
 // ============ STORAGE ============
@@ -796,6 +946,8 @@ function showFlashcard() {
   const badge = el('card-status');
   badge.className = 'status-badge ' + (status === 'new' ? '' : status);
   badge.textContent = status === 'mastered' ? '외웠음' : status === 'learning' ? '학습 중' : '새 카드';
+  const group = c.infinitive ? infinitiveGroups.get(c.infinitive) : null;
+  el('verb-table-btn').classList.toggle('hidden', !group || !group.length);
   updateStats();
 }
 function flipCard() {
@@ -1127,8 +1279,9 @@ function submitAddCard() {
     allCards[existingIdx].back = back;
     if (example) allCards[existingIdx].example = example;
   } else {
-    allCards.push({ front, back, example });
+    allCards.push({ front, back, example, infinitive: '' });
   }
+  buildInfinitiveGroups();
   localStorage.setItem(DATA_KEY, serializeCards());
   applyFilter();
   updateStats();
@@ -1157,7 +1310,8 @@ async function handleAddCsv(file) {
   const newCards = data.map(r => ({
     front: r[0].trim(),
     back: r[1].trim(),
-    example: (r[2] || '').trim()
+    example: (r[2] || '').trim(),
+    infinitive: (r[3] || '').trim()
   })).filter(c => c.front && c.back);
 
   if (!newCards.length) {
@@ -1198,6 +1352,7 @@ async function handleAddCsv(file) {
     alert(`전체 카드를 ${newCards.length}개로 교체했습니다.`);
   }
 
+  buildInfinitiveGroups();
   localStorage.setItem(DATA_KEY, serializeCards());
   applyFilter();
   updateStats();
@@ -1323,6 +1478,12 @@ async function init() {
     if (!currentFlipState) return;
     speak(currentFlipState.card.front);
   });
+  el('verb-table-btn').addEventListener('click', (e) => {
+    e.stopPropagation();
+    if (!currentFlipState) return;
+    openVerbTable(currentFlipState.card.infinitive);
+  });
+  el('close-verb-table-btn').addEventListener('click', () => el('verb-table-dialog').close());
   el('mark-learning').addEventListener('click', () => {
     if (!filteredCards.length) return;
     setStatus(filteredCards[cardIdx].front, 'learning');
